@@ -1,0 +1,3903 @@
+{
+    "version": 3,
+    "heroes": [
+        {
+            "id": 1,
+            "name": "Agudo",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "agudo.png"
+        },
+        {
+            "id": 2,
+            "name": "Alessio",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "alessio.png"
+        },
+        {
+            "id": 3,
+            "name": "Allain",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter"
+            ],
+            "image_file": "allain.png"
+        },
+        {
+            "id": 4,
+            "name": "Angela",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "angela.png"
+        },
+        {
+            "id": 5,
+            "name": "Ao'yin",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "aoyin.png"
+        },
+        {
+            "id": 6,
+            "name": "Arke",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "arke.png"
+        },
+        {
+            "id": 7,
+            "name": "Arli",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "arli.png"
+        },
+        {
+            "id": 8,
+            "name": "Arthur",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Tank",
+                "Assassin"
+            ],
+            "image_file": "arthur.png"
+        },
+        {
+            "id": 9,
+            "name": "Ata",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "ata.png"
+        },
+        {
+            "id": 10,
+            "name": "Athena",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin",
+                "Fighter"
+            ],
+            "image_file": "athena.png"
+        },
+        {
+            "id": 11,
+            "name": "Augran",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "augran.png"
+        },
+        {
+            "id": 12,
+            "name": "Bai Qi",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank"
+            ],
+            "image_file": "bai_qi.png"
+        },
+        {
+            "id": 13,
+            "name": "Biron",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter"
+            ],
+            "image_file": "biron.png"
+        },
+        {
+            "id": 14,
+            "name": "Butterfly",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "butterfly.png"
+        },
+        {
+            "id": 15,
+            "name": "Cai Yan",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "cai_yan.png"
+        },
+        {
+            "id": 16,
+            "name": "Chano",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman",
+                "Assassin"
+            ],
+            "image_file": "chano.png"
+        },
+        {
+            "id": 17,
+            "name": "Charlotte",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "charlotte.png"
+        },
+        {
+            "id": 18,
+            "name": "Chicha",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman",
+                "Assassin",
+                "Tank"
+            ],
+            "image_file": "chicha.png"
+        },
+        {
+            "id": 19,
+            "name": "Cirrus",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "cirrus.png"
+        },
+        {
+            "id": 20,
+            "name": "Consort Yu",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "consort_yu.png"
+        },
+        {
+            "id": 21,
+            "name": "Da Qiao",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Support"
+            ],
+            "image_file": "da_qiao.png"
+        },
+        {
+            "id": 22,
+            "name": "Daji",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "daji.png"
+        },
+        {
+            "id": 23,
+            "name": "Devara",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Tank"
+            ],
+            "image_file": "devara.png"
+        },
+        {
+            "id": 24,
+            "name": "Dharma",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "dharma.png"
+        },
+        {
+            "id": 25,
+            "name": "Di Renjie",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "di_renjie.png"
+        },
+        {
+            "id": 26,
+            "name": "Dian Wei",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin",
+                "Fighter"
+            ],
+            "image_file": "dian_wei.png"
+        },
+        {
+            "id": 27,
+            "name": "Diaochan",
+            "role": "Mage",
+            "damageType": "True",
+            "roles": [
+                "Mage",
+                "Fighter"
+            ],
+            "image_file": "diaochan.png"
+        },
+        {
+            "id": 28,
+            "name": "Dolia",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "dolia.png"
+        },
+        {
+            "id": 29,
+            "name": "Donghuang",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Support"
+            ],
+            "image_file": "donghuang.png"
+        },
+        {
+            "id": 30,
+            "name": "Dr Bian",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "dr_bian.png"
+        },
+        {
+            "id": 31,
+            "name": "Dun",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Fighter",
+                "Support"
+            ],
+            "image_file": "dun.png"
+        },
+        {
+            "id": 32,
+            "name": "Dyadia",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "dyadia.png"
+        },
+        {
+            "id": 33,
+            "name": "Erin",
+            "role": "Marksman",
+            "damageType": "Magic",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "erin.png"
+        },
+        {
+            "id": 34,
+            "name": "Fang",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman",
+                "Assassin"
+            ],
+            "image_file": "fang.png"
+        },
+        {
+            "id": 35,
+            "name": "Fatih",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "fatih.png"
+        },
+        {
+            "id": 36,
+            "name": "Feyd",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "feyd.png"
+        },
+        {
+            "id": 37,
+            "name": "Flowborn (Mage)",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "flowborn_mage.png"
+        },
+        {
+            "id": 38,
+            "name": "Flowborn (Marksman)",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "flowborn_marksman.png"
+        },
+        {
+            "id": 39,
+            "name": "Flowborn (Tank)",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank"
+            ],
+            "image_file": "flowborn_tank.png"
+        },
+        {
+            "id": 40,
+            "name": "Fuzi",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter"
+            ],
+            "image_file": "fuzi.png"
+        },
+        {
+            "id": 41,
+            "name": "Gan & Mo",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "gan__mo.png"
+        },
+        {
+            "id": 42,
+            "name": "Gao",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "gao.png"
+        },
+        {
+            "id": 43,
+            "name": "Gao Changgong",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "gao_changgong.png"
+        },
+        {
+            "id": 44,
+            "name": "Garo",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "garo.png"
+        },
+        {
+            "id": 45,
+            "name": "Garuda",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "garuda.png"
+        },
+        {
+            "id": 46,
+            "name": "Guan Yu",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter"
+            ],
+            "image_file": "guan_yu.png"
+        },
+        {
+            "id": 47,
+            "name": "Guiguzi",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "guiguzi.png"
+        },
+        {
+            "id": 48,
+            "name": "Han Xin",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "han_xin.png"
+        },
+        {
+            "id": 49,
+            "name": "Haya",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "haya.png"
+        },
+        {
+            "id": 50,
+            "name": "Heino",
+            "role": "Fighter",
+            "damageType": "Magic",
+            "roles": [
+                "Fighter",
+                "Mage"
+            ],
+            "image_file": "heino.png"
+        },
+        {
+            "id": 51,
+            "name": "Hou Yi",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "hou_yi.png"
+        },
+        {
+            "id": 52,
+            "name": "Huang Zhong",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "huang_zhong.png"
+        },
+        {
+            "id": 53,
+            "name": "Jing",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "jing.png"
+        },
+        {
+            "id": 54,
+            "name": "Kaizer",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Tank",
+                "Assassin"
+            ],
+            "image_file": "kaizer.png"
+        },
+        {
+            "id": 55,
+            "name": "Kongming",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Assassin"
+            ],
+            "image_file": "kongming.png"
+        },
+        {
+            "id": 56,
+            "name": "Kui",
+            "role": "Tank",
+            "damageType": "Magic",
+            "roles": [
+                "Tank",
+                "Support"
+            ],
+            "image_file": "kui.png"
+        },
+        {
+            "id": 57,
+            "name": "Lady Sun",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "lady_sun.png"
+        },
+        {
+            "id": 58,
+            "name": "Lady Zhen",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "lady_zhen.png"
+        },
+        {
+            "id": 59,
+            "name": "Lam",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "lam.png"
+        },
+        {
+            "id": 60,
+            "name": "Lapulapu",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Support"
+            ],
+            "image_file": "lapulapu.png"
+        },
+        {
+            "id": 61,
+            "name": "Li Bai",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "li_bai.png"
+        },
+        {
+            "id": 62,
+            "name": "Li Xin",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter"
+            ],
+            "image_file": "li_xin.png"
+        },
+        {
+            "id": 63,
+            "name": "Lian Po",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Fighter",
+                "Support"
+            ],
+            "image_file": "lian_po.png"
+        },
+        {
+            "id": 64,
+            "name": "Liang",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "liang.png"
+        },
+        {
+            "id": 65,
+            "name": "Liu Bang",
+            "role": "Tank",
+            "damageType": "Magic",
+            "roles": [
+                "Tank",
+                "Fighter",
+                "Support"
+            ],
+            "image_file": "liu_bang.png"
+        },
+        {
+            "id": 66,
+            "name": "Liu Bei",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin",
+                "Fighter"
+            ],
+            "image_file": "liu_bei.png"
+        },
+        {
+            "id": 67,
+            "name": "Liu Shan",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Support"
+            ],
+            "image_file": "liu_shan.png"
+        },
+        {
+            "id": 68,
+            "name": "Lu Bu",
+            "role": "Tank",
+            "damageType": "True",
+            "roles": [
+                "Tank",
+                "Fighter"
+            ],
+            "image_file": "lu_bu.png"
+        },
+        {
+            "id": 69,
+            "name": "Luara",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "luara.png"
+        },
+        {
+            "id": 70,
+            "name": "Luban No.7",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "luban_no7.png"
+        },
+        {
+            "id": 71,
+            "name": "Luna",
+            "role": "Assassin",
+            "damageType": "Magic",
+            "roles": [
+                "Assassin",
+                "Mage"
+            ],
+            "image_file": "luna.png"
+        },
+        {
+            "id": 72,
+            "name": "Mai Shiranui",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "mai_shiranui.png"
+        },
+        {
+            "id": 73,
+            "name": "Marco Polo",
+            "role": "Marksman",
+            "damageType": "True",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "marco_polo.png"
+        },
+        {
+            "id": 74,
+            "name": "Mayene",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "mayene.png"
+        },
+        {
+            "id": 75,
+            "name": "Meng Ya",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "meng_ya.png"
+        },
+        {
+            "id": 76,
+            "name": "Menki",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Tank",
+                "Assassin"
+            ],
+            "image_file": "menki.png"
+        },
+        {
+            "id": 77,
+            "name": "Mi Yue",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "mi_yue.png"
+        },
+        {
+            "id": 78,
+            "name": "Milady",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "milady.png"
+        },
+        {
+            "id": 79,
+            "name": "Ming",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "ming.png"
+        },
+        {
+            "id": 80,
+            "name": "Mozi",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Support"
+            ],
+            "image_file": "mozi.png"
+        },
+        {
+            "id": 81,
+            "name": "Mulan",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "mulan.png"
+        },
+        {
+            "id": 82,
+            "name": "Musashi",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "musashi.png"
+        },
+        {
+            "id": 83,
+            "name": "Nakoruru",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "nakoruru.png"
+        },
+        {
+            "id": 84,
+            "name": "Nezha",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter"
+            ],
+            "image_file": "nezha.png"
+        },
+        {
+            "id": 85,
+            "name": "Nuwa",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "nuwa.png"
+        },
+        {
+            "id": 86,
+            "name": "Pei",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "pei.png"
+        },
+        {
+            "id": 87,
+            "name": "Sakeer",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Support"
+            ],
+            "image_file": "sakeer.png"
+        },
+        {
+            "id": 88,
+            "name": "Shangguan",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "shangguan.png"
+        },
+        {
+            "id": 89,
+            "name": "Shi",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "shi.png"
+        },
+        {
+            "id": 90,
+            "name": "Shouyue",
+            "role": "Marksman",
+            "damageType": "Physical",
+            "roles": [
+                "Marksman"
+            ],
+            "image_file": "shouyue.png"
+        },
+        {
+            "id": 91,
+            "name": "Sima Yi",
+            "role": "Assassin",
+            "damageType": "Magic",
+            "roles": [
+                "Assassin",
+                "Mage"
+            ],
+            "image_file": "sima_yi.png"
+        },
+        {
+            "id": 92,
+            "name": "Sun Bin",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "sun_bin.png"
+        },
+        {
+            "id": 93,
+            "name": "Sun Ce",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Tank",
+                "Assassin"
+            ],
+            "image_file": "sun_ce.png"
+        },
+        {
+            "id": 94,
+            "name": "Ukyo Tachibana",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "ukyo_tachibana.png"
+        },
+        {
+            "id": 95,
+            "name": "Umbrosa",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "umbrosa.png"
+        },
+        {
+            "id": 96,
+            "name": "Wang Zhaojun",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "wang_zhaojun.png"
+        },
+        {
+            "id": 97,
+            "name": "Wukong",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "wukong.png"
+        },
+        {
+            "id": 98,
+            "name": "Wuyan",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Tank",
+                "Assassin"
+            ],
+            "image_file": "wuyan.png"
+        },
+        {
+            "id": 99,
+            "name": "Xiang Yu",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Fighter",
+                "Support"
+            ],
+            "image_file": "xiang_yu.png"
+        },
+        {
+            "id": 100,
+            "name": "Xiao Qiao",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "xiao_qiao.png"
+        },
+        {
+            "id": 101,
+            "name": "Xuance",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "xuance.png"
+        },
+        {
+            "id": 102,
+            "name": "Yang Jian",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "yang_jian.png"
+        },
+        {
+            "id": 103,
+            "name": "Yango",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin",
+                "Fighter"
+            ],
+            "image_file": "yango.png"
+        },
+        {
+            "id": 104,
+            "name": "Yao",
+            "role": "Fighter",
+            "damageType": "Physical",
+            "roles": [
+                "Fighter",
+                "Assassin"
+            ],
+            "image_file": "yao.png"
+        },
+        {
+            "id": 105,
+            "name": "Yaria",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "yaria.png"
+        },
+        {
+            "id": 106,
+            "name": "Ying",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "ying.png"
+        },
+        {
+            "id": 107,
+            "name": "Yixing",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "yixing.png"
+        },
+        {
+            "id": 108,
+            "name": "Yuhuan",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Support"
+            ],
+            "image_file": "yuhuan.png"
+        },
+        {
+            "id": 109,
+            "name": "Zhang Fei",
+            "role": "Support",
+            "damageType": "Physical",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "zhang_fei.png"
+        },
+        {
+            "id": 110,
+            "name": "Zhou Yu",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "zhou_yu.png"
+        },
+        {
+            "id": 111,
+            "name": "Zhuangzi",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support",
+                "Tank",
+                "Fighter"
+            ],
+            "image_file": "zhuangzi.png"
+        },
+        {
+            "id": 112,
+            "name": "Zilong",
+            "role": "Assassin",
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "zilong.png"
+        },
+        {
+            "id": 113,
+            "name": "Ziya",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage",
+                "Support"
+            ],
+            "image_file": "ziya.png"
+        },
+        {
+            "id": 114,
+            "name": "Florentino",
+            "role": "Tank",
+            "damageType": "Physical",
+            "roles": [
+                "Tank",
+                "Fighter"
+            ],
+            "image_file": "florentino.png"
+        },
+        {
+            "id": 115,
+            "name": "Annette",
+            "role": "Support",
+            "damageType": "Magic",
+            "roles": [
+                "Support",
+                "Mage"
+            ],
+            "image_file": "annette.png"
+        },
+        {
+            "id": 116,
+            "name": "Lorion",
+            "role": "Mage",
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "lorion.png"
+        }
+    ],
+    "tags": [
+        {
+            "heroId": 1,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 1,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 2,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 2,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 3,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 3,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 3,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 4,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 4,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 5,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 5,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 6,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 6,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 7,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 7,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 7,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 8,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 8,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 8,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 9,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 9,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 9,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 10,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 10,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 10,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 11,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 11,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 11,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 12,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 12,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 12,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 13,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 13,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 13,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 14,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 14,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 15,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 15,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 16,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 16,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 17,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 17,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 17,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 18,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 18,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 18,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 19,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 19,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 20,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 20,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 20,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 21,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 21,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 21,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 22,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 22,
+            "tag": "Targeted_CC"
+        },
+        {
+            "heroId": 23,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 23,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 24,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 24,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 24,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 25,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 25,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 25,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 26,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 26,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 26,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 27,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 27,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 27,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 28,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 28,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 29,
+            "tag": "Targeted_CC"
+        },
+        {
+            "heroId": 29,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 29,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 30,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 30,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 30,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 31,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 31,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 31,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 31,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 32,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 32,
+            "tag": "Anti_Heal_Mechanic"
+        },
+        {
+            "heroId": 32,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 33,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 33,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 33,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 34,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 34,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 34,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 35,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 35,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 35,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 36,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 36,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 37,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 37,
+            "tag": "Targeted_CC"
+        },
+        {
+            "heroId": 37,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 38,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 38,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 39,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 39,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 39,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 40,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 40,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 41,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 41,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 42,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 42,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 42,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 43,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 43,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 43,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 44,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 44,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 44,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 45,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 45,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 46,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 46,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 46,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 47,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 47,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 48,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 48,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 48,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 49,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 49,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 50,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 50,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 50,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 51,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 51,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 51,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 52,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 52,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 53,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 53,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 53,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 54,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 54,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 54,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 55,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 55,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 55,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 56,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 56,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 56,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 57,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 57,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 57,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 58,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 58,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 58,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 59,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 59,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 59,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 60,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 60,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 60,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 61,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 61,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 61,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 62,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 62,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 62,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 63,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 63,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 63,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 64,
+            "tag": "Targeted_CC"
+        },
+        {
+            "heroId": 64,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 65,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 65,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 65,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 66,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 66,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 67,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 67,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 67,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 68,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 68,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 68,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 69,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 69,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 69,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 70,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 70,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 70,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 71,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 71,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 71,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 72,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 72,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 72,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 73,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 73,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 73,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 74,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 74,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 74,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 75,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 75,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 75,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 76,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 76,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 76,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 77,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 77,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 78,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 78,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 78,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 79,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 79,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 79,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 80,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 80,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 80,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 81,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 81,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 81,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 82,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 82,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 82,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 83,
+            "tag": "Targeted_CC"
+        },
+        {
+            "heroId": 83,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 83,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 84,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 84,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 84,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 85,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 85,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 86,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 86,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 86,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 87,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 87,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 87,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 88,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 88,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 89,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 89,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 90,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 90,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 90,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 91,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 91,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 91,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 92,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 92,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 92,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 93,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 93,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 93,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 94,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 94,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 95,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 95,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 95,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 96,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 96,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 96,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 97,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 97,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 98,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 98,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 99,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 99,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 99,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 100,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 100,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 100,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 101,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 101,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 102,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 102,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 103,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 103,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 103,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 104,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 104,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 105,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 105,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 106,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 106,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 106,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 107,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 107,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 107,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 108,
+            "tag": "DPS_Marksman"
+        },
+        {
+            "heroId": 108,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 109,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 109,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 110,
+            "tag": "Targeted_CC"
+        },
+        {
+            "heroId": 110,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 111,
+            "tag": "True_Damage"
+        },
+        {
+            "heroId": 111,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 112,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 112,
+            "tag": "Engage"
+        },
+        {
+            "heroId": 112,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 113,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 113,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 114,
+            "tag": "Duelist"
+        },
+        {
+            "heroId": 114,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 114,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 114,
+            "tag": "Dive"
+        },
+        {
+            "heroId": 115,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 115,
+            "tag": "Team_Utility"
+        },
+        {
+            "heroId": 115,
+            "tag": "Crowd_Control"
+        },
+        {
+            "heroId": 116,
+            "tag": "Late_Scaler"
+        },
+        {
+            "heroId": 116,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 116,
+            "tag": "Area_Damage"
+        },
+        {
+            "heroId": 116,
+            "tag": "Crowd_Control"
+        }
+    ],
+    "counters": [
+        {
+            "heroId": 1,
+            "counteredById": 48,
+            "weight": 3
+        },
+        {
+            "heroId": 1,
+            "counteredById": 51,
+            "weight": 3
+        },
+        {
+            "heroId": 2,
+            "counteredById": 48,
+            "weight": 3
+        },
+        {
+            "heroId": 2,
+            "counteredById": 72,
+            "weight": 3
+        },
+        {
+            "heroId": 3,
+            "counteredById": 55,
+            "weight": 3
+        },
+        {
+            "heroId": 3,
+            "counteredById": 107,
+            "weight": 3
+        },
+        {
+            "heroId": 4,
+            "counteredById": 11,
+            "weight": 3
+        },
+        {
+            "heroId": 4,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 5,
+            "counteredById": 20,
+            "weight": 3
+        },
+        {
+            "heroId": 5,
+            "counteredById": 33,
+            "weight": 3
+        },
+        {
+            "heroId": 6,
+            "counteredById": 54,
+            "weight": 3
+        },
+        {
+            "heroId": 6,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 7,
+            "counteredById": 91,
+            "weight": 3
+        },
+        {
+            "heroId": 7,
+            "counteredById": 112,
+            "weight": 3
+        },
+        {
+            "heroId": 8,
+            "counteredById": 54,
+            "weight": 3
+        },
+        {
+            "heroId": 8,
+            "counteredById": 81,
+            "weight": 3
+        },
+        {
+            "heroId": 9,
+            "counteredById": 57,
+            "weight": 3
+        },
+        {
+            "heroId": 9,
+            "counteredById": 61,
+            "weight": 3
+        },
+        {
+            "heroId": 10,
+            "counteredById": 21,
+            "weight": 3
+        },
+        {
+            "heroId": 10,
+            "counteredById": 71,
+            "weight": 3
+        },
+        {
+            "heroId": 11,
+            "counteredById": 71,
+            "weight": 3
+        },
+        {
+            "heroId": 11,
+            "counteredById": 82,
+            "weight": 3
+        },
+        {
+            "heroId": 12,
+            "counteredById": 4,
+            "weight": 3
+        },
+        {
+            "heroId": 12,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 13,
+            "counteredById": 55,
+            "weight": 3
+        },
+        {
+            "heroId": 13,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 14,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 14,
+            "counteredById": 50,
+            "weight": 3
+        },
+        {
+            "heroId": 15,
+            "counteredById": 8,
+            "weight": 3
+        },
+        {
+            "heroId": 15,
+            "counteredById": 19,
+            "weight": 3
+        },
+        {
+            "heroId": 16,
+            "counteredById": 6,
+            "weight": 3
+        },
+        {
+            "heroId": 16,
+            "counteredById": 48,
+            "weight": 3
+        },
+        {
+            "heroId": 17,
+            "counteredById": 58,
+            "weight": 3
+        },
+        {
+            "heroId": 17,
+            "counteredById": 72,
+            "weight": 3
+        },
+        {
+            "heroId": 18,
+            "counteredById": 17,
+            "weight": 3
+        },
+        {
+            "heroId": 18,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 19,
+            "counteredById": 97,
+            "weight": 3
+        },
+        {
+            "heroId": 19,
+            "counteredById": 112,
+            "weight": 3
+        },
+        {
+            "heroId": 20,
+            "counteredById": 25,
+            "weight": 3
+        },
+        {
+            "heroId": 20,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 21,
+            "counteredById": 10,
+            "weight": 3
+        },
+        {
+            "heroId": 21,
+            "counteredById": 13,
+            "weight": 3
+        },
+        {
+            "heroId": 22,
+            "counteredById": 11,
+            "weight": 3
+        },
+        {
+            "heroId": 22,
+            "counteredById": 53,
+            "weight": 3
+        },
+        {
+            "heroId": 23,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 23,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 24,
+            "counteredById": 50,
+            "weight": 3
+        },
+        {
+            "heroId": 24,
+            "counteredById": 77,
+            "weight": 3
+        },
+        {
+            "heroId": 25,
+            "counteredById": 72,
+            "weight": 3
+        },
+        {
+            "heroId": 25,
+            "counteredById": 106,
+            "weight": 3
+        },
+        {
+            "heroId": 26,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 26,
+            "counteredById": 40,
+            "weight": 3
+        },
+        {
+            "heroId": 27,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 27,
+            "counteredById": 37,
+            "weight": 3
+        },
+        {
+            "heroId": 28,
+            "counteredById": 15,
+            "weight": 3
+        },
+        {
+            "heroId": 28,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 29,
+            "counteredById": 40,
+            "weight": 3
+        },
+        {
+            "heroId": 29,
+            "counteredById": 48,
+            "weight": 3
+        },
+        {
+            "heroId": 30,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 30,
+            "counteredById": 50,
+            "weight": 3
+        },
+        {
+            "heroId": 31,
+            "counteredById": 3,
+            "weight": 3
+        },
+        {
+            "heroId": 31,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 32,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 32,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 33,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 33,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 34,
+            "counteredById": 25,
+            "weight": 3
+        },
+        {
+            "heroId": 34,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 35,
+            "counteredById": 3,
+            "weight": 3
+        },
+        {
+            "heroId": 35,
+            "counteredById": 40,
+            "weight": 3
+        },
+        {
+            "heroId": 36,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 36,
+            "counteredById": 31,
+            "weight": 3
+        },
+        {
+            "heroId": 37,
+            "counteredById": 21,
+            "weight": 3
+        },
+        {
+            "heroId": 37,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 38,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 38,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 39,
+            "counteredById": 3,
+            "weight": 3
+        },
+        {
+            "heroId": 39,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 40,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 40,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 41,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 41,
+            "counteredById": 50,
+            "weight": 3
+        },
+        {
+            "heroId": 42,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 42,
+            "counteredById": 31,
+            "weight": 3
+        },
+        {
+            "heroId": 43,
+            "counteredById": 21,
+            "weight": 3
+        },
+        {
+            "heroId": 43,
+            "counteredById": 28,
+            "weight": 3
+        },
+        {
+            "heroId": 44,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 44,
+            "counteredById": 37,
+            "weight": 3
+        },
+        {
+            "heroId": 45,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 45,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 46,
+            "counteredById": 6,
+            "weight": 3
+        },
+        {
+            "heroId": 46,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 47,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 47,
+            "counteredById": 49,
+            "weight": 3
+        },
+        {
+            "heroId": 48,
+            "counteredById": 42,
+            "weight": 3
+        },
+        {
+            "heroId": 48,
+            "counteredById": 44,
+            "weight": 3
+        },
+        {
+            "heroId": 49,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 49,
+            "counteredById": 37,
+            "weight": 3
+        },
+        {
+            "heroId": 50,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 50,
+            "counteredById": 40,
+            "weight": 3
+        },
+        {
+            "heroId": 51,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 51,
+            "counteredById": 72,
+            "weight": 3
+        },
+        {
+            "heroId": 52,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 52,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 53,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 53,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 54,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 54,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 55,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 55,
+            "counteredById": 90,
+            "weight": 3
+        },
+        {
+            "heroId": 56,
+            "counteredById": 21,
+            "weight": 3
+        },
+        {
+            "heroId": 56,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 57,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 57,
+            "counteredById": 60,
+            "weight": 3
+        },
+        {
+            "heroId": 58,
+            "counteredById": 53,
+            "weight": 3
+        },
+        {
+            "heroId": 58,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 59,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 59,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 60,
+            "counteredById": 10,
+            "weight": 3
+        },
+        {
+            "heroId": 60,
+            "counteredById": 63,
+            "weight": 3
+        },
+        {
+            "heroId": 61,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 61,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 62,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 62,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 63,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 63,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 64,
+            "counteredById": 40,
+            "weight": 3
+        },
+        {
+            "heroId": 64,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 65,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 65,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 66,
+            "counteredById": 57,
+            "weight": 3
+        },
+        {
+            "heroId": 66,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 67,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 67,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 68,
+            "counteredById": 25,
+            "weight": 3
+        },
+        {
+            "heroId": 68,
+            "counteredById": 73,
+            "weight": 3
+        },
+        {
+            "heroId": 69,
+            "counteredById": 53,
+            "weight": 3
+        },
+        {
+            "heroId": 69,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 70,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 70,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 71,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 71,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 72,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 72,
+            "counteredById": 64,
+            "weight": 3
+        },
+        {
+            "heroId": 73,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 73,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 74,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 74,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 75,
+            "counteredById": 53,
+            "weight": 3
+        },
+        {
+            "heroId": 75,
+            "counteredById": 59,
+            "weight": 3
+        },
+        {
+            "heroId": 76,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 76,
+            "counteredById": 10,
+            "weight": 3
+        },
+        {
+            "heroId": 77,
+            "counteredById": 91,
+            "weight": 3
+        },
+        {
+            "heroId": 77,
+            "counteredById": 100,
+            "weight": 3
+        },
+        {
+            "heroId": 78,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 78,
+            "counteredById": 90,
+            "weight": 3
+        },
+        {
+            "heroId": 79,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 79,
+            "counteredById": 99,
+            "weight": 3
+        },
+        {
+            "heroId": 80,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 80,
+            "counteredById": 99,
+            "weight": 3
+        },
+        {
+            "heroId": 81,
+            "counteredById": 87,
+            "weight": 3
+        },
+        {
+            "heroId": 81,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 82,
+            "counteredById": 87,
+            "weight": 3
+        },
+        {
+            "heroId": 82,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 83,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 83,
+            "counteredById": 90,
+            "weight": 3
+        },
+        {
+            "heroId": 84,
+            "counteredById": 87,
+            "weight": 3
+        },
+        {
+            "heroId": 84,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 85,
+            "counteredById": 77,
+            "weight": 3
+        },
+        {
+            "heroId": 85,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 86,
+            "counteredById": 87,
+            "weight": 3
+        },
+        {
+            "heroId": 86,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 87,
+            "counteredById": 77,
+            "weight": 3
+        },
+        {
+            "heroId": 87,
+            "counteredById": 91,
+            "weight": 3
+        },
+        {
+            "heroId": 88,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 88,
+            "counteredById": 100,
+            "weight": 3
+        },
+        {
+            "heroId": 89,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 89,
+            "counteredById": 91,
+            "weight": 3
+        },
+        {
+            "heroId": 90,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 90,
+            "counteredById": 83,
+            "weight": 3
+        },
+        {
+            "heroId": 91,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 91,
+            "counteredById": 83,
+            "weight": 3
+        },
+        {
+            "heroId": 92,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 92,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 93,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 93,
+            "counteredById": 83,
+            "weight": 3
+        },
+        {
+            "heroId": 94,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 94,
+            "counteredById": 91,
+            "weight": 3
+        },
+        {
+            "heroId": 95,
+            "counteredById": 87,
+            "weight": 3
+        },
+        {
+            "heroId": 95,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 96,
+            "counteredById": 83,
+            "weight": 3
+        },
+        {
+            "heroId": 96,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 97,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 97,
+            "counteredById": 91,
+            "weight": 3
+        },
+        {
+            "heroId": 98,
+            "counteredById": 83,
+            "weight": 3
+        },
+        {
+            "heroId": 98,
+            "counteredById": 92,
+            "weight": 3
+        },
+        {
+            "heroId": 99,
+            "counteredById": 79,
+            "weight": 3
+        },
+        {
+            "heroId": 99,
+            "counteredById": 90,
+            "weight": 3
+        },
+        {
+            "heroId": 100,
+            "counteredById": 76,
+            "weight": 3
+        },
+        {
+            "heroId": 100,
+            "counteredById": 87,
+            "weight": 3
+        },
+        {
+            "heroId": 101,
+            "counteredById": 10,
+            "weight": 3
+        },
+        {
+            "heroId": 101,
+            "counteredById": 11,
+            "weight": 3
+        },
+        {
+            "heroId": 102,
+            "counteredById": 12,
+            "weight": 3
+        },
+        {
+            "heroId": 102,
+            "counteredById": 13,
+            "weight": 3
+        },
+        {
+            "heroId": 103,
+            "counteredById": 14,
+            "weight": 3
+        },
+        {
+            "heroId": 103,
+            "counteredById": 15,
+            "weight": 3
+        },
+        {
+            "heroId": 104,
+            "counteredById": 16,
+            "weight": 3
+        },
+        {
+            "heroId": 104,
+            "counteredById": 17,
+            "weight": 3
+        },
+        {
+            "heroId": 105,
+            "counteredById": 18,
+            "weight": 3
+        },
+        {
+            "heroId": 105,
+            "counteredById": 19,
+            "weight": 3
+        },
+        {
+            "heroId": 106,
+            "counteredById": 20,
+            "weight": 3
+        },
+        {
+            "heroId": 106,
+            "counteredById": 21,
+            "weight": 3
+        },
+        {
+            "heroId": 107,
+            "counteredById": 22,
+            "weight": 3
+        },
+        {
+            "heroId": 107,
+            "counteredById": 23,
+            "weight": 3
+        },
+        {
+            "heroId": 108,
+            "counteredById": 24,
+            "weight": 3
+        },
+        {
+            "heroId": 108,
+            "counteredById": 25,
+            "weight": 3
+        },
+        {
+            "heroId": 109,
+            "counteredById": 26,
+            "weight": 3
+        },
+        {
+            "heroId": 109,
+            "counteredById": 27,
+            "weight": 3
+        },
+        {
+            "heroId": 110,
+            "counteredById": 28,
+            "weight": 3
+        },
+        {
+            "heroId": 110,
+            "counteredById": 29,
+            "weight": 3
+        },
+        {
+            "heroId": 111,
+            "counteredById": 30,
+            "weight": 3
+        },
+        {
+            "heroId": 111,
+            "counteredById": 31,
+            "weight": 3
+        },
+        {
+            "heroId": 112,
+            "counteredById": 32,
+            "weight": 3
+        },
+        {
+            "heroId": 112,
+            "counteredById": 33,
+            "weight": 3
+        },
+        {
+            "heroId": 113,
+            "counteredById": 34,
+            "weight": 3
+        },
+        {
+            "heroId": 113,
+            "counteredById": 35,
+            "weight": 3
+        },
+        {
+            "heroId": 116,
+            "counteredById": 111,
+            "weight": 5
+        },
+        {
+            "heroId": 116,
+            "counteredById": 43,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 6,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 91,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 29,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 64,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 7,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 72,
+            "weight": 4
+        },
+        {
+            "heroId": 116,
+            "counteredById": 68,
+            "weight": 3
+        },
+        {
+            "heroId": 51,
+            "counteredById": 116,
+            "weight": 4
+        },
+        {
+            "heroId": 70,
+            "counteredById": 116,
+            "weight": 4
+        },
+        {
+            "heroId": 44,
+            "counteredById": 116,
+            "weight": 4
+        },
+        {
+            "heroId": 78,
+            "counteredById": 116,
+            "weight": 4
+        },
+        {
+            "heroId": 58,
+            "counteredById": 116,
+            "weight": 3
+        },
+        {
+            "heroId": 4,
+            "counteredById": 116,
+            "weight": 3
+        },
+        {
+            "heroId": 96,
+            "counteredById": 116,
+            "weight": 3
+        },
+        {
+            "heroId": 15,
+            "counteredById": 116,
+            "weight": 4
+        },
+        {
+            "heroId": 28,
+            "counteredById": 116,
+            "weight": 3
+        },
+        {
+            "heroId": 54,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 97,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 26,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 17,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 93,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 47,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 63,
+            "counteredById": 115,
+            "weight": 3
+        },
+        {
+            "heroId": 8,
+            "counteredById": 115,
+            "weight": 3
+        },
+        {
+            "heroId": 13,
+            "counteredById": 115,
+            "weight": 3
+        },
+        {
+            "heroId": 27,
+            "counteredById": 115,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 16,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 58,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 44,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 90,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 88,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 91,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 29,
+            "weight": 4
+        },
+        {
+            "heroId": 115,
+            "counteredById": 64,
+            "weight": 4
+        },
+        {
+            "heroId": 31,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 63,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 99,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 8,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 68,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 26,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 54,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 93,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 51,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 58,
+            "counteredById": 114,
+            "weight": 3
+        },
+        {
+            "heroId": 78,
+            "counteredById": 114,
+            "weight": 4
+        },
+        {
+            "heroId": 114,
+            "counteredById": 17,
+            "weight": 5
+        },
+        {
+            "heroId": 114,
+            "counteredById": 40,
+            "weight": 5
+        },
+        {
+            "heroId": 114,
+            "counteredById": 29,
+            "weight": 4
+        },
+        {
+            "heroId": 114,
+            "counteredById": 64,
+            "weight": 4
+        },
+        {
+            "heroId": 114,
+            "counteredById": 44,
+            "weight": 4
+        },
+        {
+            "heroId": 114,
+            "counteredById": 20,
+            "weight": 4
+        },
+        {
+            "heroId": 114,
+            "counteredById": 27,
+            "weight": 4
+        }
+    ],
+    "item_triggers": [
+        {
+            "enemyTagThreshold": "High_Sustain>=2",
+            "recommendedItem": "Venomous Staff / Mortal Punisher"
+        },
+        {
+            "enemyTagThreshold": "Magic_Burst>=2",
+            "recommendedItem": "Succubus Cloak / Longnight Guardian"
+        },
+        {
+            "enemyTagThreshold": "High_Mobility>=2",
+            "recommendedItem": "Glacial Buckler / Ominous Premonition"
+        },
+        {
+            "enemyTagThreshold": "Physical_Burst>=2",
+            "recommendedItem": "Spikemail / Shield of the Lost"
+        },
+        {
+            "enemyTagThreshold": "Engage>=2",
+            "recommendedItem": "Pure Sky / Blood Rage / Sage's Sanctuary"
+        }
+    ]
+}

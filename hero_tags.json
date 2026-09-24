@@ -1,0 +1,1194 @@
+[
+  {
+    "heroId": 1,
+    "heroName": "Agudo",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 2,
+    "heroName": "Alessio",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 3,
+    "heroName": "Allain",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "True_Damage",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 4,
+    "heroName": "Angela",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Immobile_Carry",
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 5,
+    "heroName": "Ao'yin",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 6,
+    "heroName": "Arke",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 7,
+    "heroName": "Arli",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "High_Mobility",
+      "Late_Hypercarry",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 8,
+    "heroName": "Arthur",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Anti_Heal_Mechanic",
+      "Early_Bully",
+      "High_Armor",
+      "High_Regen",
+      "High_Sustain",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 9,
+    "heroName": "Ata",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "High_Armor",
+      "High_Regen",
+      "High_Sustain",
+      "Shield_Dependent",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 10,
+    "heroName": "Athena",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Shield_Dependent",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 11,
+    "heroName": "Augran",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "High_Regen",
+      "High_Sustain",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 12,
+    "heroName": "Bai Qi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 13,
+    "heroName": "Biron",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "High_Regen",
+      "High_Sustain",
+      "Shield_Dependent",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 14,
+    "heroName": "Butterfly",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 15,
+    "heroName": "Cai Yan",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Disengage",
+      "Early_Bully",
+      "High_Regen",
+      "High_Sustain",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 16,
+    "heroName": "Chano",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "DPS_Marksman",
+      "Immobile_Carry",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 17,
+    "heroName": "Charlotte",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 18,
+    "heroName": "Chicha",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 19,
+    "heroName": "Cirrus",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 20,
+    "heroName": "Consort Yu",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 21,
+    "heroName": "Da Qiao",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Disengage",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 22,
+    "heroName": "Daji",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Immobile_Carry",
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 23,
+    "heroName": "Devara",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 24,
+    "heroName": "Dharma",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 25,
+    "heroName": "Di Renjie",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "DPS_Marksman",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 26,
+    "heroName": "Dian Wei",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "True_Damage",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 27,
+    "heroName": "Diaochan",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "High_Regen",
+      "High_Sustain",
+      "Late_Hypercarry",
+      "True_Damage",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 28,
+    "heroName": "Dolia",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 29,
+    "heroName": "Donghuang",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Hard_CC",
+      "Suppression_Ult",
+      "Targeted_CC",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 30,
+    "heroName": "Dr Bian",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Regen",
+      "High_Sustain",
+      "Immobile_Carry",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 31,
+    "heroName": "Dun",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Shield_Dependent",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 32,
+    "heroName": "Dyadia",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Regen",
+      "High_Sustain",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 33,
+    "heroName": "Erin",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 34,
+    "heroName": "Fang",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "DPS_Marksman",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 35,
+    "heroName": "Fatih",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 36,
+    "heroName": "Feyd",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 37,
+    "heroName": "Flowborn (Mage)",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 38,
+    "heroName": "Flowborn (Marksman)",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "DPS_Marksman",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 39,
+    "heroName": "Flowborn (Tank)",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "High_Armor",
+      "Shield_Dependent",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 40,
+    "heroName": "Fuzi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 41,
+    "heroName": "Gan & Mo",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "Late_Hypercarry",
+      "Magic_Burst",
+      "Poke",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 42,
+    "heroName": "Gao",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 43,
+    "heroName": "Gao Changgong",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 44,
+    "heroName": "Garo",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Immobile_Carry",
+      "Late_Hypercarry",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 45,
+    "heroName": "Garuda",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 46,
+    "heroName": "Guan Yu",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 47,
+    "heroName": "Guiguzi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 48,
+    "heroName": "Han Xin",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 49,
+    "heroName": "Haya",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 50,
+    "heroName": "Heino",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Regen",
+      "High_Sustain",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 51,
+    "heroName": "Hou Yi",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Immobile_Carry",
+      "Late_Hypercarry",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 52,
+    "heroName": "Huang Zhong",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Immobile_Carry",
+      "Late_Hypercarry",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 53,
+    "heroName": "Jing",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 54,
+    "heroName": "Kaizer",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 55,
+    "heroName": "Kongming",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 56,
+    "heroName": "Kui",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Hard_CC",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 57,
+    "heroName": "Lady Sun",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Physical_Burst",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 58,
+    "heroName": "Lady Zhen",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "Immobile_Carry",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 59,
+    "heroName": "Lam",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 60,
+    "heroName": "Lapulapu",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 61,
+    "heroName": "Li Bai",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 62,
+    "heroName": "Li Xin",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 63,
+    "heroName": "Lian Po",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 64,
+    "heroName": "Liang",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "Mid_Game_Spike",
+      "Suppression_Ult",
+      "Targeted_CC",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 65,
+    "heroName": "Liu Bang",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 66,
+    "heroName": "Liu Bei",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 67,
+    "heroName": "Liu Shan",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Hard_CC",
+      "High_Armor",
+      "Shield_Dependent",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 68,
+    "heroName": "Lu Bu",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "High_Armor",
+      "Late_Hypercarry",
+      "Shield_Dependent",
+      "True_Damage",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 69,
+    "heroName": "Luara",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 70,
+    "heroName": "Luban No.7",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Immobile_Carry",
+      "Late_Hypercarry",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 71,
+    "heroName": "Luna",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 72,
+    "heroName": "Mai Shiranui",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 73,
+    "heroName": "Marco Polo",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "High_Mobility",
+      "Late_Hypercarry",
+      "True_Damage",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 74,
+    "heroName": "Mayene",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 75,
+    "heroName": "Meng Ya",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "DPS_Marksman",
+      "Late_Hypercarry",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 76,
+    "heroName": "Menki",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 77,
+    "heroName": "Mi Yue",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Regen",
+      "High_Sustain",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 78,
+    "heroName": "Milady",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Immobile_Carry",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 79,
+    "heroName": "Ming",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 80,
+    "heroName": "Mozi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "Mid_Game_Spike",
+      "Poke",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 81,
+    "heroName": "Mulan",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 82,
+    "heroName": "Musashi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 83,
+    "heroName": "Nakoruru",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 84,
+    "heroName": "Nezha",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Anti_Heal_Mechanic",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 85,
+    "heroName": "Nuwa",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 86,
+    "heroName": "Pei",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 87,
+    "heroName": "Sakeer",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 88,
+    "heroName": "Shangguan",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 89,
+    "heroName": "Shi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 90,
+    "heroName": "Shouyue",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "DPS_Marksman",
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Poke",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 91,
+    "heroName": "Sima Yi",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "Late_Hypercarry",
+      "Magic_Burst",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 92,
+    "heroName": "Sun Bin",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Disengage",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 93,
+    "heroName": "Sun Ce",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Early_Bully",
+      "Hard_CC",
+      "High_Mobility",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 94,
+    "heroName": "Ukyo Tachibana",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 95,
+    "heroName": "Umbrosa",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 96,
+    "heroName": "Wang Zhaojun",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Hard_CC",
+      "Immobile_Carry",
+      "Mid_Game_Spike",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 97,
+    "heroName": "Wukong",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "Late_Hypercarry",
+      "Physical_Burst",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 98,
+    "heroName": "Wuyan",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Shield_Dependent",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 99,
+    "heroName": "Xiang Yu",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 100,
+    "heroName": "Xiao Qiao",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 101,
+    "heroName": "Xuance",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Mobility",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 102,
+    "heroName": "Yang Jian",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "High_Regen",
+      "High_Sustain",
+      "Mid_Game_Spike",
+      "True_Damage",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 103,
+    "heroName": "Yango",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 104,
+    "heroName": "Yao",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 105,
+    "heroName": "Yaria",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Disengage",
+      "Mid_Game_Spike",
+      "Shield_Dependent",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 106,
+    "heroName": "Ying",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 107,
+    "heroName": "Yixing",
+    "pacing": "Late_Hypercarry",
+    "tags": [
+      "Late_Hypercarry",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 108,
+    "heroName": "Yuhuan",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 109,
+    "heroName": "Zhang Fei",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Disengage",
+      "Hard_CC",
+      "High_Armor",
+      "Mid_Game_Spike",
+      "Shield_Dependent",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 110,
+    "heroName": "Zhou Yu",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Immobile_Carry",
+      "Mid_Game_Spike",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 111,
+    "heroName": "Zhuangzi",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Disengage",
+      "High_Sustain",
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 112,
+    "heroName": "Zilong",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 113,
+    "heroName": "Ziya",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Mid_Game_Spike",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 114,
+    "heroName": "Florentino",
+    "pacing": "Mid_Game",
+    "tags": [
+      "Duelist",
+      "High_Mobility",
+      "High_Sustain",
+      "Dive",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 115,
+    "heroName": "Annette",
+    "pacing": "Mid_Game",
+    "tags": [
+      "Disengage",
+      "Team_Utility",
+      "Crowd_Control",
+      "Tier_C"
+    ]
+  },
+  {
+    "heroId": 116,
+    "heroName": "Lorion",
+    "pacing": "Late_Scaler",
+    "tags": [
+      "Late_Scaler",
+      "Magic_Burst",
+      "Area_Damage",
+      "Crowd_Control",
+      "Tier_A"
+    ]
+  }
+]

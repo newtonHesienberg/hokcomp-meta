@@ -1,0 +1,1251 @@
+[
+  {
+    "heroId": 1,
+    "inGameName": "Agudo",
+    "realName": "Agudo",
+    "title": "Wild Rider",
+    "chineseName": "阿古朵",
+    "aliases": [
+      "A Gu Duo",
+      "Agudo"
+    ]
+  },
+  {
+    "heroId": 2,
+    "inGameName": "Alessio",
+    "realName": "Alessio",
+    "title": "Red Hawk'",
+    "chineseName": "莱西奥",
+    "aliases": [
+      "Alessio",
+      "Firehawk"
+    ]
+  },
+  {
+    "heroId": 3,
+    "inGameName": "Allain",
+    "realName": "Allain",
+    "title": "Forgotten Blade",
+    "chineseName": "亚连",
+    "aliases": [
+      "Allain"
+    ]
+  },
+  {
+    "heroId": 4,
+    "inGameName": "Angela",
+    "realName": "Angela",
+    "title": "Scorchette",
+    "chineseName": "安琪拉",
+    "aliases": [
+      "Angela",
+      "Little Fire Mage"
+    ]
+  },
+  {
+    "heroId": 5,
+    "inGameName": "Ao'yin",
+    "realName": "Ao Yin",
+    "title": "Loong",
+    "chineseName": "敖隐",
+    "aliases": [
+      "Ao'yin",
+      "Ao Yin"
+    ]
+  },
+  {
+    "heroId": 6,
+    "inGameName": "Arke",
+    "realName": "Ake",
+    "title": "Shadowstalker",
+    "chineseName": "阿轲",
+    "aliases": [
+      "Arke",
+      "Ake",
+      "Jing Ke"
+    ]
+  },
+  {
+    "heroId": 7,
+    "inGameName": "Arli",
+    "realName": "Gongsun Li",
+    "title": "Parasola",
+    "chineseName": "公孙离",
+    "aliases": [
+      "Arli",
+      "Gongsun Li"
+    ]
+  },
+  {
+    "heroId": 8,
+    "inGameName": "Arthur",
+    "realName": "Arthur Pendragon",
+    "title": "Paladin",
+    "chineseName": "亚瑟",
+    "aliases": [
+      "Arthur",
+      "King Arthur",
+      "The Paladin"
+    ]
+  },
+  {
+    "heroId": 9,
+    "inGameName": "Ata",
+    "realName": "Ata",
+    "title": "White Anchor",
+    "chineseName": "阿塔",
+    "aliases": [
+      "Ata"
+    ]
+  },
+  {
+    "heroId": 10,
+    "inGameName": "Athena",
+    "realName": "Athena",
+    "title": "Sacred Warrior",
+    "chineseName": "雅典娜",
+    "aliases": [
+      "Athena"
+    ]
+  },
+  {
+    "heroId": 11,
+    "inGameName": "Augran",
+    "realName": "Da Si Ming",
+    "title": "Soulguide",
+    "chineseName": "大司命",
+    "aliases": [
+      "Augran",
+      "Da Si Ming"
+    ]
+  },
+  {
+    "heroId": 12,
+    "inGameName": "Bai Qi",
+    "realName": "Bai Qi",
+    "title": "Ultimate Weapon",
+    "chineseName": "白起",
+    "aliases": [
+      "Bai Qi"
+    ]
+  },
+  {
+    "heroId": 13,
+    "inGameName": "Biron",
+    "realName": "Kuang Tie",
+    "title": "Sparkmace",
+    "chineseName": "狂铁",
+    "aliases": [
+      "Biron",
+      "Kuang Tie"
+    ]
+  },
+  {
+    "heroId": 14,
+    "inGameName": "Butterfly",
+    "realName": "Butterfly",
+    "title": "Death's Whisper",
+    "chineseName": "蝶",
+    "aliases": [
+      "Butterfly"
+    ]
+  },
+  {
+    "heroId": 15,
+    "inGameName": "Cai Yan",
+    "realName": "Cai Wenji",
+    "title": "Healing Tone",
+    "chineseName": "蔡文姬",
+    "aliases": [
+      "Cai Yan",
+      "Cai Wenji"
+    ]
+  },
+  {
+    "heroId": 16,
+    "inGameName": "Chano",
+    "realName": "Shen Mengxi",
+    "title": "Packleader",
+    "chineseName": "沈梦溪",
+    "aliases": [
+      "Chano",
+      "Shen Mengxi"
+    ]
+  },
+  {
+    "heroId": 17,
+    "inGameName": "Charlotte",
+    "realName": "Charlotte",
+    "title": "Rose Fencer",
+    "chineseName": "夏洛特",
+    "aliases": [
+      "Charlotte"
+    ]
+  },
+  {
+    "heroId": 18,
+    "inGameName": "Chicha",
+    "realName": "Ji Xia",
+    "title": "Forge Maiden",
+    "chineseName": "雀",
+    "aliases": [
+      "Chicha"
+    ]
+  },
+  {
+    "heroId": 19,
+    "inGameName": "Cirrus",
+    "realName": "Yun Zhong Jun",
+    "title": "Razorwing",
+    "chineseName": "云中君",
+    "aliases": [
+      "Cirrus",
+      "Yun Zhong Jun"
+    ]
+  },
+  {
+    "heroId": 20,
+    "inGameName": "Consort Yu",
+    "realName": "Yu Ji",
+    "title": "Woodland Ranger",
+    "chineseName": "虞姬",
+    "aliases": [
+      "Consort Yu",
+      "Yu Ji",
+      "Lady of the Winds"
+    ]
+  },
+  {
+    "heroId": 21,
+    "inGameName": "Da Qiao",
+    "realName": "Da Qiao",
+    "title": "Lanternlight",
+    "chineseName": "大乔",
+    "aliases": [
+      "Da Qiao"
+    ]
+  },
+  {
+    "heroId": 22,
+    "inGameName": "Daji",
+    "realName": "Daji",
+    "title": "Heartseeker",
+    "chineseName": "妲己",
+    "aliases": [
+      "Daji"
+    ]
+  },
+  {
+    "heroId": 23,
+    "inGameName": "Devara",
+    "realName": "Devara",
+    "title": "Thunderous Deep",
+    "chineseName": "提瓦拉",
+    "aliases": [
+      "Devara"
+    ]
+  },
+  {
+    "heroId": 24,
+    "inGameName": "Dharma",
+    "realName": "Da Mo",
+    "title": "Martial Monk",
+    "chineseName": "达摩",
+    "aliases": [
+      "Dharma",
+      "Da Mo"
+    ]
+  },
+  {
+    "heroId": 25,
+    "inGameName": "Di Renjie",
+    "realName": "Di Renjie",
+    "title": "Magistrate",
+    "chineseName": "狄仁杰",
+    "aliases": [
+      "Di Renjie"
+    ]
+  },
+  {
+    "heroId": 26,
+    "inGameName": "Dian Wei",
+    "realName": "Dian Wei",
+    "title": "Berserker",
+    "chineseName": "典韦",
+    "aliases": [
+      "Dian Wei"
+    ]
+  },
+  {
+    "heroId": 27,
+    "inGameName": "Diaochan",
+    "realName": "Diaochan",
+    "title": "Lotusdancer",
+    "chineseName": "貂蝉",
+    "aliases": [
+      "Diaochan"
+    ]
+  },
+  {
+    "heroId": 28,
+    "inGameName": "Dolia",
+    "realName": "Dolia",
+    "title": "Seasinger",
+    "chineseName": "朵莉亚",
+    "aliases": [
+      "Dolia"
+    ]
+  },
+  {
+    "heroId": 29,
+    "inGameName": "Donghuang",
+    "realName": "Donghuang Taiyi",
+    "title": "Harbinger",
+    "chineseName": "东皇太一",
+    "aliases": [
+      "Donghuang",
+      "Donghuang Taiyi"
+    ]
+  },
+  {
+    "heroId": 30,
+    "inGameName": "Dr Bian",
+    "realName": "Bian Que",
+    "title": "Curious Mixture",
+    "chineseName": "扁鹊",
+    "aliases": [
+      "Dr Bian",
+      "Bian Que"
+    ]
+  },
+  {
+    "heroId": 31,
+    "inGameName": "Dun",
+    "realName": "Xiahou Dun",
+    "title": "Belligerence",
+    "chineseName": "夏侯惇",
+    "aliases": [
+      "Dun",
+      "Xiahou Dun"
+    ]
+  },
+  {
+    "heroId": 32,
+    "inGameName": "Dyadia",
+    "realName": "Shao Si Yuan",
+    "title": "Bondweaver",
+    "chineseName": "少司缘",
+    "aliases": [
+      "Dyadia",
+      "Shao Si Yuan"
+    ]
+  },
+  {
+    "heroId": 33,
+    "inGameName": "Erin",
+    "realName": "Ai Lin",
+    "title": "Laurel Princess",
+    "chineseName": "艾琳",
+    "aliases": [
+      "Erin",
+      "Ai Lin"
+    ]
+  },
+  {
+    "heroId": 34,
+    "inGameName": "Fang",
+    "realName": "Li Yuanfang",
+    "title": "Private Ear",
+    "chineseName": "李元芳",
+    "aliases": [
+      "Fang",
+      "Li Yuanfang"
+    ]
+  },
+  {
+    "heroId": 35,
+    "inGameName": "Fatih",
+    "realName": "Fatih",
+    "title": "Mighty Conqueror",
+    "chineseName": "法蒂赫",
+    "aliases": [
+      "Fatih"
+    ]
+  },
+  {
+    "heroId": 36,
+    "inGameName": "Feyd",
+    "realName": "Feyd",
+    "title": "Featherfoot",
+    "chineseName": "费德",
+    "aliases": [
+      "Feyd"
+    ]
+  },
+  {
+    "heroId": 37,
+    "inGameName": "Flowborn (Mage)",
+    "realName": "Flowborn Mage",
+    "title": "Arcane Heart",
+    "chineseName": "流明 (法师)",
+    "aliases": [
+      "Flowborn (Mage)"
+    ]
+  },
+  {
+    "heroId": 38,
+    "inGameName": "Flowborn (Marksman)",
+    "realName": "Flowborn Marksman",
+    "title": "Steady Will",
+    "chineseName": "流明 (射手)",
+    "aliases": [
+      "Flowborn (Marksman)"
+    ]
+  },
+  {
+    "heroId": 39,
+    "inGameName": "Flowborn (Tank)",
+    "realName": "Flowborn Tank",
+    "title": "Flowborn (Tank)",
+    "chineseName": "流明 (坦克)",
+    "aliases": [
+      "Flowborn (Tank)"
+    ]
+  },
+  {
+    "heroId": 40,
+    "inGameName": "Fuzi",
+    "realName": "Lao Fuzi",
+    "title": "Wise Sage",
+    "chineseName": "老夫子",
+    "aliases": [
+      "Fuzi",
+      "Lao Fuzi"
+    ]
+  },
+  {
+    "heroId": 41,
+    "inGameName": "Gan & Mo",
+    "realName": "Gan Jiang & Mo Ye",
+    "title": "Smith and Blade",
+    "chineseName": "干将莫邪",
+    "aliases": [
+      "Gan & Mo",
+      "Gan Jiang",
+      "Mo Ye"
+    ]
+  },
+  {
+    "heroId": 42,
+    "inGameName": "Gao",
+    "realName": "Gao Jianli",
+    "title": "Fatal Lyrist",
+    "chineseName": "高渐离",
+    "aliases": [
+      "Gao",
+      "Gao Jianli"
+    ]
+  },
+  {
+    "heroId": 43,
+    "inGameName": "Gao Changgong",
+    "realName": "Gao Changgong",
+    "title": "Shadowblade",
+    "chineseName": "高长恭 (兰陵王)",
+    "aliases": [
+      "Prince of Lanling",
+      "Lanling",
+      "Gao Changgong"
+    ]
+  },
+  {
+    "heroId": 44,
+    "inGameName": "Garo",
+    "realName": "Jia Luo",
+    "title": "Piercing Arrow",
+    "chineseName": "伽罗",
+    "aliases": [
+      "Garo",
+      "Jia Luo"
+    ]
+  },
+  {
+    "heroId": 45,
+    "inGameName": "Garuda",
+    "realName": "Dapeng",
+    "title": "Majestic Guardian",
+    "chineseName": "金翅大鹏",
+    "aliases": [
+      "Garuda",
+      "Dapeng"
+    ]
+  },
+  {
+    "heroId": 46,
+    "inGameName": "Guan Yu",
+    "realName": "Guan Yu",
+    "title": "War Saint",
+    "chineseName": "关羽",
+    "aliases": [
+      "Guan Yu"
+    ]
+  },
+  {
+    "heroId": 47,
+    "inGameName": "Guiguzi",
+    "realName": "Guiguzi",
+    "title": "Animist",
+    "chineseName": "鬼谷子",
+    "aliases": [
+      "Guiguzi"
+    ]
+  },
+  {
+    "heroId": 48,
+    "inGameName": "Han Xin",
+    "realName": "Han Xin",
+    "title": "Windspear",
+    "chineseName": "韩信",
+    "aliases": [
+      "Han Xin"
+    ]
+  },
+  {
+    "heroId": 49,
+    "inGameName": "Haya",
+    "realName": "Hai Yue",
+    "title": "Evernight Aspiration",
+    "chineseName": "海月",
+    "aliases": [
+      "Haya",
+      "Hai Yue"
+    ]
+  },
+  {
+    "heroId": 50,
+    "inGameName": "Heino",
+    "realName": "Heino",
+    "title": "Fateturner",
+    "chineseName": "海诺",
+    "aliases": [
+      "Heino"
+    ]
+  },
+  {
+    "heroId": 51,
+    "inGameName": "Hou Yi",
+    "realName": "Hou Yi",
+    "title": "Solarus",
+    "chineseName": "后羿",
+    "aliases": [
+      "Hou Yi"
+    ]
+  },
+  {
+    "heroId": 52,
+    "inGameName": "Huang Zhong",
+    "realName": "Huang Zhong",
+    "title": "Artillerist",
+    "chineseName": "黄忠",
+    "aliases": [
+      "Huang Zhong"
+    ]
+  },
+  {
+    "heroId": 53,
+    "inGameName": "Jing",
+    "realName": "Dongfang Jing",
+    "title": "Broken Mirage",
+    "chineseName": "东方镜",
+    "aliases": [
+      "Jing",
+      "Dongfang Jing"
+    ]
+  },
+  {
+    "heroId": 54,
+    "inGameName": "Kaizer",
+    "realName": "Kai",
+    "title": "Demonplate",
+    "chineseName": "铠",
+    "aliases": [
+      "Kaizer",
+      "Kai"
+    ]
+  },
+  {
+    "heroId": 55,
+    "inGameName": "Kongming",
+    "realName": "Zhuge Liang",
+    "title": "Mastermind",
+    "chineseName": "诸葛亮",
+    "aliases": [
+      "Kongming",
+      "Zhuge Liang"
+    ]
+  },
+  {
+    "heroId": 56,
+    "inGameName": "Kui",
+    "realName": "Zhong Kui",
+    "title": "Voidcaller",
+    "chineseName": "钟馗",
+    "aliases": [
+      "Kui",
+      "Zhong Kui",
+      "Soul Seeker"
+    ]
+  },
+  {
+    "heroId": 57,
+    "inGameName": "Lady Sun",
+    "realName": "Sun Shangxiang",
+    "title": "Cannon Belle",
+    "chineseName": "孙尚香",
+    "aliases": [
+      "Lady Sun",
+      "Sun Shangxiang",
+      "Rebel Princess"
+    ]
+  },
+  {
+    "heroId": 58,
+    "inGameName": "Lady Zhen",
+    "realName": "Zhen Ji",
+    "title": "Cascada",
+    "chineseName": "甄姬",
+    "aliases": [
+      "Lady Zhen",
+      "Zhen Ji",
+      "Frost Queen"
+    ]
+  },
+  {
+    "heroId": 59,
+    "inGameName": "Lam",
+    "realName": "Lan",
+    "title": "Stealthfin",
+    "chineseName": "澜",
+    "aliases": [
+      "Lam",
+      "Lan"
+    ]
+  },
+  {
+    "heroId": 60,
+    "inGameName": "Lapulapu",
+    "realName": "Lapulapu",
+    "title": "Reefheart Datu",
+    "chineseName": "拉普拉普",
+    "aliases": [
+      "Lapulapu"
+    ]
+  },
+  {
+    "heroId": 61,
+    "inGameName": "Li Bai",
+    "realName": "Li Bai",
+    "title": "Lyricist",
+    "chineseName": "李白",
+    "aliases": [
+      "Li Bai",
+      "Sword Saint"
+    ]
+  },
+  {
+    "heroId": 62,
+    "inGameName": "Li Xin",
+    "realName": "Li Xin",
+    "title": "Vengeance",
+    "chineseName": "李信",
+    "aliases": [
+      "Li Xin"
+    ]
+  },
+  {
+    "heroId": 63,
+    "inGameName": "Lian Po",
+    "realName": "Lian Po",
+    "title": "Earthshaker",
+    "chineseName": "廉颇",
+    "aliases": [
+      "Lian Po"
+    ]
+  },
+  {
+    "heroId": 64,
+    "inGameName": "Liang",
+    "realName": "Zhang Liang",
+    "title": "Player Information",
+    "chineseName": "张良",
+    "aliases": [
+      "Liang",
+      "Zhang Liang"
+    ]
+  },
+  {
+    "heroId": 65,
+    "inGameName": "Liu Bang",
+    "realName": "Liu Bang",
+    "title": "Dominant Ruler",
+    "chineseName": "刘邦",
+    "aliases": [
+      "Liu Bang"
+    ]
+  },
+  {
+    "heroId": 66,
+    "inGameName": "Liu Bei",
+    "realName": "Liu Bei",
+    "title": "Pointblank",
+    "chineseName": "刘备",
+    "aliases": [
+      "Liu Bei"
+    ]
+  },
+  {
+    "heroId": 67,
+    "inGameName": "Liu Shan",
+    "realName": "Liu Shan",
+    "title": "Mecha Brat",
+    "chineseName": "刘禅",
+    "aliases": [
+      "Liu Shan"
+    ]
+  },
+  {
+    "heroId": 68,
+    "inGameName": "Lu Bu",
+    "realName": "Lu Bu",
+    "title": "Unrivaled Warrior",
+    "chineseName": "吕布",
+    "aliases": [
+      "Lu Bu"
+    ]
+  },
+  {
+    "heroId": 69,
+    "inGameName": "Luara",
+    "realName": "Luara",
+    "title": "Firesnake",
+    "chineseName": "卢雅拉",
+    "aliases": [
+      "Luara"
+    ]
+  },
+  {
+    "heroId": 70,
+    "inGameName": "Luban No.7",
+    "realName": "Lu Ban Qi Hao",
+    "title": "Mecha Shooter",
+    "chineseName": "鲁班七号",
+    "aliases": [
+      "Luban No.7",
+      "Luban",
+      "Lu Ban"
+    ]
+  },
+  {
+    "heroId": 71,
+    "inGameName": "Luna",
+    "realName": "Luna",
+    "title": "Moonblade",
+    "chineseName": "露娜",
+    "aliases": [
+      "Luna"
+    ]
+  },
+  {
+    "heroId": 72,
+    "inGameName": "Mai Shiranui",
+    "realName": "Mai Shiranui",
+    "title": "Fireninja",
+    "chineseName": "不知火舞",
+    "aliases": [
+      "Mai Shiranui",
+      "Mai"
+    ]
+  },
+  {
+    "heroId": 73,
+    "inGameName": "Marco Polo",
+    "realName": "Marco Polo",
+    "title": "Gunslinger",
+    "chineseName": "马可波罗",
+    "aliases": [
+      "Marco Polo",
+      "Marco"
+    ]
+  },
+  {
+    "heroId": 74,
+    "inGameName": "Mayene",
+    "realName": "Ji Xiao Man",
+    "title": "Martial Genius",
+    "chineseName": "姬小满",
+    "aliases": [
+      "Mayene",
+      "Ji Xiao Man"
+    ]
+  },
+  {
+    "heroId": 75,
+    "inGameName": "Meng Ya",
+    "realName": "Meng Ya",
+    "title": "Loose Cannon",
+    "chineseName": "蒙犽",
+    "aliases": [
+      "Meng Ya"
+    ]
+  },
+  {
+    "heroId": 76,
+    "inGameName": "Menki",
+    "realName": "Meng Qi",
+    "title": "Dream Spirit",
+    "chineseName": "梦奇",
+    "aliases": [
+      "Menki",
+      "Meng Qi"
+    ]
+  },
+  {
+    "heroId": 77,
+    "inGameName": "Mi Yue",
+    "realName": "Mi Yue",
+    "title": "Raveness",
+    "chineseName": "芈月",
+    "aliases": [
+      "Mi Yue"
+    ]
+  },
+  {
+    "heroId": 78,
+    "inGameName": "Milady",
+    "realName": "Milady",
+    "title": "Mechaboss",
+    "chineseName": "米莱狄",
+    "aliases": [
+      "Milady"
+    ]
+  },
+  {
+    "heroId": 79,
+    "inGameName": "Ming",
+    "realName": "Ming Shiyin",
+    "title": "Star Teller",
+    "chineseName": "明世隐",
+    "aliases": [
+      "Ming",
+      "Ming Shiyin"
+    ]
+  },
+  {
+    "heroId": 80,
+    "inGameName": "Mozi",
+    "realName": "Mozi",
+    "title": "Peacekeeper",
+    "chineseName": "墨子",
+    "aliases": [
+      "Mozi"
+    ]
+  },
+  {
+    "heroId": 81,
+    "inGameName": "Mulan",
+    "realName": "Hua Mulan",
+    "title": "Ironbloom",
+    "chineseName": "花木兰",
+    "aliases": [
+      "Mulan",
+      "Hua Mulan"
+    ]
+  },
+  {
+    "heroId": 82,
+    "inGameName": "Musashi",
+    "realName": "Miyamoto Musashi",
+    "title": "Swordmaster",
+    "chineseName": "宫本武藏",
+    "aliases": [
+      "Musashi",
+      "Miyamoto Musashi"
+    ]
+  },
+  {
+    "heroId": 83,
+    "inGameName": "Nakoruru",
+    "realName": "Nakoruru",
+    "title": "Hawk Whisperer",
+    "chineseName": "娜可露露",
+    "aliases": [
+      "Nakoruru"
+    ]
+  },
+  {
+    "heroId": 84,
+    "inGameName": "Nezha",
+    "realName": "Nezha",
+    "title": "Wild Spark",
+    "chineseName": "哪吒",
+    "aliases": [
+      "Nezha"
+    ]
+  },
+  {
+    "heroId": 85,
+    "inGameName": "Nuwa",
+    "realName": "Nuwa",
+    "title": "Celestial",
+    "chineseName": "女娲",
+    "aliases": [
+      "Nuwa"
+    ]
+  },
+  {
+    "heroId": 86,
+    "inGameName": "Pei",
+    "realName": "Pei Qinhu",
+    "title": "Tigerous",
+    "chineseName": "裴擒虎",
+    "aliases": [
+      "Pei",
+      "Pei Qinhu"
+    ]
+  },
+  {
+    "heroId": 87,
+    "inGameName": "Sakeer",
+    "realName": "Sha Ge",
+    "title": "Brushstrider",
+    "chineseName": "萨格",
+    "aliases": [
+      "Sakeer"
+    ]
+  },
+  {
+    "heroId": 88,
+    "inGameName": "Shangguan",
+    "realName": "Shangguan Wan'er",
+    "title": "Calligrapher",
+    "chineseName": "上官婉儿",
+    "aliases": [
+      "Shangguan",
+      "Shangguan Wan'er",
+      "Waner"
+    ]
+  },
+  {
+    "heroId": 89,
+    "inGameName": "Shi",
+    "realName": "Xi Shi",
+    "title": "Silkweaver",
+    "chineseName": "西施",
+    "aliases": [
+      "Shi",
+      "Xi Shi"
+    ]
+  },
+  {
+    "heroId": 90,
+    "inGameName": "Shouyue",
+    "realName": "Baili Shouyue",
+    "title": "Longshot",
+    "chineseName": "百里守约",
+    "aliases": [
+      "Shouyue",
+      "Baili Shouyue"
+    ]
+  },
+  {
+    "heroId": 91,
+    "inGameName": "Sima Yi",
+    "realName": "Sima Yi",
+    "title": "Shadowreaper",
+    "chineseName": "司马懿",
+    "aliases": [
+      "Sima Yi"
+    ]
+  },
+  {
+    "heroId": 92,
+    "inGameName": "Sun Bin",
+    "realName": "Sun Bin",
+    "title": "Timebender",
+    "chineseName": "孙膑",
+    "aliases": [
+      "Sun Bin"
+    ]
+  },
+  {
+    "heroId": 93,
+    "inGameName": "Sun Ce",
+    "realName": "Sun Ce",
+    "title": "Seafarer",
+    "chineseName": "孙策",
+    "aliases": [
+      "Sun Ce"
+    ]
+  },
+  {
+    "heroId": 94,
+    "inGameName": "Ukyo Tachibana",
+    "realName": "Ukyo Tachibana",
+    "title": "Swift Strike",
+    "chineseName": "橘右京",
+    "aliases": [
+      "Ukyo Tachibana",
+      "Ukyo"
+    ]
+  },
+  {
+    "heroId": 95,
+    "inGameName": "Umbrosa",
+    "realName": "Yin Ying",
+    "title": "Dark Feathered Austren",
+    "chineseName": "暗影",
+    "aliases": [
+      "Umbrosa"
+    ]
+  },
+  {
+    "heroId": 96,
+    "inGameName": "Wang Zhaojun",
+    "realName": "Wang Zhaojun",
+    "title": "Princess Frost",
+    "chineseName": "王昭君",
+    "aliases": [
+      "Wang Zhaojun"
+    ]
+  },
+  {
+    "heroId": 97,
+    "inGameName": "Wukong",
+    "realName": "Sun Wukong",
+    "title": "Monkey King",
+    "chineseName": "孙悟空",
+    "aliases": [
+      "Wukong",
+      "Sun Wukong",
+      "Monkey King"
+    ]
+  },
+  {
+    "heroId": 98,
+    "inGameName": "Wuyan",
+    "realName": "Zhong Wuyan",
+    "title": "Sledgehammer",
+    "chineseName": "钟无艳",
+    "aliases": [
+      "Wuyan",
+      "Zhong Wuyan"
+    ]
+  },
+  {
+    "heroId": 99,
+    "inGameName": "Xiang Yu",
+    "realName": "Xiang Yu",
+    "title": "Unyielding Overlord",
+    "chineseName": "项羽",
+    "aliases": [
+      "Xiang Yu"
+    ]
+  },
+  {
+    "heroId": 100,
+    "inGameName": "Xiao Qiao",
+    "realName": "Xiao Qiao",
+    "title": "Breezeheart",
+    "chineseName": "小乔",
+    "aliases": [
+      "Xiao Qiao"
+    ]
+  },
+  {
+    "heroId": 101,
+    "inGameName": "Xuance",
+    "realName": "Baili Xuance",
+    "title": "Madlash",
+    "chineseName": "百里玄策",
+    "aliases": [
+      "Xuance",
+      "Baili Xuance"
+    ]
+  },
+  {
+    "heroId": 102,
+    "inGameName": "Yang Jian",
+    "realName": "Yang Jian",
+    "title": "Trilight",
+    "chineseName": "杨戬",
+    "aliases": [
+      "Yang Jian"
+    ]
+  },
+  {
+    "heroId": 103,
+    "inGameName": "Yango",
+    "realName": "Yan Po",
+    "title": "Avici Puppeteer",
+    "chineseName": "烟魄",
+    "aliases": [
+      "Yango"
+    ]
+  },
+  {
+    "heroId": 104,
+    "inGameName": "Yao",
+    "realName": "Dongfang Yao",
+    "title": "Starblade",
+    "chineseName": "东方曜",
+    "aliases": [
+      "Yao",
+      "Dongfang Yao"
+    ]
+  },
+  {
+    "heroId": 105,
+    "inGameName": "Yaria",
+    "realName": "Yao",
+    "title": "Deerie",
+    "chineseName": "瑶",
+    "aliases": [
+      "Yaria",
+      "Deer Yao",
+      "Yao"
+    ]
+  },
+  {
+    "heroId": 106,
+    "inGameName": "Ying",
+    "realName": "Yun Ying",
+    "title": "Firespear",
+    "chineseName": "云缨",
+    "aliases": [
+      "Ying",
+      "Yun Ying"
+    ]
+  },
+  {
+    "heroId": 107,
+    "inGameName": "Yixing",
+    "realName": "Yi Xing",
+    "title": "Boardmaster",
+    "chineseName": "弈星",
+    "aliases": [
+      "Yixing",
+      "Yi Xing"
+    ]
+  },
+  {
+    "heroId": 108,
+    "inGameName": "Yuhuan",
+    "realName": "Yang Yuhuan",
+    "title": "Tunecaster",
+    "chineseName": "杨玉环",
+    "aliases": [
+      "Yuhuan",
+      "Yang Yuhuan"
+    ]
+  },
+  {
+    "heroId": 109,
+    "inGameName": "Zhang Fei",
+    "realName": "Zhang Fei",
+    "title": "The Beast",
+    "chineseName": "张飞",
+    "aliases": [
+      "Zhang Fei"
+    ]
+  },
+  {
+    "heroId": 110,
+    "inGameName": "Zhou Yu",
+    "realName": "Zhou Yu",
+    "title": "Inferno",
+    "chineseName": "周瑜",
+    "aliases": [
+      "Zhou Yu"
+    ]
+  },
+  {
+    "heroId": 111,
+    "inGameName": "Zhuangzi",
+    "realName": "Zhuang Zhou",
+    "title": "Dreamwanderer",
+    "chineseName": "庄周",
+    "aliases": [
+      "Zhuangzi",
+      "Zhuang Zhou"
+    ]
+  },
+  {
+    "heroId": 112,
+    "inGameName": "Zilong",
+    "realName": "Zhao Yun",
+    "title": "Fearless Spear",
+    "chineseName": "赵云",
+    "aliases": [
+      "Zilong",
+      "Zhao Yun"
+    ]
+  },
+  {
+    "heroId": 113,
+    "inGameName": "Ziya",
+    "realName": "Jiang Ziya",
+    "title": "Divine Enforcer",
+    "chineseName": "姜子牙",
+    "aliases": [
+      "Ziya",
+      "Jiang Ziya"
+    ]
+  },
+  {
+    "heroId": 114,
+    "inGameName": "Florentino",
+    "realName": "Florentino",
+    "title": "Gentle Blade",
+    "chineseName": "弗洛伦",
+    "aliases": [
+      "Florentino",
+      "弗洛伦",
+      "Tank",
+      "Fighter",
+      "Clash",
+      "Clash Lane",
+      "Duelist"
+    ]
+  },
+  {
+    "heroId": 115,
+    "inGameName": "Annette",
+    "realName": "Annette",
+    "title": "Diviner",
+    "chineseName": "安奈特",
+    "aliases": [
+      "Annette",
+      "安奈特",
+      "Support",
+      "Mage",
+      "Roam",
+      "Roaming",
+      "Mid",
+      "Mid Lane",
+      "Wind Caster"
+    ]
+  },
+  {
+    "heroId": 116,
+    "inGameName": "Lorion",
+    "realName": "Lorion",
+    "title": "Nightmare Incarnate",
+    "chineseName": "洛里昂",
+    "aliases": [
+      "Lorion",
+      "洛里昂",
+      "Mage",
+      "Dark Orb"
+    ]
+  }
+]
