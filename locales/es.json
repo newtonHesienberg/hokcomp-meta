@@ -493,5 +493,11 @@
     "privacy_note": "Tu clave de API se almacena estrictamente en tu dispositivo local. Nunca se transmite a servidores de terceros que no sean la API oficial de Gemini de Google.",
     "open_portal_btn": "Abrir Portal",
     "got_it_btn": "¡Entendido!"
+  },
+  "disclaimer": {
+    "title": "Descargo de Responsabilidad",
+    "content": "Aegis es una herramienta complementaria y de selección no oficial creada por fanáticos. No está afiliada, respaldada, patrocinada ni aprobada específicamente por Tencent Games, Level Infinite o TiMi Studio Group. Honor of Kings y todas las marcas comerciales, logotipos y diseños de personajes relacionados son propiedad de sus respectivos dueños. Todos los datos de juego y estadísticas de contraataque se proporcionan estrictamente con fines educativos y de análisis estratégico bajo el uso legítimo.",
+    "accept_btn": "Entendido y Aceptar",
+    "close_btn": "Cerrar"
   }
 }

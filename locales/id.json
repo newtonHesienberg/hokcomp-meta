@@ -493,5 +493,11 @@
     "privacy_note": "Kunci API Anda disimpan secara ketat di perangkat lokal Anda saja. Kunci tidak pernah dikirim ke server pihak ketiga selain API Gemini resmi Google.",
     "open_portal_btn": "Buka Portal",
     "got_it_btn": "Mengerti!"
+  },
+  "disclaimer": {
+    "title": "Penafian",
+    "content": "Aegis adalah aplikasi pendamping dan alat bantu draf tidak resmi buatan penggemar. Aplikasi ini tidak berafiliasi dengan, didukung, disponsori, atau disetujui secara khusus oleh Tencent Games, Level Infinite, atau TiMi Studio Group. Honor of Kings beserta seluruh merek dagang, logo, dan desain karakter terkait adalah hak milik dari pemiliknya masing-masing. Semua data permainan dan statistik counter disediakan semata-mata untuk tujuan edukasi dan analisis strategi berdasarkan prinsip fair use.",
+    "accept_btn": "Saya Mengerti & Setuju",
+    "close_btn": "Tutup"
   }
 }
