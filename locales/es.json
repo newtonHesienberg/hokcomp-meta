@@ -293,6 +293,7 @@
     "api_key_missing_title": "Falta Clave de API para el Modo Pro",
     "api_key_missing_desc": "Mostrando recomendaciones del Motor Interno. Agrega tu clave en Perfil para activar el Modo Pro.",
     "analyze_matchup": "ANALIZAR MATCHUP",
+    "realtime_results_toast": "⚡ ¡Los resultados se actualizan en tiempo real con el Motor Interno!",
     "top_counter_picks_lane": "Mejores Counter-Picks (%s)",
     "pro_counter_picks_synergies": "Counter-Picks Pro y Sinergias",
     "smart_counter_picks_synergies": "Counter-Picks Inteligentes y Sinergias",

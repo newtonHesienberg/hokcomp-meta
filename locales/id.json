@@ -293,6 +293,7 @@
     "api_key_missing_title": "Kunci API Tidak Ada untuk Mode Pro",
     "api_key_missing_desc": "Menampilkan rekomendasi Mesin Internal sebagai cadangan. Tambahkan kunci mesin di Profil untuk mengaktifkan Mode Pro.",
     "analyze_matchup": "ANALISIS MATCHUP",
+    "realtime_results_toast": "⚡ Hasil diperbarui secara real-time dengan Mesin Internal!",
     "top_counter_picks_lane": "Counter-Pick Teratas (%s)",
     "pro_counter_picks_synergies": "Counter Pro & Sinergi",
     "smart_counter_picks_synergies": "Counter Cerdas & Sinergi",

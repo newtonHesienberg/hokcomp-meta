@@ -293,6 +293,7 @@
     "api_key_missing_title": "API Key Missing for Pro Mode",
     "api_key_missing_desc": "Showing Internal Engine recommendations as fallback. Add your engine key in Profile to enable Pro mode.",
     "analyze_matchup": "ANALYZE MATCHUP",
+    "realtime_results_toast": "⚡ Results are updated in real-time with Internal Engine!",
     "top_counter_picks_lane": "Top Counter Picks (%s)",
     "pro_counter_picks_synergies": "Pro Counter Picks & Synergies",
     "smart_counter_picks_synergies": "Smart Counter Picks & Synergies",
