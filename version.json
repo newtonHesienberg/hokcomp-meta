@@ -1,6 +1,6 @@
 {
-  "version": 6,
+  "version": 7,
   "season": "Season 16",
   "patch_date": "Sept 2026",
-  "description": "Season 16 meta update: Added exclusive heroes Florentino (#114), Annette (#115), and Lorion (#116) with verified matchups and tier ratings."
+  "description": "Season 16 meta update: Optimized recommendation scoring with Meta/Comfort priority, enhanced draft overlay, and UI stability fixes."
 }
