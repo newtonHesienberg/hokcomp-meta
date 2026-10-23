@@ -1,0 +1,60 @@
+{
+  "rewarded_ads_enabled": false,
+  "gemini_tutorial_video_url": "https://www.youtube.com/shorts/qT7nzO5oA1c",
+  "disclaimer_enabled": true,
+  "disclaimer_version": "1.0.0",
+  "scoring": {
+    "same_lane_multiplier": 2.5,
+    "primary_lane_bonus": 3.0,
+    "secondary_lane_with_counter_bonus": 1.0,
+    "secondary_lane_without_counter_penalty": 4.0,
+
+    "anti_physical_wall_bonus": 6.0,
+    "true_damage_vs_shield_or_armor_bonus": 4.0,
+    "late_hypercarry_vs_early_snowball_penalty": 3.0,
+    "early_bully_vs_early_snowball_bonus": 3.0,
+    "cc_lockdown_vs_mobility_bonus": 2.0,
+    "anti_heal_vs_sustain_bonus": 2.0,
+    "true_damage_vs_tank_bonus": 2.0,
+    "peel_sustain_vs_burst_bonus": 2.0,
+    "burst_vs_marksman_bonus": 2.0,
+    "dps_vs_tank_bonus": 2.0,
+    "disengage_vs_hard_cc_bonus": 2.0,
+
+    "attack_speed_slow_vs_basic_attack_bonus": 4.0,
+    "basic_attack_vs_attack_speed_slow_penalty": 3.0,
+    "immunity_cc_vs_hard_cc_bonus": 3.5,
+    "suppression_ult_vs_mobility_bonus": 3.5,
+    "suppression_ult_vs_immunity_cc_bonus": 2.0,
+    "invulnerability_vs_suppression_ult_penalty": 2.0,
+    "silence_disruptor_vs_combo_bonus": 3.0,
+    "invulnerability_vs_burst_bonus": 2.5,
+
+    "meta_tier_s_bonus": 3.0,
+    "meta_tier_a_bonus": 1.75,
+    "meta_tier_c_penalty": 1.0,
+
+    "comfort_meta_tier_s_bonus": 1.5,
+    "comfort_meta_tier_a_bonus": 1.0,
+    "comfort_meta_tier_c_penalty": 1.0,
+    "comfort_mastery_bonus": 3.0,
+
+    "armor_stack_deterrence_penalty": 5,
+    "vital_magic_damage_bonus": 2,
+    "vital_physical_damage_bonus": 2,
+    "frontline_role_bonus": 2,
+    "crucial_cc_bonus": 2,
+
+    "eval_base_score": 86,
+    "eval_score_multiplier": 1.5,
+    "eval_min_score": 75,
+    "eval_max_score": 98,
+    "rec_base_score": 88,
+    "rec_score_multiplier": 1.5,
+    "rec_min_base_score": 84,
+    "rec_max_base_score": 98,
+    "rec_diff_multiplier": 2.5,
+    "rec_rank_step_multiplier": 1.8,
+    "rec_min_floor_score": 60
+  }
+}

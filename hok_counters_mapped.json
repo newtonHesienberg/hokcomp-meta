@@ -7,8 +7,38 @@
       "Jungle"
     ],
     "tier": "Tier C",
-    "strong_against": [],
-    "countered_by": []
+    "strong_against": [
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      }
+    ]
   },
   {
     "id": 2,
@@ -19,6 +49,10 @@
     ],
     "tier": "Tier B",
     "strong_against": [
+      {
+        "id": 44,
+        "name": "Garo"
+      },
       {
         "id": 48,
         "name": "Han Xin"
@@ -32,7 +66,20 @@
         "name": "Sima Yi"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      }
+    ]
   },
   {
     "id": 3,
@@ -48,6 +95,10 @@
         "name": "Kongming"
       },
       {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
         "id": 78,
         "name": "Milady"
       },
@@ -58,8 +109,28 @@
     ],
     "countered_by": [
       {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 29,
         "name": "Donghuang"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
       }
     ]
   },
@@ -77,6 +148,10 @@
         "name": "Augran"
       },
       {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
         "id": 27,
         "name": "Diaochan"
       },
@@ -87,8 +162,36 @@
     ],
     "countered_by": [
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
         "id": 104,
         "name": "Yao"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ]
   },
@@ -101,7 +204,20 @@
     ],
     "tier": "Tier S",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      }
+    ]
   },
   {
     "id": 6,
@@ -111,8 +227,26 @@
       "Jungle"
     ],
     "tier": "Tier B",
-    "strong_against": [],
-    "countered_by": []
+    "strong_against": [
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      }
+    ]
   },
   {
     "id": 7,
@@ -128,11 +262,39 @@
         "name": "Sima Yi"
       },
       {
+        "id": 95,
+        "name": "Umbrosa"
+      },
+      {
+        "id": 98,
+        "name": "Wuyan"
+      },
+      {
         "id": 112,
         "name": "Zilong"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
     "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
       {
         "id": 109,
         "name": "Zhang Fei"
@@ -148,15 +310,48 @@
       "Jungle"
     ],
     "tier": "Tier A",
-    "strong_against": [],
+    "strong_against": [
+      {
+        "id": 3,
+        "name": "Allain"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 74,
+        "name": "Mayene"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      }
+    ],
     "countered_by": [
       {
         "id": 15,
         "name": "Cai Yan"
       },
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
         "id": 67,
         "name": "Liu Shan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
       },
       {
         "id": 86,
@@ -165,6 +360,14 @@
       {
         "id": 94,
         "name": "Ukyo Tachibana"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -178,7 +381,24 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 53,
+        "name": "Jing"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      }
+    ]
   },
   {
     "id": 10,
@@ -206,6 +426,22 @@
       {
         "id": 21,
         "name": "Da Qiao"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
       },
       {
         "id": 83,
@@ -246,12 +482,32 @@
         "name": "Daji"
       },
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 28,
         "name": "Dolia"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
         "id": 67,
         "name": "Liu Shan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
       },
       {
         "id": 107,
@@ -268,7 +524,24 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      }
+    ]
   },
   {
     "id": 13,
@@ -280,26 +553,78 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 35,
+        "name": "Fatih"
+      },
+      {
+        "id": 39,
+        "name": "Flowborn (Tank)"
+      },
+      {
         "id": 55,
         "name": "Kongming"
+      },
+      {
+        "id": 60,
+        "name": "Lapulapu"
+      },
+      {
+        "id": 86,
+        "name": "Pei"
       },
       {
         "id": 88,
         "name": "Shangguan"
       },
       {
+        "id": 95,
+        "name": "Umbrosa"
+      },
+      {
         "id": 113,
         "name": "Ziya"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
       }
     ],
     "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
       {
         "id": 21,
         "name": "Da Qiao"
       },
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
         "id": 67,
         "name": "Liu Shan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -313,19 +638,36 @@
     "tier": "Tier B",
     "strong_against": [
       {
-        "id": 50,
-        "name": "Heino"
+        "id": 27,
+        "name": "Diaochan"
       },
       {
         "id": 41,
         "name": "Gan & Mo"
       },
       {
-        "id": 27,
-        "name": "Diaochan"
+        "id": 50,
+        "name": "Heino"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      }
+    ]
   },
   {
     "id": 15,
@@ -349,7 +691,36 @@
         "name": "Li Xin"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 84,
+        "name": "Nezha"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ]
   },
   {
     "id": 16,
@@ -360,8 +731,30 @@
       "Jungle"
     ],
     "tier": "Tier C",
-    "strong_against": [],
-    "countered_by": []
+    "strong_against": [
+      {
+        "id": 115,
+        "name": "Annette"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      }
+    ]
   },
   {
     "id": 17,
@@ -374,19 +767,140 @@
     "tier": "Tier A",
     "strong_against": [
       {
+        "id": 2,
+        "name": "Alessio"
+      },
+      {
+        "id": 3,
+        "name": "Allain"
+      },
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 16,
+        "name": "Chano"
+      },
+      {
+        "id": 23,
+        "name": "Devara"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 33,
+        "name": "Erin"
+      },
+      {
+        "id": 35,
+        "name": "Fatih"
+      },
+      {
+        "id": 38,
+        "name": "Flowborn (Marksman)"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 57,
+        "name": "Lady Sun"
+      },
+      {
         "id": 58,
         "name": "Lady Zhen"
+      },
+      {
+        "id": 62,
+        "name": "Li Xin"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 69,
+        "name": "Luara"
       },
       {
         "id": 72,
         "name": "Mai Shiranui"
       },
       {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 74,
+        "name": "Mayene"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 102,
+        "name": "Yang Jian"
+      },
+      {
+        "id": 112,
+        "name": "Zilong"
+      },
+      {
         "id": 113,
         "name": "Ziya"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      }
+    ]
   },
   {
     "id": 18,
@@ -399,7 +913,28 @@
     ],
     "tier": "Tier S",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      }
+    ]
   },
   {
     "id": 19,
@@ -432,6 +967,10 @@
         "name": "Lady Zhen"
       },
       {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
         "id": 73,
         "name": "Marco Polo"
       },
@@ -444,8 +983,16 @@
         "name": "Mozi"
       },
       {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
         "id": 107,
         "name": "Yixing"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       },
       {
         "id": 110,
@@ -465,8 +1012,61 @@
       "Farm"
     ],
     "tier": "Tier A",
-    "strong_against": [],
+    "strong_against": [
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
+        "id": 34,
+        "name": "Fang"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 57,
+        "name": "Lady Sun"
+      },
+      {
+        "id": 66,
+        "name": "Liu Bei"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      }
+    ],
     "countered_by": [
+      {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
       {
         "id": 109,
         "name": "Zhang Fei"
@@ -502,12 +1102,28 @@
         "name": "Athena"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
         "id": 54,
         "name": "Kaizer"
       },
       {
         "id": 62,
         "name": "Li Xin"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
       }
     ]
   },
@@ -535,6 +1151,10 @@
     ],
     "countered_by": [
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
         "id": 46,
         "name": "Guan Yu"
       },
@@ -545,6 +1165,18 @@
       {
         "id": 68,
         "name": "Lu Bu"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -557,7 +1189,20 @@
     ],
     "tier": "Tier A",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ]
   },
   {
     "id": 24,
@@ -584,12 +1229,24 @@
     ],
     "countered_by": [
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 28,
         "name": "Dolia"
       },
       {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
         "id": 53,
         "name": "Jing"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -603,8 +1260,20 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 34,
+        "name": "Fang"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
         "id": 72,
         "name": "Mai Shiranui"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
       },
       {
         "id": 94,
@@ -615,7 +1284,24 @@
         "name": "Ying"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      }
+    ]
   },
   {
     "id": 26,
@@ -627,22 +1313,38 @@
     "tier": "Tier B",
     "strong_against": [
       {
-        "id": 110,
-        "name": "Zhou Yu"
+        "id": 77,
+        "name": "Mi Yue"
       },
       {
         "id": 107,
         "name": "Yixing"
       },
       {
-        "id": 77,
-        "name": "Mi Yue"
+        "id": 110,
+        "name": "Zhou Yu"
       }
     ],
     "countered_by": [
       {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 32,
         "name": "Dyadia"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
       },
       {
         "id": 105,
@@ -651,6 +1353,14 @@
       {
         "id": 111,
         "name": "Zhuangzi"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -665,6 +1375,102 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 3,
+        "name": "Allain"
+      },
+      {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 9,
+        "name": "Ata"
+      },
+      {
+        "id": 10,
+        "name": "Athena"
+      },
+      {
+        "id": 11,
+        "name": "Augran"
+      },
+      {
+        "id": 12,
+        "name": "Bai Qi"
+      },
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 23,
+        "name": "Devara"
+      },
+      {
+        "id": 24,
+        "name": "Dharma"
+      },
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 34,
+        "name": "Fang"
+      },
+      {
+        "id": 39,
+        "name": "Flowborn (Tank)"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 50,
+        "name": "Heino"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 60,
+        "name": "Lapulapu"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 65,
+        "name": "Liu Bang"
+      },
+      {
+        "id": 66,
+        "name": "Liu Bei"
+      },
+      {
+        "id": 67,
+        "name": "Liu Shan"
+      },
+      {
+        "id": 76,
+        "name": "Menki"
+      },
+      {
         "id": 81,
         "name": "Mulan"
       },
@@ -673,8 +1479,36 @@
         "name": "Nakoruru"
       },
       {
+        "id": 92,
+        "name": "Sun Bin"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
         "id": 101,
         "name": "Xuance"
+      },
+      {
+        "id": 102,
+        "name": "Yang Jian"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
     "countered_by": [
@@ -687,12 +1521,20 @@
         "name": "Butterfly"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 30,
         "name": "Dr Bian"
       },
       {
         "id": 31,
         "name": "Dun"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
       },
       {
         "id": 50,
@@ -705,6 +1547,10 @@
       {
         "id": 57,
         "name": "Lady Sun"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 69,
@@ -727,12 +1573,20 @@
         "name": "Shouyue"
       },
       {
+        "id": 96,
+        "name": "Wang Zhaojun"
+      },
+      {
         "id": 102,
         "name": "Yang Jian"
       },
       {
         "id": 113,
         "name": "Ziya"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -746,19 +1600,40 @@
     "tier": "Tier A",
     "strong_against": [
       {
-        "id": 24,
-        "name": "Dharma"
-      },
-      {
         "id": 11,
         "name": "Augran"
+      },
+      {
+        "id": 24,
+        "name": "Dharma"
       },
       {
         "id": 80,
         "name": "Mozi"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ]
   },
   {
     "id": 29,
@@ -775,15 +1650,180 @@
         "name": "Allain"
       },
       {
+        "id": 6,
+        "name": "Arke"
+      },
+      {
+        "id": 7,
+        "name": "Arli"
+      },
+      {
+        "id": 10,
+        "name": "Athena"
+      },
+      {
+        "id": 11,
+        "name": "Augran"
+      },
+      {
+        "id": 14,
+        "name": "Butterfly"
+      },
+      {
+        "id": 15,
+        "name": "Cai Yan"
+      },
+      {
         "id": 19,
         "name": "Cirrus"
       },
       {
+        "id": 21,
+        "name": "Da Qiao"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 28,
+        "name": "Dolia"
+      },
+      {
+        "id": 32,
+        "name": "Dyadia"
+      },
+      {
+        "id": 36,
+        "name": "Feyd"
+      },
+      {
+        "id": 42,
+        "name": "Gao"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 50,
+        "name": "Heino"
+      },
+      {
+        "id": 53,
+        "name": "Jing"
+      },
+      {
         "id": 54,
         "name": "Kaizer"
+      },
+      {
+        "id": 55,
+        "name": "Kongming"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 69,
+        "name": "Luara"
+      },
+      {
+        "id": 71,
+        "name": "Luna"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
+        "id": 82,
+        "name": "Musashi"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 95,
+        "name": "Umbrosa"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
+      },
+      {
+        "id": 101,
+        "name": "Xuance"
+      },
+      {
+        "id": 103,
+        "name": "Yango"
+      },
+      {
+        "id": 104,
+        "name": "Yao"
+      },
+      {
+        "id": 105,
+        "name": "Yaria"
+      },
+      {
+        "id": 106,
+        "name": "Ying"
+      },
+      {
+        "id": 108,
+        "name": "Yuhuan"
+      },
+      {
+        "id": 112,
+        "name": "Zilong"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      }
+    ]
   },
   {
     "id": 30,
@@ -795,15 +1835,43 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 72,
-        "name": "Mai Shiranui"
+        "id": 15,
+        "name": "Cai Yan"
       },
       {
         "id": 27,
         "name": "Diaochan"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
       }
     ],
     "countered_by": [
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 84,
+        "name": "Nezha"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
       {
         "id": 102,
         "name": "Yang Jian"
@@ -825,15 +1893,35 @@
         "name": "Diaochan"
       },
       {
+        "id": 33,
+        "name": "Erin"
+      },
+      {
         "id": 34,
         "name": "Fang"
       },
       {
-        "id": 33,
-        "name": "Erin"
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
       }
     ],
     "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
       {
         "id": 48,
         "name": "Han Xin"
@@ -843,12 +1931,24 @@
         "name": "Li Bai"
       },
       {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
         "id": 97,
         "name": "Wukong"
       },
       {
         "id": 105,
         "name": "Yaria"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
       }
     ]
   },
@@ -874,7 +1974,24 @@
         "name": "Musashi"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
+      }
+    ]
   },
   {
     "id": 33,
@@ -886,22 +2003,38 @@
     "tier": "Tier A",
     "strong_against": [
       {
-        "id": 106,
-        "name": "Ying"
-      },
-      {
         "id": 48,
         "name": "Han Xin"
       },
       {
         "id": 59,
         "name": "Lam"
+      },
+      {
+        "id": 106,
+        "name": "Ying"
       }
     ],
     "countered_by": [
       {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
         "id": 31,
         "name": "Dun"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
       }
     ]
   },
@@ -930,8 +2063,28 @@
     ],
     "countered_by": [
       {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 31,
         "name": "Dun"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
       }
     ]
   },
@@ -945,7 +2098,28 @@
     ],
     "tier": "Tier A",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ]
   },
   {
     "id": 36,
@@ -956,7 +2130,24 @@
     ],
     "tier": "Tier B",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      }
+    ]
   },
   {
     "id": 37,
@@ -967,7 +2158,24 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      }
+    ]
   },
   {
     "id": 38,
@@ -978,7 +2186,24 @@
     ],
     "tier": "Tier B",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      }
+    ]
   },
   {
     "id": 39,
@@ -989,7 +2214,24 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      }
+    ]
   },
   {
     "id": 40,
@@ -1001,8 +2243,32 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 78,
-        "name": "Milady"
+        "id": 3,
+        "name": "Allain"
+      },
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
+        "id": 35,
+        "name": "Fatih"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 60,
+        "name": "Lapulapu"
       },
       {
         "id": 71,
@@ -1011,9 +2277,42 @@
       {
         "id": 72,
         "name": "Mai Shiranui"
+      },
+      {
+        "id": 78,
+        "name": "Milady"
+      },
+      {
+        "id": 84,
+        "name": "Nezha"
+      },
+      {
+        "id": 102,
+        "name": "Yang Jian"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ]
   },
   {
     "id": 41,
@@ -1025,22 +2324,130 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 5,
+        "name": "Ao'yin"
+      },
+      {
+        "id": 16,
+        "name": "Chano"
+      },
+      {
         "id": 19,
         "name": "Cirrus"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 22,
+        "name": "Daji"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 33,
+        "name": "Erin"
+      },
+      {
+        "id": 38,
+        "name": "Flowborn (Marksman)"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 52,
+        "name": "Huang Zhong"
       },
       {
         "id": 53,
         "name": "Jing"
       },
       {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 69,
+        "name": "Luara"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 80,
+        "name": "Mozi"
+      },
+      {
         "id": 86,
         "name": "Pei"
+      },
+      {
+        "id": 89,
+        "name": "Shi"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
+        "id": 105,
+        "name": "Yaria"
+      },
+      {
+        "id": 108,
+        "name": "Yuhuan"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ],
     "countered_by": [
       {
         "id": 14,
         "name": "Butterfly"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
       },
       {
         "id": 93,
@@ -1070,7 +2477,24 @@
         "name": "Xuance"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
+      }
+    ]
   },
   {
     "id": 43,
@@ -1080,8 +2504,158 @@
       "Jungle"
     ],
     "tier": "Tier B",
-    "strong_against": [],
-    "countered_by": []
+    "strong_against": [
+      {
+        "id": 2,
+        "name": "Alessio"
+      },
+      {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 5,
+        "name": "Ao'yin"
+      },
+      {
+        "id": 16,
+        "name": "Chano"
+      },
+      {
+        "id": 18,
+        "name": "Chicha"
+      },
+      {
+        "id": 21,
+        "name": "Da Qiao"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 33,
+        "name": "Erin"
+      },
+      {
+        "id": 34,
+        "name": "Fang"
+      },
+      {
+        "id": 38,
+        "name": "Flowborn (Marksman)"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 45,
+        "name": "Garuda"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 49,
+        "name": "Haya"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 57,
+        "name": "Lady Sun"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
+      },
+      {
+        "id": 69,
+        "name": "Luara"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 75,
+        "name": "Meng Ya"
+      },
+      {
+        "id": 79,
+        "name": "Ming"
+      },
+      {
+        "id": 85,
+        "name": "Nuwa"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 113,
+        "name": "Ziya"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      }
+    ]
   },
   {
     "id": 44,
@@ -1093,6 +2667,30 @@
     "tier": "Tier A",
     "strong_against": [
       {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 75,
+        "name": "Meng Ya"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
         "id": 83,
         "name": "Nakoruru"
       },
@@ -1101,11 +2699,64 @@
         "name": "Xuance"
       },
       {
-        "id": 61,
-        "name": "Li Bai"
+        "id": 105,
+        "name": "Yaria"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 2,
+        "name": "Alessio"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ]
   },
   {
     "id": 45,
@@ -1116,7 +2767,20 @@
     ],
     "tier": "Tier B",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      }
+    ]
   },
   {
     "id": 46,
@@ -1128,19 +2792,112 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 1,
+        "name": "Agudo"
+      },
+      {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 21,
+        "name": "Da Qiao"
+      },
+      {
         "id": 22,
         "name": "Daji"
+      },
+      {
+        "id": 24,
+        "name": "Dharma"
+      },
+      {
+        "id": 28,
+        "name": "Dolia"
+      },
+      {
+        "id": 32,
+        "name": "Dyadia"
+      },
+      {
+        "id": 37,
+        "name": "Flowborn (Mage)"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 42,
+        "name": "Gao"
+      },
+      {
+        "id": 45,
+        "name": "Garuda"
+      },
+      {
+        "id": 55,
+        "name": "Kongming"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 65,
+        "name": "Liu Bang"
       },
       {
         "id": 77,
         "name": "Mi Yue"
       },
       {
+        "id": 79,
+        "name": "Ming"
+      },
+      {
+        "id": 85,
+        "name": "Nuwa"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
+      },
+      {
         "id": 107,
         "name": "Yixing"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 56,
+        "name": "Kui"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
+      }
+    ]
   },
   {
     "id": 47,
@@ -1151,6 +2908,14 @@
     ],
     "tier": "Tier C",
     "strong_against": [
+      {
+        "id": 15,
+        "name": "Cai Yan"
+      },
+      {
+        "id": 57,
+        "name": "Lady Sun"
+      },
       {
         "id": 62,
         "name": "Li Xin"
@@ -1164,7 +2929,24 @@
         "name": "Zilong"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      }
+    ]
   },
   {
     "id": 48,
@@ -1176,16 +2958,48 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 68,
-        "name": "Lu Bu"
-      },
-      {
         "id": 31,
         "name": "Dun"
       },
       {
+        "id": 37,
+        "name": "Flowborn (Mage)"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 80,
+        "name": "Mozi"
+      },
+      {
+        "id": 85,
+        "name": "Nuwa"
+      },
+      {
+        "id": 89,
+        "name": "Shi"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
+      },
+      {
         "id": 99,
         "name": "Xiang Yu"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 113,
+        "name": "Ziya"
       }
     ],
     "countered_by": [
@@ -1198,8 +3012,16 @@
         "name": "Alessio"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 33,
         "name": "Erin"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
       },
       {
         "id": 55,
@@ -1208,6 +3030,10 @@
       {
         "id": 64,
         "name": "Liang"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
       },
       {
         "id": 100,
@@ -1225,19 +3051,32 @@
     "tier": "Tier A",
     "strong_against": [
       {
+        "id": 78,
+        "name": "Milady"
+      },
+      {
         "id": 87,
         "name": "Sakeer"
       },
       {
         "id": 112,
         "name": "Zilong"
-      },
-      {
-        "id": 78,
-        "name": "Milady"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      }
+    ]
   },
   {
     "id": 50,
@@ -1270,6 +3109,18 @@
       {
         "id": 24,
         "name": "Dharma"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 68,
@@ -1311,6 +3162,42 @@
       {
         "id": 1,
         "name": "Agudo"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ]
   },
@@ -1324,19 +3211,40 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 101,
-        "name": "Xuance"
+        "id": 53,
+        "name": "Jing"
       },
       {
         "id": 72,
         "name": "Mai Shiranui"
       },
       {
-        "id": 53,
-        "name": "Jing"
+        "id": 101,
+        "name": "Xuance"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      }
+    ]
   },
   {
     "id": 53,
@@ -1348,12 +3256,12 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 24,
-        "name": "Dharma"
-      },
-      {
         "id": 9,
         "name": "Ata"
+      },
+      {
+        "id": 24,
+        "name": "Dharma"
       },
       {
         "id": 63,
@@ -1370,6 +3278,10 @@
         "name": "Daji"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 41,
         "name": "Gan & Mo"
       },
@@ -1380,6 +3292,18 @@
       {
         "id": 55,
         "name": "Kongming"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       }
     ]
   },
@@ -1394,30 +3318,98 @@
     "tier": "Tier A",
     "strong_against": [
       {
+        "id": 1,
+        "name": "Agudo"
+      },
+      {
         "id": 21,
         "name": "Da Qiao"
+      },
+      {
+        "id": 22,
+        "name": "Daji"
       },
       {
         "id": 27,
         "name": "Diaochan"
       },
       {
-        "id": 22,
-        "name": "Daji"
+        "id": 35,
+        "name": "Fatih"
+      },
+      {
+        "id": 62,
+        "name": "Li Xin"
+      },
+      {
+        "id": 71,
+        "name": "Luna"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 94,
+        "name": "Ukyo Tachibana"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
+      },
+      {
+        "id": 106,
+        "name": "Ying"
       }
     ],
     "countered_by": [
       {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 29,
         "name": "Donghuang"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
       },
       {
         "id": 56,
         "name": "Kui"
       },
       {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
         "id": 92,
         "name": "Sun Bin"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -1454,12 +3446,32 @@
         "name": "Biron"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
         "id": 98,
         "name": "Wuyan"
       },
       {
         "id": 106,
         "name": "Ying"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       }
     ]
   },
@@ -1473,15 +3485,40 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
         "id": 54,
         "name": "Kaizer"
+      },
+      {
+        "id": 79,
+        "name": "Ming"
       },
       {
         "id": 99,
         "name": "Xiang Yu"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      }
+    ]
   },
   {
     "id": 57,
@@ -1505,7 +3542,28 @@
         "name": "Ying"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      }
+    ]
   },
   {
     "id": 58,
@@ -1527,12 +3585,28 @@
       {
         "id": 91,
         "name": "Sima Yi"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ],
     "countered_by": [
       {
         "id": 17,
         "name": "Charlotte"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
       },
       {
         "id": 66,
@@ -1547,12 +3621,28 @@
         "name": "Menki"
       },
       {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
         "id": 98,
         "name": "Wuyan"
       },
       {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
         "id": 112,
         "name": "Zilong"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ]
   },
@@ -1566,8 +3656,24 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 18,
+        "name": "Chicha"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
         "id": 68,
         "name": "Lu Bu"
+      },
+      {
+        "id": 87,
+        "name": "Sakeer"
       },
       {
         "id": 98,
@@ -1576,12 +3682,28 @@
       {
         "id": 99,
         "name": "Xiang Yu"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
+        "id": 113,
+        "name": "Ziya"
       }
     ],
     "countered_by": [
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 33,
         "name": "Erin"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
       },
       {
         "id": 64,
@@ -1602,6 +3724,10 @@
       {
         "id": 107,
         "name": "Yixing"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       }
     ]
   },
@@ -1614,7 +3740,24 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ]
   },
   {
     "id": 61,
@@ -1626,8 +3769,24 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
         "id": 31,
         "name": "Dun"
+      },
+      {
+        "id": 37,
+        "name": "Flowborn (Mage)"
+      },
+      {
+        "id": 52,
+        "name": "Huang Zhong"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
       },
       {
         "id": 63,
@@ -1636,20 +3795,56 @@
       {
         "id": 67,
         "name": "Liu Shan"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 85,
+        "name": "Nuwa"
+      },
+      {
+        "id": 87,
+        "name": "Sakeer"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
     "countered_by": [
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 44,
         "name": "Garo"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 80,
         "name": "Mozi"
       },
       {
+        "id": 86,
+        "name": "Pei"
+      },
+      {
         "id": 89,
         "name": "Shi"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       }
     ]
   },
@@ -1677,12 +3872,32 @@
         "name": "Cai Yan"
       },
       {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
         "id": 21,
         "name": "Da Qiao"
       },
       {
         "id": 47,
         "name": "Guiguzi"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
       }
     ]
   },
@@ -1697,15 +3912,67 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 6,
+        "name": "Arke"
+      },
+      {
+        "id": 14,
+        "name": "Butterfly"
+      },
+      {
+        "id": 18,
+        "name": "Chicha"
+      },
+      {
+        "id": 36,
+        "name": "Feyd"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 56,
+        "name": "Kui"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
         "id": 70,
         "name": "Luban No.7"
       },
       {
         "id": 73,
         "name": "Marco Polo"
+      },
+      {
+        "id": 79,
+        "name": "Ming"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      },
+      {
+        "id": 86,
+        "name": "Pei"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
+      },
+      {
+        "id": 101,
+        "name": "Xuance"
       }
     ],
     "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
       {
         "id": 53,
         "name": "Jing"
@@ -1715,12 +3982,32 @@
         "name": "Li Bai"
       },
       {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
         "id": 94,
         "name": "Ukyo Tachibana"
       },
       {
         "id": 97,
         "name": "Wukong"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -1734,19 +4021,151 @@
     "tier": "Tier S",
     "strong_against": [
       {
+        "id": 5,
+        "name": "Ao'yin"
+      },
+      {
+        "id": 7,
+        "name": "Arli"
+      },
+      {
+        "id": 10,
+        "name": "Athena"
+      },
+      {
+        "id": 11,
+        "name": "Augran"
+      },
+      {
+        "id": 14,
+        "name": "Butterfly"
+      },
+      {
+        "id": 19,
+        "name": "Cirrus"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 28,
+        "name": "Dolia"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 32,
+        "name": "Dyadia"
+      },
+      {
+        "id": 36,
+        "name": "Feyd"
+      },
+      {
+        "id": 42,
+        "name": "Gao"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
         "id": 48,
         "name": "Han Xin"
+      },
+      {
+        "id": 50,
+        "name": "Heino"
+      },
+      {
+        "id": 53,
+        "name": "Jing"
+      },
+      {
+        "id": 55,
+        "name": "Kongming"
       },
       {
         "id": 59,
         "name": "Lam"
       },
       {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 71,
+        "name": "Luna"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 74,
+        "name": "Mayene"
+      },
+      {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
         "id": 81,
         "name": "Mulan"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 101,
+        "name": "Xuance"
+      },
+      {
+        "id": 104,
+        "name": "Yao"
+      },
+      {
+        "id": 106,
+        "name": "Ying"
+      },
+      {
+        "id": 112,
+        "name": "Zilong"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
     "countered_by": [
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
       {
         "id": 62,
         "name": "Li Xin"
@@ -1760,6 +4179,10 @@
         "name": "Mulan"
       },
       {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
         "id": 93,
         "name": "Sun Ce"
       },
@@ -1770,6 +4193,10 @@
       {
         "id": 106,
         "name": "Ying"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
       }
     ]
   },
@@ -1792,11 +4219,32 @@
         "name": "Meng Ya"
       },
       {
+        "id": 84,
+        "name": "Nezha"
+      },
+      {
         "id": 90,
         "name": "Shouyue"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 84,
+        "name": "Nezha"
+      }
+    ]
   },
   {
     "id": 66,
@@ -1822,8 +4270,24 @@
     ],
     "countered_by": [
       {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 32,
         "name": "Dyadia"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
       }
     ]
   },
@@ -1847,12 +4311,32 @@
       {
         "id": 13,
         "name": "Biron"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
       }
     ],
     "countered_by": [
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 61,
         "name": "Li Bai"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -1866,19 +4350,167 @@
     "tier": "Tier B",
     "strong_against": [
       {
-        "id": 50,
-        "name": "Heino"
+        "id": 1,
+        "name": "Agudo"
+      },
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 9,
+        "name": "Ata"
+      },
+      {
+        "id": 10,
+        "name": "Athena"
+      },
+      {
+        "id": 11,
+        "name": "Augran"
+      },
+      {
+        "id": 12,
+        "name": "Bai Qi"
+      },
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 15,
+        "name": "Cai Yan"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
       },
       {
         "id": 22,
         "name": "Daji"
       },
       {
+        "id": 23,
+        "name": "Devara"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 35,
+        "name": "Fatih"
+      },
+      {
+        "id": 39,
+        "name": "Flowborn (Tank)"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 50,
+        "name": "Heino"
+      },
+      {
+        "id": 52,
+        "name": "Huang Zhong"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 56,
+        "name": "Kui"
+      },
+      {
+        "id": 60,
+        "name": "Lapulapu"
+      },
+      {
+        "id": 62,
+        "name": "Li Xin"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 65,
+        "name": "Liu Bang"
+      },
+      {
+        "id": 66,
+        "name": "Liu Bei"
+      },
+      {
+        "id": 67,
+        "name": "Liu Shan"
+      },
+      {
         "id": 71,
         "name": "Luna"
+      },
+      {
+        "id": 76,
+        "name": "Menki"
+      },
+      {
+        "id": 84,
+        "name": "Nezha"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 98,
+        "name": "Wuyan"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
+      },
+      {
+        "id": 102,
+        "name": "Yang Jian"
+      },
+      {
+        "id": 105,
+        "name": "Yaria"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
     "countered_by": [
+      {
+        "id": 3,
+        "name": "Allain"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
       {
         "id": 48,
         "name": "Han Xin"
@@ -1888,12 +4520,28 @@
         "name": "Lam"
       },
       {
+        "id": 77,
+        "name": "Mi Yue"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      },
+      {
         "id": 86,
         "name": "Pei"
       },
       {
         "id": 91,
         "name": "Sima Yi"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
       }
     ]
   },
@@ -1911,15 +4559,36 @@
         "name": "Diaochan"
       },
       {
-        "id": 81,
-        "name": "Mulan"
-      },
-      {
         "id": 59,
         "name": "Lam"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      }
+    ]
   },
   {
     "id": 70,
@@ -1931,22 +4600,46 @@
     "tier": "Tier A",
     "strong_against": [
       {
-        "id": 106,
-        "name": "Ying"
+        "id": 59,
+        "name": "Lam"
       },
       {
         "id": 94,
         "name": "Ukyo Tachibana"
       },
       {
-        "id": 59,
-        "name": "Lam"
+        "id": 106,
+        "name": "Ying"
       }
     ],
     "countered_by": [
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
         "id": 63,
         "name": "Lian Po"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ]
   },
@@ -1960,16 +4653,16 @@
     "tier": "Tier B",
     "strong_against": [
       {
-        "id": 108,
-        "name": "Yuhuan"
+        "id": 50,
+        "name": "Heino"
       },
       {
         "id": 58,
         "name": "Lady Zhen"
       },
       {
-        "id": 50,
-        "name": "Heino"
+        "id": 108,
+        "name": "Yuhuan"
       }
     ],
     "countered_by": [
@@ -1982,8 +4675,20 @@
         "name": "Augran"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 40,
         "name": "Fuzi"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 68,
@@ -2011,7 +4716,40 @@
       "Mid"
     ],
     "tier": "Tier B",
-    "strong_against": [],
+    "strong_against": [
+      {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 52,
+        "name": "Huang Zhong"
+      },
+      {
+        "id": 57,
+        "name": "Lady Sun"
+      },
+      {
+        "id": 107,
+        "name": "Yixing"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ],
     "countered_by": [
       {
         "id": 2,
@@ -2026,6 +4764,10 @@
         "name": "Di Renjie"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 30,
         "name": "Dr Bian"
       },
@@ -2038,12 +4780,20 @@
         "name": "Fuzi"
       },
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
         "id": 42,
         "name": "Gao"
       },
       {
         "id": 52,
         "name": "Huang Zhong"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 73,
@@ -2066,8 +4816,16 @@
         "name": "Nezha"
       },
       {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
         "id": 108,
         "name": "Yuhuan"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -2081,19 +4839,103 @@
     "tier": "Tier A",
     "strong_against": [
       {
+        "id": 9,
+        "name": "Ata"
+      },
+      {
+        "id": 11,
+        "name": "Augran"
+      },
+      {
+        "id": 12,
+        "name": "Bai Qi"
+      },
+      {
         "id": 19,
         "name": "Cirrus"
+      },
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 39,
+        "name": "Flowborn (Tank)"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 66,
+        "name": "Liu Bei"
+      },
+      {
+        "id": 67,
+        "name": "Liu Shan"
       },
       {
         "id": 72,
         "name": "Mai Shiranui"
       },
       {
+        "id": 76,
+        "name": "Menki"
+      },
+      {
+        "id": 82,
+        "name": "Musashi"
+      },
+      {
         "id": 97,
         "name": "Wukong"
+      },
+      {
+        "id": 98,
+        "name": "Wuyan"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ],
     "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 25,
+        "name": "Di Renjie"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
       {
         "id": 63,
         "name": "Lian Po"
@@ -2119,19 +4961,35 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 85,
-        "name": "Nuwa"
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 77,
         "name": "Mi Yue"
       },
       {
-        "id": 64,
-        "name": "Liang"
+        "id": 85,
+        "name": "Nuwa"
       }
     ],
     "countered_by": [
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
       {
         "id": 105,
         "name": "Yaria"
@@ -2148,22 +5006,38 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
         "id": 72,
         "name": "Mai Shiranui"
       },
       {
         "id": 86,
         "name": "Pei"
-      },
-      {
-        "id": 27,
-        "name": "Diaochan"
       }
     ],
     "countered_by": [
       {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
         "id": 65,
         "name": "Liu Bang"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
       }
     ]
   },
@@ -2192,6 +5066,18 @@
     ],
     "countered_by": [
       {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
         "id": 79,
         "name": "Ming"
       },
@@ -2214,7 +5100,28 @@
       "Jungle"
     ],
     "tier": "Tier B",
-    "strong_against": [],
+    "strong_against": [
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 56,
+        "name": "Kui"
+      },
+      {
+        "id": 62,
+        "name": "Li Xin"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ],
     "countered_by": [
       {
         "id": 24,
@@ -2225,8 +5132,20 @@
         "name": "Dian Wei"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
         "id": 46,
         "name": "Guan Yu"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 74,
@@ -2256,16 +5175,16 @@
     "tier": "Tier A",
     "strong_against": [
       {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
         "id": 83,
         "name": "Nakoruru"
       },
       {
         "id": 86,
         "name": "Pei"
-      },
-      {
-        "id": 72,
-        "name": "Mai Shiranui"
       }
     ],
     "countered_by": [
@@ -2280,6 +5199,30 @@
       {
         "id": 49,
         "name": "Haya"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ]
   },
@@ -2305,7 +5248,24 @@
         "name": "Wuyan"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 56,
+        "name": "Kui"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      }
+    ]
   },
   {
     "id": 80,
@@ -2336,12 +5296,24 @@
         "name": "Dolia"
       },
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
         "id": 47,
         "name": "Guiguzi"
       },
       {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
         "id": 84,
         "name": "Nezha"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -2355,8 +5327,20 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 62,
+        "name": "Li Xin"
+      },
+      {
         "id": 64,
         "name": "Liang"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
       },
       {
         "id": 77,
@@ -2365,9 +5349,25 @@
       {
         "id": 85,
         "name": "Nuwa"
+      },
+      {
+        "id": 94,
+        "name": "Ukyo Tachibana"
+      },
+      {
+        "id": 104,
+        "name": "Yao"
       }
     ],
     "countered_by": [
+      {
+        "id": 8,
+        "name": "Arthur"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
       {
         "id": 27,
         "name": "Diaochan"
@@ -2379,6 +5379,14 @@
       {
         "id": 51,
         "name": "Hou Yi"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
       },
       {
         "id": 64,
@@ -2423,12 +5431,24 @@
     ],
     "countered_by": [
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 32,
         "name": "Dyadia"
       },
       {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
         "id": 92,
         "name": "Sun Bin"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       }
     ]
   },
@@ -2442,12 +5462,52 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 97,
-        "name": "Wukong"
-      },
-      {
         "id": 10,
         "name": "Athena"
+      },
+      {
+        "id": 16,
+        "name": "Chano"
+      },
+      {
+        "id": 18,
+        "name": "Chicha"
+      },
+      {
+        "id": 33,
+        "name": "Erin"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 69,
+        "name": "Luara"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 75,
+        "name": "Meng Ya"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
       },
       {
         "id": 99,
@@ -2468,12 +5528,20 @@
         "name": "Garo"
       },
       {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
         "id": 57,
         "name": "Lady Sun"
       },
       {
         "id": 58,
         "name": "Lady Zhen"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 78,
@@ -2492,6 +5560,10 @@
         "name": "Yuhuan"
       },
       {
+        "id": 109,
+        "name": "Zhang Fei"
+      },
+      {
         "id": 110,
         "name": "Zhou Yu"
       }
@@ -2507,6 +5579,18 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 15,
+        "name": "Cai Yan"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 65,
+        "name": "Liu Bang"
+      },
+      {
         "id": 72,
         "name": "Mai Shiranui"
       },
@@ -2519,7 +5603,24 @@
         "name": "Nuwa"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 65,
+        "name": "Liu Bang"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 92,
+        "name": "Sun Bin"
+      }
+    ]
   },
   {
     "id": 85,
@@ -2545,6 +5646,22 @@
     ],
     "countered_by": [
       {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
         "id": 66,
         "name": "Liu Bei"
       },
@@ -2559,6 +5676,10 @@
       {
         "id": 84,
         "name": "Nezha"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
       }
     ]
   },
@@ -2576,8 +5697,16 @@
         "name": "Arthur"
       },
       {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
         "id": 68,
         "name": "Lu Bu"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
       },
       {
         "id": 98,
@@ -2586,8 +5715,16 @@
     ],
     "countered_by": [
       {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
         "id": 41,
         "name": "Gan & Mo"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
       },
       {
         "id": 75,
@@ -2600,6 +5737,10 @@
       {
         "id": 85,
         "name": "Nuwa"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
       }
     ]
   },
@@ -2613,18 +5754,30 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 106,
-        "name": "Ying"
-      },
-      {
         "id": 71,
         "name": "Luna"
+      },
+      {
+        "id": 106,
+        "name": "Ying"
       }
     ],
     "countered_by": [
       {
         "id": 49,
         "name": "Haya"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
       }
     ]
   },
@@ -2642,12 +5795,32 @@
         "name": "Diaochan"
       },
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 78,
+        "name": "Milady"
+      },
+      {
         "id": 81,
         "name": "Mulan"
       },
       {
+        "id": 87,
+        "name": "Sakeer"
+      },
+      {
         "id": 91,
         "name": "Sima Yi"
+      },
+      {
+        "id": 113,
+        "name": "Ziya"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ],
     "countered_by": [
@@ -2658,6 +5831,18 @@
       {
         "id": 13,
         "name": "Biron"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 82,
@@ -2679,18 +5864,30 @@
         "name": "Li Bai"
       },
       {
-        "id": 97,
-        "name": "Wukong"
-      },
-      {
         "id": 94,
         "name": "Ukyo Tachibana"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
       }
     ],
     "countered_by": [
       {
         "id": 10,
         "name": "Athena"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
       }
     ]
   },
@@ -2704,22 +5901,102 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 2,
+        "name": "Alessio"
+      },
+      {
+        "id": 6,
+        "name": "Arke"
+      },
+      {
+        "id": 7,
+        "name": "Arli"
+      },
+      {
+        "id": 18,
+        "name": "Chicha"
+      },
+      {
+        "id": 19,
+        "name": "Cirrus"
+      },
+      {
         "id": 27,
         "name": "Diaochan"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 38,
+        "name": "Flowborn (Marksman)"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 52,
+        "name": "Huang Zhong"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 83,
         "name": "Nakoruru"
       },
       {
+        "id": 89,
+        "name": "Shi"
+      },
+      {
+        "id": 94,
+        "name": "Ukyo Tachibana"
+      },
+      {
+        "id": 103,
+        "name": "Yango"
+      },
+      {
         "id": 106,
         "name": "Ying"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ],
     "countered_by": [
       {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
         "id": 65,
         "name": "Liu Bang"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
       }
     ]
   },
@@ -2734,16 +6011,108 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      },
+      {
+        "id": 22,
+        "name": "Daji"
+      },
+      {
+        "id": 28,
+        "name": "Dolia"
+      },
+      {
+        "id": 30,
+        "name": "Dr Bian"
+      },
+      {
+        "id": 37,
+        "name": "Flowborn (Mage)"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 45,
+        "name": "Garuda"
+      },
+      {
+        "id": 49,
+        "name": "Haya"
+      },
+      {
+        "id": 55,
+        "name": "Kongming"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
+      },
+      {
         "id": 68,
         "name": "Lu Bu"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 76,
+        "name": "Menki"
+      },
+      {
+        "id": 78,
+        "name": "Milady"
+      },
+      {
+        "id": 85,
+        "name": "Nuwa"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
       },
       {
         "id": 98,
         "name": "Wuyan"
       },
       {
-        "id": 76,
-        "name": "Menki"
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
+        "id": 107,
+        "name": "Yixing"
+      },
+      {
+        "id": 108,
+        "name": "Yuhuan"
+      },
+      {
+        "id": 113,
+        "name": "Ziya"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
     "countered_by": [
@@ -2756,8 +6125,20 @@
         "name": "Arli"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
         "id": 58,
         "name": "Lady Zhen"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 88,
@@ -2775,15 +6156,48 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 22,
+        "name": "Daji"
+      },
+      {
+        "id": 32,
+        "name": "Dyadia"
+      },
+      {
+        "id": 42,
+        "name": "Gao"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
         "id": 54,
         "name": "Kaizer"
       },
       {
         "id": 82,
         "name": "Musashi"
+      },
+      {
+        "id": 84,
+        "name": "Nezha"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 31,
+        "name": "Dun"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      }
+    ]
   },
   {
     "id": 93,
@@ -2796,19 +6210,80 @@
     "tier": "Tier B",
     "strong_against": [
       {
-        "id": 64,
-        "name": "Liang"
+        "id": 3,
+        "name": "Allain"
+      },
+      {
+        "id": 17,
+        "name": "Charlotte"
       },
       {
         "id": 41,
         "name": "Gan & Mo"
       },
       {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 49,
+        "name": "Haya"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 74,
+        "name": "Mayene"
+      },
+      {
+        "id": 75,
+        "name": "Meng Ya"
+      },
+      {
         "id": 77,
         "name": "Mi Yue"
+      },
+      {
+        "id": 86,
+        "name": "Pei"
+      },
+      {
+        "id": 106,
+        "name": "Ying"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
+      }
+    ]
   },
   {
     "id": 94,
@@ -2839,6 +6314,10 @@
         "name": "Di Renjie"
       },
       {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
         "id": 55,
         "name": "Kongming"
       },
@@ -2847,8 +6326,16 @@
         "name": "Luban No.7"
       },
       {
+        "id": 81,
+        "name": "Mulan"
+      },
+      {
         "id": 89,
         "name": "Shi"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
       },
       {
         "id": 100,
@@ -2866,7 +6353,24 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 7,
+        "name": "Arli"
+      },
+      {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      }
+    ]
   },
   {
     "id": 96,
@@ -2876,8 +6380,38 @@
       "Mid"
     ],
     "tier": "Tier S",
-    "strong_against": [],
-    "countered_by": []
+    "strong_against": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 78,
+        "name": "Milady"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
+      }
+    ]
   },
   {
     "id": 97,
@@ -2891,6 +6425,10 @@
       {
         "id": 31,
         "name": "Dun"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
       },
       {
         "id": 63,
@@ -2907,12 +6445,28 @@
         "name": "Agudo"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 42,
         "name": "Gao"
       },
       {
         "id": 50,
         "name": "Heino"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 67,
+        "name": "Liu Shan"
       },
       {
         "id": 73,
@@ -2923,12 +6477,20 @@
         "name": "Nakoruru"
       },
       {
+        "id": 86,
+        "name": "Pei"
+      },
+      {
         "id": 89,
         "name": "Shi"
       },
       {
         "id": 108,
         "name": "Yuhuan"
+      },
+      {
+        "id": 115,
+        "name": "Annette"
       }
     ]
   },
@@ -2957,8 +6519,20 @@
     ],
     "countered_by": [
       {
+        "id": 7,
+        "name": "Arli"
+      },
+      {
         "id": 59,
         "name": "Lam"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
       },
       {
         "id": 79,
@@ -2987,8 +6561,25 @@
       "Clash Lane"
     ],
     "tier": "Tier B",
-    "strong_against": [],
+    "strong_against": [
+      {
+        "id": 21,
+        "name": "Da Qiao"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 53,
+        "name": "Jing"
+      }
+    ],
     "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
       {
         "id": 48,
         "name": "Han Xin"
@@ -3002,12 +6593,24 @@
         "name": "Lam"
       },
       {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
         "id": 83,
         "name": "Nakoruru"
       },
       {
         "id": 97,
         "name": "Wukong"
+      },
+      {
+        "id": 114,
+        "name": "Florentino"
       }
     ]
   },
@@ -3021,15 +6624,35 @@
     "tier": "Tier A",
     "strong_against": [
       {
-        "id": 94,
-        "name": "Ukyo Tachibana"
-      },
-      {
         "id": 48,
         "name": "Han Xin"
+      },
+      {
+        "id": 94,
+        "name": "Ukyo Tachibana"
       }
     ],
     "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
       {
         "id": 66,
         "name": "Liu Bei"
@@ -3037,6 +6660,10 @@
       {
         "id": 76,
         "name": "Menki"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
       }
     ]
   },
@@ -3059,6 +6686,10 @@
         "name": "Diaochan"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 42,
         "name": "Gao"
       },
@@ -3075,8 +6706,20 @@
         "name": "Huang Zhong"
       },
       {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
         "id": 110,
         "name": "Zhou Yu"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -3095,15 +6738,32 @@
         "name": "Diaochan"
       },
       {
-        "id": 71,
-        "name": "Luna"
-      },
-      {
         "id": 30,
         "name": "Dr Bian"
+      },
+      {
+        "id": 71,
+        "name": "Luna"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ]
   },
   {
     "id": 103,
@@ -3115,7 +6775,20 @@
     ],
     "tier": "Tier C",
     "strong_against": [],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      }
+    ]
   },
   {
     "id": 104,
@@ -3140,7 +6813,20 @@
         "name": "Ziya"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 81,
+        "name": "Mulan"
+      }
+    ]
   },
   {
     "id": 105,
@@ -3164,7 +6850,24 @@
         "name": "Mayene"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      }
+    ]
   },
   {
     "id": 106,
@@ -3194,12 +6897,24 @@
         "name": "Di Renjie"
       },
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 33,
         "name": "Erin"
       },
       {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
         "id": 57,
         "name": "Lady Sun"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 70,
@@ -3212,6 +6927,10 @@
       {
         "id": 90,
         "name": "Shouyue"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
       },
       {
         "id": 113,
@@ -3257,6 +6976,18 @@
       {
         "id": 46,
         "name": "Guan Yu"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   },
@@ -3285,8 +7016,20 @@
     ],
     "countered_by": [
       {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
         "id": 71,
         "name": "Luna"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
       },
       {
         "id": 106,
@@ -3308,15 +7051,84 @@
         "name": "Arli"
       },
       {
+        "id": 14,
+        "name": "Butterfly"
+      },
+      {
+        "id": 19,
+        "name": "Cirrus"
+      },
+      {
         "id": 20,
         "name": "Consort Yu"
+      },
+      {
+        "id": 36,
+        "name": "Feyd"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 53,
+        "name": "Jing"
+      },
+      {
+        "id": 55,
+        "name": "Kongming"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 82,
+        "name": "Musashi"
+      },
+      {
+        "id": 83,
+        "name": "Nakoruru"
+      },
+      {
+        "id": 95,
+        "name": "Umbrosa"
+      },
+      {
+        "id": 103,
+        "name": "Yango"
+      },
+      {
+        "id": 112,
+        "name": "Zilong"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
       },
       {
         "id": 73,
         "name": "Marco Polo"
       }
-    ],
-    "countered_by": []
+    ]
   },
   {
     "id": 110,
@@ -3328,8 +7140,32 @@
     "tier": "Tier C",
     "strong_against": [
       {
+        "id": 1,
+        "name": "Agudo"
+      },
+      {
+        "id": 15,
+        "name": "Cai Yan"
+      },
+      {
         "id": 19,
         "name": "Cirrus"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 34,
+        "name": "Fang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 78,
+        "name": "Milady"
       },
       {
         "id": 83,
@@ -3348,6 +7184,26 @@
       {
         "id": 26,
         "name": "Dian Wei"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
       }
     ]
   },
@@ -3362,19 +7218,96 @@
     "tier": "Tier B",
     "strong_against": [
       {
+        "id": 12,
+        "name": "Bai Qi"
+      },
+      {
         "id": 19,
         "name": "Cirrus"
+      },
+      {
+        "id": 22,
+        "name": "Daji"
+      },
+      {
+        "id": 24,
+        "name": "Dharma"
       },
       {
         "id": 26,
         "name": "Dian Wei"
       },
       {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 56,
+        "name": "Kui"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 67,
+        "name": "Liu Shan"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
         "id": 76,
         "name": "Menki"
+      },
+      {
+        "id": 80,
+        "name": "Mozi"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
+      },
+      {
+        "id": 101,
+        "name": "Xuance"
+      },
+      {
+        "id": 107,
+        "name": "Yixing"
+      },
+      {
+        "id": 116,
+        "name": "Lorion"
       }
     ],
-    "countered_by": []
+    "countered_by": [
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      }
+    ]
   },
   {
     "id": 112,
@@ -3400,6 +7333,14 @@
         "name": "Arli"
       },
       {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
         "id": 34,
         "name": "Fang"
       },
@@ -3410,6 +7351,14 @@
       {
         "id": 49,
         "name": "Haya"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 109,
+        "name": "Zhang Fei"
       },
       {
         "id": 113,
@@ -3450,6 +7399,26 @@
         "name": "Charlotte"
       },
       {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      },
+      {
+        "id": 59,
+        "name": "Lam"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
         "id": 104,
         "name": "Yao"
       }
@@ -3465,70 +7434,58 @@
     "tier": "Tier S",
     "strong_against": [
       {
-        "id": 31,
-        "name": "Dun"
-      },
-      {
-        "id": 63,
-        "name": "Lian Po"
-      },
-      {
-        "id": 99,
-        "name": "Xiang Yu"
-      },
-      {
         "id": 8,
         "name": "Arthur"
-      },
-      {
-        "id": 68,
-        "name": "Lu Bu"
       },
       {
         "id": 26,
         "name": "Dian Wei"
       },
       {
-        "id": 54,
-        "name": "Kaizer"
-      },
-      {
-        "id": 93,
-        "name": "Sun Ce"
+        "id": 31,
+        "name": "Dun"
       },
       {
         "id": 51,
         "name": "Hou Yi"
       },
       {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
         "id": 58,
         "name": "Lady Zhen"
       },
       {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
         "id": 78,
         "name": "Milady"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 99,
+        "name": "Xiang Yu"
       }
     ],
     "countered_by": [
       {
+        "id": 13,
+        "name": "Biron"
+      },
+      {
         "id": 17,
         "name": "Charlotte"
-      },
-      {
-        "id": 40,
-        "name": "Fuzi"
-      },
-      {
-        "id": 29,
-        "name": "Donghuang"
-      },
-      {
-        "id": 64,
-        "name": "Liang"
-      },
-      {
-        "id": 44,
-        "name": "Garo"
       },
       {
         "id": 20,
@@ -3537,6 +7494,26 @@
       {
         "id": 27,
         "name": "Diaochan"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 40,
+        "name": "Fuzi"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 68,
+        "name": "Lu Bu"
       }
     ]
   },
@@ -3550,34 +7527,6 @@
     "tier": "Tier C",
     "strong_against": [
       {
-        "id": 54,
-        "name": "Kaizer"
-      },
-      {
-        "id": 97,
-        "name": "Wukong"
-      },
-      {
-        "id": 26,
-        "name": "Dian Wei"
-      },
-      {
-        "id": 17,
-        "name": "Charlotte"
-      },
-      {
-        "id": 93,
-        "name": "Sun Ce"
-      },
-      {
-        "id": 47,
-        "name": "Guiguzi"
-      },
-      {
-        "id": 63,
-        "name": "Lian Po"
-      },
-      {
         "id": 8,
         "name": "Arthur"
       },
@@ -3586,42 +7535,82 @@
         "name": "Biron"
       },
       {
+        "id": 17,
+        "name": "Charlotte"
+      },
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
         "id": 27,
         "name": "Diaochan"
+      },
+      {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 54,
+        "name": "Kaizer"
+      },
+      {
+        "id": 63,
+        "name": "Lian Po"
+      },
+      {
+        "id": 93,
+        "name": "Sun Ce"
+      },
+      {
+        "id": 97,
+        "name": "Wukong"
       }
     ],
     "countered_by": [
       {
+        "id": 7,
+        "name": "Arli"
+      },
+      {
         "id": 16,
         "name": "Chano"
-      },
-      {
-        "id": 58,
-        "name": "Lady Zhen"
-      },
-      {
-        "id": 44,
-        "name": "Garo"
-      },
-      {
-        "id": 90,
-        "name": "Shouyue"
-      },
-      {
-        "id": 88,
-        "name": "Shangguan"
-      },
-      {
-        "id": 91,
-        "name": "Sima Yi"
       },
       {
         "id": 29,
         "name": "Donghuang"
       },
       {
+        "id": 41,
+        "name": "Gan & Mo"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
+      },
+      {
         "id": 64,
         "name": "Liang"
+      },
+      {
+        "id": 88,
+        "name": "Shangguan"
+      },
+      {
+        "id": 90,
+        "name": "Shouyue"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
       }
     ]
   },
@@ -3635,32 +7624,8 @@
     "tier": "Tier A",
     "strong_against": [
       {
-        "id": 51,
-        "name": "Hou Yi"
-      },
-      {
-        "id": 70,
-        "name": "Luban No.7"
-      },
-      {
-        "id": 44,
-        "name": "Garo"
-      },
-      {
-        "id": 78,
-        "name": "Milady"
-      },
-      {
-        "id": 58,
-        "name": "Lady Zhen"
-      },
-      {
         "id": 4,
         "name": "Angela"
-      },
-      {
-        "id": 96,
-        "name": "Wang Zhaojun"
       },
       {
         "id": 15,
@@ -3669,44 +7634,80 @@
       {
         "id": 28,
         "name": "Dolia"
+      },
+      {
+        "id": 44,
+        "name": "Garo"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 58,
+        "name": "Lady Zhen"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 78,
+        "name": "Milady"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
       }
     ],
     "countered_by": [
       {
-        "id": 111,
-        "name": "Zhuangzi"
-      },
-      {
-        "id": 43,
-        "name": "Gao Changgong"
-      },
-      {
         "id": 6,
         "name": "Arke"
-      },
-      {
-        "id": 91,
-        "name": "Sima Yi"
-      },
-      {
-        "id": 29,
-        "name": "Donghuang"
-      },
-      {
-        "id": 64,
-        "name": "Liang"
       },
       {
         "id": 7,
         "name": "Arli"
       },
       {
-        "id": 72,
-        "name": "Mai Shiranui"
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 46,
+        "name": "Guan Yu"
+      },
+      {
+        "id": 61,
+        "name": "Li Bai"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
       },
       {
         "id": 68,
         "name": "Lu Bu"
+      },
+      {
+        "id": 72,
+        "name": "Mai Shiranui"
+      },
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
       }
     ]
   }

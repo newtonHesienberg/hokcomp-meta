@@ -5,6 +5,8 @@
             "id": 1,
             "name": "Agudo",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -15,6 +17,8 @@
             "id": 2,
             "name": "Alessio",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -25,6 +29,8 @@
             "id": 3,
             "name": "Allain",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter"
@@ -35,6 +41,8 @@
             "id": 4,
             "name": "Angela",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -45,6 +53,8 @@
             "id": 5,
             "name": "Ao'yin",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -55,6 +65,8 @@
             "id": 6,
             "name": "Arke",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -65,6 +77,8 @@
             "id": 7,
             "name": "Arli",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -75,6 +89,10 @@
             "id": 8,
             "name": "Arthur",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -87,6 +105,10 @@
             "id": 9,
             "name": "Ata",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -99,6 +121,8 @@
             "id": 10,
             "name": "Athena",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin",
@@ -110,6 +134,10 @@
             "id": 11,
             "name": "Augran",
             "role": "Fighter",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -121,6 +149,10 @@
             "id": 12,
             "name": "Bai Qi",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank"
@@ -131,6 +163,8 @@
             "id": 13,
             "name": "Biron",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter"
@@ -141,6 +175,8 @@
             "id": 14,
             "name": "Butterfly",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -151,6 +187,8 @@
             "id": 15,
             "name": "Cai Yan",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -161,6 +199,8 @@
             "id": 16,
             "name": "Chano",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman",
@@ -172,6 +212,8 @@
             "id": 17,
             "name": "Charlotte",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -183,6 +225,10 @@
             "id": 18,
             "name": "Chicha",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Marksman",
@@ -195,6 +241,8 @@
             "id": 19,
             "name": "Cirrus",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -205,6 +253,8 @@
             "id": 20,
             "name": "Consort Yu",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -215,6 +265,10 @@
             "id": 21,
             "name": "Da Qiao",
             "role": "Mage",
+            "primaryLane": "Roam",
+            "secondaryLanes": [
+                "Mid"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -226,6 +280,8 @@
             "id": 22,
             "name": "Daji",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -236,6 +292,8 @@
             "id": 23,
             "name": "Devara",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -247,6 +305,10 @@
             "id": 24,
             "name": "Dharma",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -258,6 +320,8 @@
             "id": 25,
             "name": "Di Renjie",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -268,6 +332,8 @@
             "id": 26,
             "name": "Dian Wei",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin",
@@ -279,6 +345,10 @@
             "id": 27,
             "name": "Diaochan",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "True",
             "roles": [
                 "Mage",
@@ -290,6 +360,8 @@
             "id": 28,
             "name": "Dolia",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -300,6 +372,10 @@
             "id": 29,
             "name": "Donghuang",
             "role": "Tank",
+            "primaryLane": "Roam",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -311,6 +387,8 @@
             "id": 30,
             "name": "Dr Bian",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -321,6 +399,10 @@
             "id": 31,
             "name": "Dun",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -333,6 +415,8 @@
             "id": 32,
             "name": "Dyadia",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -343,6 +427,8 @@
             "id": 33,
             "name": "Erin",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Marksman"
@@ -353,6 +439,10 @@
             "id": 34,
             "name": "Fang",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Marksman",
@@ -364,6 +454,8 @@
             "id": 35,
             "name": "Fatih",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -375,6 +467,8 @@
             "id": 36,
             "name": "Feyd",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -385,6 +479,8 @@
             "id": 37,
             "name": "Flowborn (Mage)",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -395,6 +491,8 @@
             "id": 38,
             "name": "Flowborn (Marksman)",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -405,6 +503,10 @@
             "id": 39,
             "name": "Flowborn (Tank)",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank"
@@ -415,6 +517,8 @@
             "id": 40,
             "name": "Fuzi",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter"
@@ -425,6 +529,8 @@
             "id": 41,
             "name": "Gan & Mo",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -435,6 +541,8 @@
             "id": 42,
             "name": "Gao",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -445,6 +553,8 @@
             "id": 43,
             "name": "Gao Changgong",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -455,6 +565,8 @@
             "id": 44,
             "name": "Garo",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -465,6 +577,8 @@
             "id": 45,
             "name": "Garuda",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -475,6 +589,8 @@
             "id": 46,
             "name": "Guan Yu",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter"
@@ -485,6 +601,8 @@
             "id": 47,
             "name": "Guiguzi",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -495,6 +613,8 @@
             "id": 48,
             "name": "Han Xin",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -505,6 +625,8 @@
             "id": 49,
             "name": "Haya",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -515,6 +637,10 @@
             "id": 50,
             "name": "Heino",
             "role": "Fighter",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Fighter",
@@ -526,6 +652,8 @@
             "id": 51,
             "name": "Hou Yi",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -536,6 +664,8 @@
             "id": 52,
             "name": "Huang Zhong",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -546,6 +676,8 @@
             "id": 53,
             "name": "Jing",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -556,6 +688,10 @@
             "id": 54,
             "name": "Kaizer",
             "role": "Fighter",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -568,6 +704,10 @@
             "id": 55,
             "name": "Kongming",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -579,6 +719,10 @@
             "id": 56,
             "name": "Kui",
             "role": "Tank",
+            "primaryLane": "Roam",
+            "secondaryLanes": [
+                "Mid"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Tank",
@@ -590,6 +734,8 @@
             "id": 57,
             "name": "Lady Sun",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -600,6 +746,8 @@
             "id": 58,
             "name": "Lady Zhen",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -610,6 +758,8 @@
             "id": 59,
             "name": "Lam",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -620,6 +770,10 @@
             "id": 60,
             "name": "Lapulapu",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -631,6 +785,8 @@
             "id": 61,
             "name": "Li Bai",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -641,6 +797,8 @@
             "id": 62,
             "name": "Li Xin",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter"
@@ -651,6 +809,10 @@
             "id": 63,
             "name": "Lian Po",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -663,6 +825,8 @@
             "id": 64,
             "name": "Liang",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -673,6 +837,10 @@
             "id": 65,
             "name": "Liu Bang",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Tank",
@@ -685,6 +853,8 @@
             "id": 66,
             "name": "Liu Bei",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin",
@@ -696,6 +866,8 @@
             "id": 67,
             "name": "Liu Shan",
             "role": "Tank",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -707,6 +879,8 @@
             "id": 68,
             "name": "Lu Bu",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "True",
             "roles": [
                 "Tank",
@@ -718,6 +892,8 @@
             "id": 69,
             "name": "Luara",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -728,6 +904,8 @@
             "id": 70,
             "name": "Luban No.7",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -738,6 +916,10 @@
             "id": 71,
             "name": "Luna",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [
+                "Mid"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Assassin",
@@ -749,6 +931,8 @@
             "id": 72,
             "name": "Mai Shiranui",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -759,6 +943,8 @@
             "id": 73,
             "name": "Marco Polo",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "True",
             "roles": [
                 "Marksman"
@@ -769,6 +955,10 @@
             "id": 74,
             "name": "Mayene",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -780,6 +970,8 @@
             "id": 75,
             "name": "Meng Ya",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -790,6 +982,10 @@
             "id": 76,
             "name": "Menki",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -802,6 +998,10 @@
             "id": 77,
             "name": "Mi Yue",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -814,6 +1014,8 @@
             "id": 78,
             "name": "Milady",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -824,6 +1026,8 @@
             "id": 79,
             "name": "Ming",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -834,6 +1038,10 @@
             "id": 80,
             "name": "Mozi",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -845,6 +1053,8 @@
             "id": 81,
             "name": "Mulan",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -856,6 +1066,10 @@
             "id": 82,
             "name": "Musashi",
             "role": "Fighter",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -867,6 +1081,8 @@
             "id": 83,
             "name": "Nakoruru",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -877,6 +1093,10 @@
             "id": 84,
             "name": "Nezha",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter"
@@ -887,6 +1107,8 @@
             "id": 85,
             "name": "Nuwa",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -897,6 +1119,8 @@
             "id": 86,
             "name": "Pei",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -907,6 +1131,8 @@
             "id": 87,
             "name": "Sakeer",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -918,6 +1144,8 @@
             "id": 88,
             "name": "Shangguan",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -928,6 +1156,8 @@
             "id": 89,
             "name": "Shi",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -938,6 +1168,8 @@
             "id": 90,
             "name": "Shouyue",
             "role": "Marksman",
+            "primaryLane": "Farm",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Marksman"
@@ -948,6 +1180,10 @@
             "id": 91,
             "name": "Sima Yi",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [
+                "Mid"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Assassin",
@@ -959,6 +1195,8 @@
             "id": 92,
             "name": "Sun Bin",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -969,6 +1207,10 @@
             "id": 93,
             "name": "Sun Ce",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -981,6 +1223,8 @@
             "id": 94,
             "name": "Ukyo Tachibana",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -991,6 +1235,10 @@
             "id": 95,
             "name": "Umbrosa",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -1002,6 +1250,8 @@
             "id": 96,
             "name": "Wang Zhaojun",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -1012,6 +1262,8 @@
             "id": 97,
             "name": "Wukong",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -1022,6 +1274,10 @@
             "id": 98,
             "name": "Wuyan",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -1034,6 +1290,10 @@
             "id": 99,
             "name": "Xiang Yu",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -1046,6 +1306,8 @@
             "id": 100,
             "name": "Xiao Qiao",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -1056,6 +1318,8 @@
             "id": 101,
             "name": "Xuance",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -1066,6 +1330,10 @@
             "id": 102,
             "name": "Yang Jian",
             "role": "Fighter",
+            "primaryLane": "Clash",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -1077,6 +1345,8 @@
             "id": 103,
             "name": "Yango",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin",
@@ -1088,6 +1358,10 @@
             "id": 104,
             "name": "Yao",
             "role": "Fighter",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Physical",
             "roles": [
                 "Fighter",
@@ -1099,6 +1373,8 @@
             "id": 105,
             "name": "Yaria",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Support"
@@ -1109,6 +1385,8 @@
             "id": 106,
             "name": "Ying",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -1119,6 +1397,8 @@
             "id": 107,
             "name": "Yixing",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -1129,6 +1409,10 @@
             "id": 108,
             "name": "Yuhuan",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Jungle"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -1140,6 +1424,8 @@
             "id": 109,
             "name": "Zhang Fei",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Support"
@@ -1150,6 +1436,8 @@
             "id": 110,
             "name": "Zhou Yu",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"
@@ -1160,6 +1448,10 @@
             "id": 111,
             "name": "Zhuangzi",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [
+                "Clash"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Support",
@@ -1172,6 +1464,8 @@
             "id": 112,
             "name": "Zilong",
             "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Assassin"
@@ -1182,6 +1476,10 @@
             "id": 113,
             "name": "Ziya",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [
+                "Roam"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Mage",
@@ -1193,6 +1491,8 @@
             "id": 114,
             "name": "Florentino",
             "role": "Tank",
+            "primaryLane": "Clash",
+            "secondaryLanes": [],
             "damageType": "Physical",
             "roles": [
                 "Tank",
@@ -1204,6 +1504,10 @@
             "id": 115,
             "name": "Annette",
             "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [
+                "Mid"
+            ],
             "damageType": "Magic",
             "roles": [
                 "Support",
@@ -1215,6 +1519,8 @@
             "id": 116,
             "name": "Lorion",
             "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
             "damageType": "Magic",
             "roles": [
                 "Mage"

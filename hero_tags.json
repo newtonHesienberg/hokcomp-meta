@@ -13,6 +13,7 @@
     "heroName": "Alessio",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Late_Hypercarry",
       "Tier_B"
@@ -23,9 +24,11 @@
     "heroName": "Allain",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "True_Damage",
-      "Tier_C"
+      "Tier_C",
+      "True_Damage"
     ]
   },
   {
@@ -45,6 +48,7 @@
     "pacing": "Late_Hypercarry",
     "tags": [
       "DPS_Marksman",
+      "Invulnerability_Frames",
       "Late_Hypercarry",
       "Tier_S"
     ]
@@ -64,8 +68,10 @@
     "heroName": "Arli",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "High_Mobility",
+      "Invulnerability_Frames",
       "Late_Hypercarry",
       "Tier_B"
     ]
@@ -80,6 +86,7 @@
       "High_Armor",
       "High_Regen",
       "High_Sustain",
+      "Silence_Disruptor",
       "Tier_A"
     ]
   },
@@ -178,6 +185,7 @@
     "heroName": "Charlotte",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Attack_Speed_Slow",
       "Mid_Game_Spike",
       "Tier_A"
     ]
@@ -206,6 +214,7 @@
     "heroName": "Consort Yu",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Late_Hypercarry",
       "Tier_A"
@@ -256,7 +265,9 @@
     "heroName": "Di Renjie",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -266,9 +277,10 @@
     "heroName": "Dian Wei",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "Mid_Game_Spike",
-      "True_Damage",
-      "Tier_B"
+      "Tier_B",
+      "True_Damage"
     ]
   },
   {
@@ -278,9 +290,10 @@
     "tags": [
       "High_Regen",
       "High_Sustain",
+      "Invulnerability_Frames",
       "Late_Hypercarry",
-      "True_Damage",
-      "Tier_B"
+      "Tier_B",
+      "True_Damage"
     ]
   },
   {
@@ -322,6 +335,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Armor",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Shield_Dependent",
       "Tier_A"
@@ -343,6 +357,7 @@
     "heroName": "Erin",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Late_Hypercarry",
       "Tier_A"
@@ -353,7 +368,9 @@
     "heroName": "Fang",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -363,6 +380,7 @@
     "heroName": "Fatih",
     "pacing": "Early_Bully",
     "tags": [
+      "Attack_Speed_Slow",
       "Early_Bully",
       "Tier_A"
     ]
@@ -391,6 +409,7 @@
     "heroName": "Flowborn (Marksman)",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Mid_Game_Spike",
       "Tier_B"
@@ -412,6 +431,7 @@
     "heroName": "Fuzi",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -451,6 +471,7 @@
     "heroName": "Garo",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Immobile_Carry",
       "Late_Hypercarry",
@@ -491,6 +512,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Mobility",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -500,6 +522,7 @@
     "heroName": "Haya",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_A"
     ]
@@ -520,6 +543,7 @@
     "heroName": "Hou Yi",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Immobile_Carry",
       "Late_Hypercarry",
@@ -531,6 +555,7 @@
     "heroName": "Huang Zhong",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Immobile_Carry",
       "Late_Hypercarry",
@@ -543,6 +568,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Mobility",
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -552,6 +578,7 @@
     "heroName": "Kaizer",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "High_Armor",
       "Mid_Game_Spike",
       "Tier_A"
@@ -582,6 +609,7 @@
     "heroName": "Lady Sun",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Late_Hypercarry",
       "Physical_Burst",
@@ -616,6 +644,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Armor",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -626,6 +655,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Mobility",
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -635,6 +665,7 @@
     "heroName": "Li Xin",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_A"
     ]
@@ -646,6 +677,7 @@
     "tags": [
       "Hard_CC",
       "High_Armor",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -677,6 +709,7 @@
     "heroName": "Liu Bei",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -698,11 +731,12 @@
     "heroName": "Lu Bu",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "High_Armor",
       "Late_Hypercarry",
       "Shield_Dependent",
-      "True_Damage",
-      "Tier_B"
+      "Tier_B",
+      "True_Damage"
     ]
   },
   {
@@ -710,6 +744,7 @@
     "heroName": "Luara",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Late_Hypercarry",
       "Tier_A"
@@ -720,6 +755,7 @@
     "heroName": "Luban No.7",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Immobile_Carry",
       "Late_Hypercarry",
@@ -751,11 +787,12 @@
     "heroName": "Marco Polo",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "High_Mobility",
       "Late_Hypercarry",
-      "True_Damage",
-      "Tier_A"
+      "Tier_A",
+      "True_Damage"
     ]
   },
   {
@@ -772,6 +809,7 @@
     "heroName": "Meng Ya",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "DPS_Marksman",
       "Late_Hypercarry",
       "Tier_C"
@@ -791,8 +829,10 @@
     "heroName": "Mi Yue",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "High_Regen",
       "High_Sustain",
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -832,7 +872,9 @@
     "heroName": "Mulan",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Immunity_CC",
       "Mid_Game_Spike",
+      "Silence_Disruptor",
       "Tier_C"
     ]
   },
@@ -880,6 +922,7 @@
     "heroName": "Pei",
     "pacing": "Early_Bully",
     "tags": [
+      "Basic_Attack_Dependent",
       "Early_Bully",
       "Tier_C"
     ]
@@ -899,6 +942,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Mobility",
+      "Invulnerability_Frames",
       "Magic_Burst",
       "Mid_Game_Spike",
       "Tier_C"
@@ -930,8 +974,10 @@
     "heroName": "Sima Yi",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "Late_Hypercarry",
       "Magic_Burst",
+      "Silence_Disruptor",
       "Tier_B"
     ]
   },
@@ -953,6 +999,7 @@
       "Early_Bully",
       "Hard_CC",
       "High_Mobility",
+      "Immunity_CC",
       "Tier_B"
     ]
   },
@@ -979,6 +1026,7 @@
     "heroName": "Wang Zhaojun",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Attack_Speed_Slow",
       "Hard_CC",
       "Immobile_Carry",
       "Mid_Game_Spike",
@@ -990,6 +1038,7 @@
     "heroName": "Wukong",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Basic_Attack_Dependent",
       "Late_Hypercarry",
       "Physical_Burst",
       "Tier_A"
@@ -1011,6 +1060,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "High_Armor",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -1030,6 +1080,7 @@
     "heroName": "Xuance",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Basic_Attack_Dependent",
       "High_Mobility",
       "Mid_Game_Spike",
       "Tier_C"
@@ -1043,8 +1094,8 @@
       "High_Regen",
       "High_Sustain",
       "Mid_Game_Spike",
-      "True_Damage",
-      "Tier_C"
+      "Tier_C",
+      "True_Damage"
     ]
   },
   {
@@ -1081,6 +1132,7 @@
     "heroName": "Ying",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -1090,6 +1142,7 @@
     "heroName": "Yixing",
     "pacing": "Late_Hypercarry",
     "tags": [
+      "Invulnerability_Frames",
       "Late_Hypercarry",
       "Tier_C"
     ]
@@ -1099,6 +1152,7 @@
     "heroName": "Yuhuan",
     "pacing": "Mid_Game_Spike",
     "tags": [
+      "Invulnerability_Frames",
       "Mid_Game_Spike",
       "Tier_C"
     ]
@@ -1133,6 +1187,7 @@
     "tags": [
       "Disengage",
       "High_Sustain",
+      "Immunity_CC",
       "Mid_Game_Spike",
       "Tier_B"
     ]
@@ -1161,10 +1216,11 @@
     "heroName": "Florentino",
     "pacing": "Mid_Game",
     "tags": [
+      "Dive",
       "Duelist",
       "High_Mobility",
       "High_Sustain",
-      "Dive",
+      "Immunity_CC",
       "Tier_S"
     ]
   },
@@ -1173,9 +1229,9 @@
     "heroName": "Annette",
     "pacing": "Mid_Game",
     "tags": [
+      "Crowd_Control",
       "Disengage",
       "Team_Utility",
-      "Crowd_Control",
       "Tier_C"
     ]
   },
@@ -1184,10 +1240,11 @@
     "heroName": "Lorion",
     "pacing": "Late_Scaler",
     "tags": [
-      "Late_Scaler",
-      "Magic_Burst",
       "Area_Damage",
       "Crowd_Control",
+      "Invulnerability_Frames",
+      "Late_Scaler",
+      "Magic_Burst",
       "Tier_A"
     ]
   }
