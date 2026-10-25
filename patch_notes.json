@@ -1,11 +1,178 @@
 {
-  "fetched_at": "2026-09-23T21:16:31.507196Z",
+  "fetched_at": "2026-10-21T01:00:00.000000Z",
   "source": "https://hokstats.gg/patch-notes/",
-  "total_heroes_changed": 360,
-  "buffs_count": 183,
+  "total_heroes_changed": 367,
+  "buffs_count": 187,
   "nerfs_count": 51,
-  "adjustments_count": 125,
+  "adjustments_count": 128,
   "hero_adjustments": [
+    {
+      "id": 93,
+      "hero_id": 93,
+      "name": "Sun Ce",
+      "slug": "sun-ce",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 1 and Skill 2 base and scaling damage",
+      "details_raw": "Skill 1 (Wave Render): Path damage increased from 125 (+25/lvl) (+45% AD) to 140 (+28/lvl) (+55% AD); Area damage increased from 250 (+50/lvl) (+90% AD) to 280 (+56/lvl) (+110% AD). Skill 2 (Typhoon): Base damage increased from 180 (+62/lvl) (+70% AD) to 200 (+40/lvl) (+90% AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Wave Render",
+          "change": "Path damage: 125 (+25/lvl) (+45% AD) → 140 (+28/lvl) (+55% AD). Area damage: 250 (+50/lvl) (+90% AD) → 280 (+56/lvl) (+110% AD)."
+        },
+        {
+          "skill": "Skill 2 - Typhoon",
+          "change": "Base damage: 180 (+62/lvl) (+70% AD) → 200 (+40/lvl) (+90% AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/510/510.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703961321282.png"
+    },
+    {
+      "id": 108,
+      "hero_id": 108,
+      "name": "Yuhuan",
+      "slug": "yuhuan",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 1 base damage and enhanced basic attack damage",
+      "details_raw": "Skill 1 (Tragic Beauty): Base damage increased from 250 (+50/lvl) (+42% AP) to 275 (+55/lvl) (+45% AP). Enhanced Basic Attack damage increased from 150 (+30/lvl) (+20% AP) to 175 (+35/lvl) (+25% AP).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Tragic Beauty",
+          "change": "Base damage: 250 (+50/lvl) (+42% AP) → 275 (+55/lvl) (+45% AP). Enhanced Basic Attack: 150 (+30/lvl) (+20% AP) → 175 (+35/lvl) (+25% AP)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/176/176.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20240430/17144390725517.png"
+    },
+    {
+      "id": 57,
+      "hero_id": 57,
+      "name": "Lady Sun",
+      "slug": "lady-sun",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Enhanced Passive cooldown reduction and reduced Skill 1 cooldown per level",
+      "details_raw": "Passive (Energy Burst): Basic Attack cooldown reduction adjusted from flat 0.5s to 10%. Skill 1 (Rolling Raid): Cooldown adjusted from flat 5s to 5s (-0.1s per skill level).",
+      "skills_changed": [
+        {
+          "skill": "Passive - Energy Burst",
+          "change": "Basic Attack cooldown reduction changed from flat 0.5s to 10%."
+        },
+        {
+          "skill": "Skill 1 - Rolling Raid",
+          "change": "Cooldown changed from flat 5s to 5s (-0.1s per skill level)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703958503418.png"
+    },
+    {
+      "id": 6,
+      "hero_id": 6,
+      "name": "Arke",
+      "slug": "arke",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 1 level scaling damage",
+      "details_raw": "Skill 1 (Arclight): Base damage changed from 150 (+20 per skill level) (+65% extra Physical Attack) to 150 (+30 per skill level) (+65% extra Physical Attack).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Arclight",
+          "change": "Base damage: 150 (+20/lvl) (+65% extra AD) → 150 (+30/lvl) (+65% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/116/116.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20241230/17355426872689.png"
+    },
+    {
+      "id": 112,
+      "hero_id": 112,
+      "name": "Zilong",
+      "slug": "zilong",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Reduced Skill 2 and Ultimate base and scaling damage",
+      "details_raw": "Skill 2 (Stormpiercer): Base damage reduced from 200 (+40/lvl) (+65% extra AD) to 180 (+36/lvl) (+65% extra AD). Ultimate (Skysplitter): Base damage reduced from 550 (+275/lvl) (+150% extra AD) to 480 (+240/lvl) (+145% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 2 - Stormpiercer",
+          "change": "Base damage: 200 (+40/lvl) (+65% extra AD) → 180 (+36/lvl) (+65% extra AD)."
+        },
+        {
+          "skill": "Ultimate - Skysplitter",
+          "change": "Base damage: 550 (+275/lvl) (+150% extra AD) → 480 (+240/lvl) (+145% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/107/107.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703949287146.png"
+    },
+    {
+      "id": 63,
+      "hero_id": 63,
+      "name": "Lian Po",
+      "slug": "lian-po",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Reduced Skill 2 and Ultimate three-stage hammer damage",
+      "details_raw": "Skill 2 (Magma Slam): Base damage reduced from 350 (+70/lvl) (+90% extra AD) to 325 (+65/lvl) (+85% extra AD). Ultimate (Tremor Smash): 1st hammer strike: 220 (+110/lvl) → 200 (+100/lvl); 2nd hammer strike: 440 (+220/lvl) → 400 (+200/lvl); 3rd hammer strike: 660 (+330/lvl) (+150% extra AD) → 600 (+300/lvl) (+150% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 2 - Magma Slam",
+          "change": "Base damage: 350 (+70/lvl) (+90% extra AD) → 325 (+65/lvl) (+85% extra AD)."
+        },
+        {
+          "skill": "Ultimate - Tremor Smash",
+          "change": "Strikes: 1st strike: 220 (+110/lvl) → 200 (+100/lvl); 2nd strike: 440 (+220/lvl) → 400 (+200/lvl); 3rd strike: 660 (+330/lvl) → 600 (+300/lvl) (+150% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/105.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20230228/16775746909781.png"
+    },
+    {
+      "id": 31,
+      "hero_id": 31,
+      "name": "Dun",
+      "slug": "dun",
+      "date": "2026-10-21",
+      "formatted_date": "Oct 21, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Reduced Skill 1 and Ultimate damage and scaling",
+      "details_raw": "Skill 1 (Wind Slash): Base damage reduced from 400 (+80/lvl) (+130% extra AD) to 350 (+70/lvl) (+120% extra AD). Ultimate (Unruly Blade): Base damage reduced from 400 (+200/lvl) (+10% extra HP) to 360 (+180/lvl) (+10% extra HP).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Wind Slash",
+          "change": "Base damage: 400 (+80/lvl) (+130% extra AD) → 350 (+70/lvl) (+120% extra AD)."
+        },
+        {
+          "skill": "Ultimate - Unruly Blade",
+          "change": "Base damage: 400 (+200/lvl) (+10% extra HP) → 360 (+180/lvl) (+10% extra HP)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/126/126.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703975721718.png"
+    },
     {
       "id": 16,
       "hero_id": 16,
