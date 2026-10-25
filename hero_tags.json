@@ -27,8 +27,8 @@
       "Basic_Attack_Dependent",
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_C",
-      "True_Damage"
+      "True_Damage",
+      "Tier_C"
     ]
   },
   {
@@ -87,7 +87,7 @@
       "High_Regen",
       "High_Sustain",
       "Silence_Disruptor",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -154,7 +154,7 @@
     "tags": [
       "Mid_Game_Spike",
       "Physical_Burst",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -177,7 +177,7 @@
       "DPS_Marksman",
       "Immobile_Carry",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -187,7 +187,7 @@
     "tags": [
       "Attack_Speed_Slow",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -197,7 +197,7 @@
     "tags": [
       "DPS_Marksman",
       "Late_Hypercarry",
-      "Tier_S"
+      "Tier_A"
     ]
   },
   {
@@ -247,7 +247,7 @@
     "pacing": "Early_Bully",
     "tags": [
       "Early_Bully",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -257,7 +257,7 @@
     "tags": [
       "Hard_CC",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_C"
     ]
   },
   {
@@ -279,8 +279,8 @@
     "tags": [
       "Basic_Attack_Dependent",
       "Mid_Game_Spike",
-      "Tier_B",
-      "True_Damage"
+      "True_Damage",
+      "Tier_B"
     ]
   },
   {
@@ -292,8 +292,8 @@
       "High_Sustain",
       "Invulnerability_Frames",
       "Late_Hypercarry",
-      "Tier_B",
-      "True_Damage"
+      "True_Damage",
+      "Tier_B"
     ]
   },
   {
@@ -302,7 +302,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -382,7 +382,7 @@
     "tags": [
       "Attack_Speed_Slow",
       "Early_Bully",
-      "Tier_A"
+      "Tier_C"
     ]
   },
   {
@@ -392,7 +392,7 @@
     "tags": [
       "High_Mobility",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -524,7 +524,7 @@
     "tags": [
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -581,7 +581,7 @@
       "Basic_Attack_Dependent",
       "High_Armor",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -635,7 +635,7 @@
       "High_Mobility",
       "Mid_Game_Spike",
       "Physical_Burst",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -667,7 +667,7 @@
     "tags": [
       "Immunity_CC",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -735,8 +735,8 @@
       "High_Armor",
       "Late_Hypercarry",
       "Shield_Dependent",
-      "Tier_B",
-      "True_Damage"
+      "True_Damage",
+      "Tier_B"
     ]
   },
   {
@@ -768,7 +768,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -791,8 +791,8 @@
       "DPS_Marksman",
       "High_Mobility",
       "Late_Hypercarry",
-      "Tier_A",
-      "True_Damage"
+      "True_Damage",
+      "Tier_A"
     ]
   },
   {
@@ -844,7 +844,7 @@
     "tags": [
       "Immobile_Carry",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -1018,7 +1018,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_C"
+      "Tier_A"
     ]
   },
   {
@@ -1030,7 +1030,7 @@
       "Hard_CC",
       "Immobile_Carry",
       "Mid_Game_Spike",
-      "Tier_S"
+      "Tier_A"
     ]
   },
   {
@@ -1083,7 +1083,7 @@
       "Basic_Attack_Dependent",
       "High_Mobility",
       "Mid_Game_Spike",
-      "Tier_C"
+      "Tier_B"
     ]
   },
   {
@@ -1094,8 +1094,8 @@
       "High_Regen",
       "High_Sustain",
       "Mid_Game_Spike",
-      "Tier_C",
-      "True_Damage"
+      "True_Damage",
+      "Tier_C"
     ]
   },
   {
@@ -1134,7 +1134,7 @@
     "tags": [
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -1221,7 +1221,7 @@
       "High_Mobility",
       "High_Sustain",
       "Immunity_CC",
-      "Tier_S"
+      "Tier_B"
     ]
   },
   {
@@ -1245,7 +1245,7 @@
       "Invulnerability_Frames",
       "Late_Scaler",
       "Magic_Burst",
-      "Tier_A"
+      "Tier_C"
     ]
   }
 ]
