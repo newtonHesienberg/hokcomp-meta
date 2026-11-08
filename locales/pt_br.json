@@ -56,12 +56,19 @@
     "current_lang": "Idioma Atual"
   },
   "dashboard": {
-    "app_title": "Aegis",
+    "app_title": "Aegis : HOK Overlay",
     "app_subtitle": "Assistente de Seleção e Meta para Honor of Kings",
     "menu_draft_analysis": "Analisador de Draft & Builds",
     "menu_profile": "Perfil & Pool de Heróis",
     "menu_settings": "Configurações do App",
     "menu_tutorial": "Tutorial & Guia do App",
+    "menu_rate_us": "Avalie o App",
+    "menu_rate_us_desc": "Apoie o Aegis : HOK Overlay no Google Play",
+    "menu_feedback": "Enviar Feedback & Sugestões",
+    "menu_feedback_desc": "Ajude a aprimorar counters e builds",
+    "menu_privacy_policy": "Política de Privacidade",
+    "menu_privacy_desc": "100% Local no Aparelho & Seguro",
+    "why_this_hero": "Por que este herói?",
     "floating_bubble": "Bolha Flutuante",
     "bubble_active": "Ativa na tela",
     "bubble_inactive": "Inativa",
@@ -514,5 +521,35 @@
     "content": "Aegis é uma ferramenta complementar e de seleção não oficial criada por fãs. Não é afiliada, endossada, patrocinada ou especificamente aprovada pela Tencent Games, Level Infinite ou TiMi Studio Group. Honor of Kings e todas as marcas registradas, logotipos e designs de personagens relacionados são propriedade de seus respectivos proprietários. Todos os dados de jogabilidade e estatísticas de counter são fornecidos estritamente para fins educacionais e de análise estratégica sob uso justo.",
     "accept_btn": "Entendi e Aceito",
     "close_btn": "Fechar"
+  },
+  "floating_onboarding": {
+    "exclusive_feature": "RECURSO EXCLUSIVO",
+    "title": "Assistente Flutuante no Jogo",
+    "subtitle": "Counter-picks e builds adaptativas flutuando sobre Honor of Kings em tempo real",
+    "preview_caption": "🎮 Prévia real em modo paisagem: Nunca saia do Honor of Kings durante o draft",
+    "feature_private_title": "100% Privado e Seguro",
+    "feature_private_desc": "Zero dados coletados ou transmitidos. Nunca rastreamos, gravamos ou lemos sua tela.",
+    "feature_offline_title": "Funciona 100% Offline no Aparelho",
+    "feature_offline_desc": "Todos os cálculos de draft, algoritmos de counter e itens de build processam direto no seu celular.",
+    "feature_companion_title": "Companheiro no Jogo Não Intrusivo",
+    "feature_companion_desc": "Um assistente transparente que você pode arrastar, minimizar ou fechar a qualquer momento com 1 toque. Nunca toca nos arquivos do jogo.",
+    "feature_permission_title": "Permissão Padrão do Android",
+    "feature_permission_desc": "Usa o recurso oficial do Android 'Sobrepor a outros apps', confiável em apps como Discord e Twitch.",
+    "enable_btn": "Ativar Janela Flutuante",
+    "maybe_later_btn": "Talvez Mais Tarde"
+  },
+  "privacy_dialog": {
+    "title": "Política de Privacidade",
+    "intro": "O Aegis : HOK Overlay é construído com privacidade desde o princípio. Acreditamos que ferramentas de jogo devem ser 100% privadas, transparentes e respeitosas com seus dados.",
+    "point_zero_data_title": "Zero Coleta de Dados Pessoais",
+    "point_zero_data_desc": "Sem contas, sem login por e-mail, sem rastreamento e sem anúncios. Nunca coletamos nem vendemos suas informações pessoais.",
+    "point_offline_title": "Processamento 100% Local no Aparelho",
+    "point_offline_desc": "Os cálculos de draft e heurísticas de counter rodam integralmente em um banco de dados SQLite interno no seu dispositivo.",
+    "point_ai_title": "Modo IA Direto e Seguro",
+    "point_ai_desc": "Chaves de API Gemini opcionais são salvas estritamente nas preferências privadas do seu aparelho. Nunca enviadas a servidores de terceiros.",
+    "point_no_screen_title": "Sem Gravação de Tela",
+    "point_no_screen_desc": "A janela flutuante é um HUD complementar controlado pelo jogador. Nunca capturamos, gravamos ou escaneamos a tela do seu jogo.",
+    "read_full_online_btn": "Ler Política Completa Online",
+    "got_it_btn": "Entendido"
   }
 }

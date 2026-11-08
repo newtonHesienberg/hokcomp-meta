@@ -56,12 +56,19 @@
     "current_lang": "Current Language"
   },
   "dashboard": {
-    "app_title": "Aegis",
+    "app_title": "Aegis : HOK Overlay",
     "app_subtitle": "Honor of Kings Draft & Meta Companion",
     "menu_draft_analysis": "Draft & Build Analyzer",
     "menu_profile": "Profile & Hero Pool",
     "menu_settings": "App Settings",
     "menu_tutorial": "Tutorial & App Guide",
+    "menu_rate_us": "Rate Us",
+    "menu_rate_us_desc": "Support Aegis : HOK Overlay on Google Play",
+    "menu_feedback": "Share Feedback / Request Feature",
+    "menu_feedback_desc": "Help improve counters, builds & features",
+    "menu_privacy_policy": "Privacy Policy",
+    "menu_privacy_desc": "100% Local On-Device & Safe",
+    "why_this_hero": "Why this hero?",
     "floating_bubble": "Floating Bubble",
     "bubble_active": "Active on screen",
     "bubble_inactive": "Inactive",
@@ -514,5 +521,35 @@
     "content": "Aegis is an unofficial, fan-made companion and draft helper. It is not affiliated with, endorsed, sponsored, or specifically approved by Tencent Games, Level Infinite, or TiMi Studio Group. Honor of Kings and all related trademarks, logos, and character designs are property of their respective owners. All gameplay data and counter statistics are provided strictly for educational and analytical purposes under fair use.",
     "accept_btn": "I Understand & Accept",
     "close_btn": "Close"
+  },
+  "floating_onboarding": {
+    "exclusive_feature": "EXCLUSIVE FEATURE",
+    "title": "In-Game Floating Assistant",
+    "subtitle": "Counter-picks & adaptive builds floating over Honor of Kings in real-time",
+    "preview_caption": "🎮 Real landscape preview: Never leave Honor of Kings during draft",
+    "feature_private_title": "100% Private & Safe",
+    "feature_private_desc": "Zero data collected or transmitted. We never track, log, or read your screen.",
+    "feature_offline_title": "Works 100% Offline On-Device",
+    "feature_offline_desc": "All draft math, counter algorithms, and build items process directly on your phone.",
+    "feature_companion_title": "Non-Intrusive In-Game Companion",
+    "feature_companion_desc": "A transparent helper you can drag, minimize, or close anytime with 1 tap. Never touches game files.",
+    "feature_permission_title": "Standard Android Permission",
+    "feature_permission_desc": "Uses Android's official 'Display over other apps' feature, trusted by Discord & Twitch.",
+    "enable_btn": "Enable Floating Window",
+    "maybe_later_btn": "Maybe Later"
+  },
+  "privacy_dialog": {
+    "title": "Privacy Policy",
+    "intro": "Aegis : HOK Overlay is built with privacy-by-design. We believe gaming tools should be 100% private, transparent, and respectful of your data.",
+    "point_zero_data_title": "Zero Personal Data Collection",
+    "point_zero_data_desc": "No accounts, no email logins, no tracking, and no ads. We never collect or sell your personal information.",
+    "point_offline_title": "100% Local On-Device Processing",
+    "point_offline_desc": "Draft calculations and counter heuristics execute entirely within an internal SQLite database on your device.",
+    "point_ai_title": "Direct & Secure AI Mode",
+    "point_ai_desc": "Optional Gemini API keys are stored solely in your device's private preferences. Never sent to third-party servers.",
+    "point_no_screen_title": "No Screen Recording",
+    "point_no_screen_desc": "The floating window is a player-controlled companion HUD. We never capture, record, or scan your game screen.",
+    "read_full_online_btn": "Read Full Online Policy",
+    "got_it_btn": "Got It"
   }
 }

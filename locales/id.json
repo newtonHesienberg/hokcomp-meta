@@ -56,12 +56,19 @@
     "current_lang": "Bahasa Saat Ini"
   },
   "dashboard": {
-    "app_title": "Aegis",
+    "app_title": "Aegis : HOK Overlay",
     "app_subtitle": "Pendamping Draf & Meta Honor of Kings",
     "menu_draft_analysis": "Penganalisis Draft & Build",
     "menu_profile": "Profil & Hero Pool",
     "menu_settings": "Pengaturan Aplikasi",
     "menu_tutorial": "Panduan & Tutorial Aplikasi",
+    "menu_rate_us": "Beri Nilai Kami",
+    "menu_rate_us_desc": "Dukung Aegis : HOK Overlay di Google Play",
+    "menu_feedback": "Kirim Masukan & Permintaan Fitur",
+    "menu_feedback_desc": "Bantu tingkatkan counter dan fitur",
+    "menu_privacy_policy": "Kebijakan Privasi",
+    "menu_privacy_desc": "100% Lokal di Perangkat & Aman",
+    "why_this_hero": "Mengapa hero ini?",
     "floating_bubble": "Gelembung Mengambang",
     "bubble_active": "Aktif di layar",
     "bubble_inactive": "Tidak aktif",
@@ -514,5 +521,35 @@
     "content": "Aegis adalah aplikasi pendamping dan alat bantu draf tidak resmi buatan penggemar. Aplikasi ini tidak berafiliasi dengan, didukung, disponsori, atau disetujui secara khusus oleh Tencent Games, Level Infinite, atau TiMi Studio Group. Honor of Kings beserta seluruh merek dagang, logo, dan desain karakter terkait adalah hak milik dari pemiliknya masing-masing. Semua data permainan dan statistik counter disediakan semata-mata untuk tujuan edukasi dan analisis strategi berdasarkan prinsip fair use.",
     "accept_btn": "Saya Mengerti & Setuju",
     "close_btn": "Tutup"
+  },
+  "floating_onboarding": {
+    "exclusive_feature": "FITUR EKSKLUSIF",
+    "title": "Asisten Melayang Dalam Game",
+    "subtitle": "Counter-pick & build adaptif melayang di atas Honor of Kings secara real-time",
+    "preview_caption": "🎮 Pratinjau lanskap nyata: Jangan pernah keluar dari Honor of Kings saat draf",
+    "feature_private_title": "100% Privat & Aman",
+    "feature_private_desc": "Nol data yang dikumpulkan atau dikirim. Kami tidak pernah melacak, merekam, atau membaca layar Anda.",
+    "feature_offline_title": "Bekerja 100% Offline di Perangkat",
+    "feature_offline_desc": "Semua hitungan draf, algoritma counter, dan item build diproses langsung di ponsel Anda.",
+    "feature_companion_title": "Pendamping Dalam Game yang Nyaman",
+    "feature_companion_desc": "Bantuan transparan yang dapat Anda geser, minimalkan, atau tutup kapan saja dengan 1 ketukan. Tidak pernah menyentuh file game.",
+    "feature_permission_title": "Izin Standar Android",
+    "feature_permission_desc": "Menggunakan fitur resmi Android 'Tampilkan di atas aplikasi lain', terpercaya di Discord & Twitch.",
+    "enable_btn": "Aktifkan Jendela Melayang",
+    "maybe_later_btn": "Mungkin Nanti"
+  },
+  "privacy_dialog": {
+    "title": "Kebijakan Privasi",
+    "intro": "Aegis : HOK Overlay dibangun dengan privasi sejak awal. Kami percaya alat bantu game harus 100% privat, transparan, dan menghargai data Anda.",
+    "point_zero_data_title": "Nol Pengumpulan Data Pribadi",
+    "point_zero_data_desc": "Tanpa akun, tanpa login email, tanpa pelacakan, dan tanpa iklan. Kami tidak pernah mengumpulkan atau menjual informasi pribadi Anda.",
+    "point_offline_title": "Pemrosesan 100% Lokal di Perangkat",
+    "point_offline_desc": "Kalkulasi draf dan analisis counter berjalan sepenuhnya di dalam basis data SQLite internal di perangkat Anda.",
+    "point_ai_title": "Mode AI Langsung & Aman",
+    "point_ai_desc": "Kunci API Gemini opsional disimpan secara eksklusif di preferensi privat perangkat Anda. Tidak pernah dikirim ke server pihak ketiga.",
+    "point_no_screen_title": "Tanpa Perekaman Layar",
+    "point_no_screen_desc": "Jendela melayang adalah HUD pendamping yang dikontrol sepenuhnya oleh pemain. Kami tidak pernah menangkap, merekam, atau memindai layar game Anda.",
+    "read_full_online_btn": "Baca Kebijakan Lengkap Online",
+    "got_it_btn": "Mengerti"
   }
 }
