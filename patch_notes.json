@@ -1,11 +1,170 @@
 {
-  "fetched_at": "2026-10-21T01:00:00.000000Z",
+  "fetched_at": "2026-11-05T01:00:00.000000Z",
   "source": "https://hokstats.gg/patch-notes/",
-  "total_heroes_changed": 367,
-  "buffs_count": 187,
+  "total_heroes_changed": 374,
+  "buffs_count": 192,
   "nerfs_count": 51,
-  "adjustments_count": 128,
+  "adjustments_count": 130,
   "hero_adjustments": [
+    {
+      "id": 37,
+      "hero_id": 37,
+      "name": "Flowborn (Mage)",
+      "slug": "flowborn-mage",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 2 base damage and damage over time",
+      "details_raw": "Skill 2 (Starflow Cascade): Base damage increased from 250 (+50/lvl) (+50% AP) to 280 (+56/lvl) (+55% AP); Damage over time increased from 45 (+9/lvl) (+9% AP) to 50 (+10/lvl) (+10% AP).",
+      "skills_changed": [
+        {
+          "skill": "Skill 2 - Starflow Cascade",
+          "change": "Base damage: 250 (+50/lvl) (+50% AP) → 280 (+56/lvl) (+55% AP). DoT: 45 (+9/lvl) (+9% AP) → 50 (+10/lvl) (+10% AP)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/582/582.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20250519/17476507302714.png"
+    },
+    {
+      "id": 13,
+      "hero_id": 13,
+      "name": "Biron",
+      "slug": "biron",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 2 base damage, basic attack damage, and enhanced damage",
+      "details_raw": "Skill 2 (Storm Strike): Base damage changed from 150 (+30/lvl) (+75% AD) to 270 (+54/lvl) (+90% extra AD); Basic Attack damage changed from 200 (+40/lvl) (+100% AD) to 180 (+36/lvl) (+60% extra AD) (+100% AD); Enhanced damage changed from 300 (+60/lvl) (+150% AD) to 270 (+54/lvl) (+90% extra AD) (+150% AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 2 - Storm Strike",
+          "change": "Base damage: 150 (+30/lvl) (+75% AD) → 270 (+54/lvl) (+90% extra AD). Basic Attack: 200 (+40/lvl) (+100% AD) → 180 (+36/lvl) (+60% extra AD) (+100% AD). Enhanced damage: 300 (+60/lvl) (+150% AD) → 270 (+54/lvl) (+90% extra AD) (+150% AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/503/503.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20230530/16854401759481.png"
+    },
+    {
+      "id": 51,
+      "hero_id": 51,
+      "name": "Hou Yi",
+      "slug": "hou-yi",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 1 base damage and physical scaling",
+      "details_raw": "Skill 1 (Arrow Volley): Base damage increased from 100 (+20/lvl) (+75% AD) to 125 (+25/lvl) (+80% AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Arrow Volley",
+          "change": "Base damage: 100 (+20/lvl) (+75% AD) → 125 (+25/lvl) (+80% AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/169/169.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703951488689.png"
+    },
+    {
+      "id": 83,
+      "hero_id": 83,
+      "name": "Nakoruru",
+      "slug": "nakoruru",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 1 and Ultimate base and scaling damage",
+      "details_raw": "Skill 1 (Amube Yatoro): Base damage increased from 380 (+76/lvl) (+120% extra AD) to 400 (+80/lvl) (+125% extra AD). Ultimate (Kamui Mutsube): Base damage increased from 600 (+300/lvl) (+190% extra AD) to 700 (+350/lvl) (+195% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Amube Yatoro",
+          "change": "Base damage: 380 (+76/lvl) (+120% extra AD) → 400 (+80/lvl) (+125% extra AD)."
+        },
+        {
+          "skill": "Ultimate - Kamui Mutsube",
+          "change": "Base damage: 600 (+300/lvl) (+190% extra AD) → 700 (+350/lvl) (+195% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/162/162.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703944438909.png"
+    },
+    {
+      "id": 7,
+      "hero_id": 7,
+      "name": "Arli",
+      "slug": "arli",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Passive base damage and scaling",
+      "details_raw": "Passive (Falling Leaves): Base damage increased from 220–440 (+40% extra AD) to 230–460 (+55% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Passive - Falling Leaves",
+          "change": "Base damage: 220–440 (+40% extra AD) → 230–460 (+55% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/199/199.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703947593223.png"
+    },
+    {
+      "id": 40,
+      "hero_id": 40,
+      "name": "Fuzi",
+      "slug": "fuzi",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Reduced Passive and Ultimate base and scaling damage",
+      "details_raw": "Passive (Ancient Wisdom): Base damage reduced from 80–160 (+28% extra AD) to 65–130 (+23% extra AD). Ultimate (Sage's Might): Base damage reduced from 600 (+300/lvl) (+200% extra AD) to 500 (+250/lvl) (+185% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Passive - Ancient Wisdom",
+          "change": "Base damage: 80–160 (+28% extra AD) → 65–130 (+23% extra AD)."
+        },
+        {
+          "skill": "Ultimate - Sage's Might",
+          "change": "Base damage: 600 (+300/lvl) (+200% extra AD) → 500 (+250/lvl) (+185% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/139/139.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703947834261.png"
+    },
+    {
+      "id": 84,
+      "hero_id": 84,
+      "name": "Nezha",
+      "slug": "nezha",
+      "date": "2026-11-05",
+      "formatted_date": "Nov 05, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Reduced Skill 1 sweep and ember damage, and reduced Skill 3 scaling damage",
+      "details_raw": "Skill 1 (Fire-tipped Spear - Sweep): Base damage reduced from 345 (+115/lvl) (+105% extra AD) to 330 (+110/lvl) (+100% extra AD); Ember damage reduced from 45 (+15/lvl) (+20% extra AD) to 42 (+14/lvl) (+17% extra AD). Skill 3 (Universe Ring - Skyfall): Base damage changed from 450 (+150/lvl) (+170% extra AD) to 450 (+150/lvl) (+160% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Fire-tipped Spear - Sweep",
+          "change": "Base damage: 345 (+115/lvl) (+105% extra AD) → 330 (+110/lvl) (+100% extra AD). Ember damage: 45 (+15/lvl) (+20% extra AD) → 42 (+14/lvl) (+17% extra AD)."
+        },
+        {
+          "skill": "Skill 3 - Universe Ring - Skyfall",
+          "change": "Base damage: 450 (+150/lvl) (+170% extra AD) → 450 (+150/lvl) (+160% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/180/180.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703959482439.png"
+    },
     {
       "id": 93,
       "hero_id": 93,

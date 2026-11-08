@@ -60,7 +60,7 @@
     "tags": [
       "High_Mobility",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -177,7 +177,7 @@
       "DPS_Marksman",
       "Immobile_Carry",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -227,7 +227,7 @@
     "tags": [
       "Disengage",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -314,7 +314,7 @@
       "Hard_CC",
       "Suppression_Ult",
       "Targeted_CC",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -463,7 +463,7 @@
     "tags": [
       "Mid_Game_Spike",
       "Physical_Burst",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -524,7 +524,7 @@
     "tags": [
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_S"
+      "Tier_A"
     ]
   },
   {
@@ -613,7 +613,7 @@
       "DPS_Marksman",
       "Late_Hypercarry",
       "Physical_Burst",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -834,7 +834,7 @@
       "High_Sustain",
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -914,7 +914,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -1000,7 +1000,7 @@
       "Hard_CC",
       "High_Mobility",
       "Immunity_CC",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -1083,7 +1083,7 @@
       "Basic_Attack_Dependent",
       "High_Mobility",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -1154,7 +1154,7 @@
     "tags": [
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_C"
+      "Tier_B"
     ]
   },
   {

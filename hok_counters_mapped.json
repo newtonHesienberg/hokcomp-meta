@@ -226,7 +226,7 @@
     "roles": [
       "Jungle"
     ],
-    "tier": "Tier B",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 116,
@@ -730,7 +730,7 @@
       "Farm",
       "Jungle"
     ],
-    "tier": "Tier A",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 115,
@@ -1081,7 +1081,7 @@
       "Roam",
       "Mid"
     ],
-    "tier": "Tier A",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 10,
@@ -1643,7 +1643,7 @@
       "Roam",
       "Clash Lane"
     ],
-    "tier": "Tier A",
+    "tier": "Tier S",
     "strong_against": [
       {
         "id": 3,
@@ -2503,7 +2503,7 @@
     "roles": [
       "Jungle"
     ],
-    "tier": "Tier B",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 2,
@@ -3048,7 +3048,7 @@
     "roles": [
       "Mid"
     ],
-    "tier": "Tier S",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 78,
@@ -3527,7 +3527,7 @@
     "roles": [
       "Farm"
     ],
-    "tier": "Tier A",
+    "tier": "Tier S",
     "strong_against": [
       {
         "id": 27,
@@ -5099,7 +5099,7 @@
       "Clash Lane",
       "Jungle"
     ],
-    "tier": "Tier B",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 13,
@@ -5629,7 +5629,7 @@
     "roles": [
       "Mid"
     ],
-    "tier": "Tier A",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 81,
@@ -6207,7 +6207,7 @@
       "Clash Lane",
       "Jungle"
     ],
-    "tier": "Tier B",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 3,
@@ -6674,7 +6674,7 @@
     "roles": [
       "Jungle"
     ],
-    "tier": "Tier B",
+    "tier": "Tier C",
     "strong_against": [],
     "countered_by": [
       {
@@ -6999,7 +6999,7 @@
       "Mid",
       "Roam"
     ],
-    "tier": "Tier C",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 72,
