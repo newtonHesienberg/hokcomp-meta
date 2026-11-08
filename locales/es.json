@@ -416,7 +416,8 @@
     "build_label": "Build:",
     "analyzing_matchup_counters": "✨ Analizando counter-picks y builds de objetos situacionales...",
     "pick_heroes_analyze_hint": "Elige héroes arriba y toca Analizar para estrategia profunda de draft.",
-    "tap_enemy_slots_hint": "Toca las casillas enemigas de arriba para ver sugerencias de contraataque para tu línea."
+    "tap_enemy_slots_hint": "Toca las casillas enemigas de arriba para ver sugerencias de contraataque para tu línea.",
+    "get_optimized_build_advice": "Obtener Build y Consejos"
   },
   "tutorial": {
     "title": "Bienvenido a Aegis",

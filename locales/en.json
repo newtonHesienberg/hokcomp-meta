@@ -416,7 +416,8 @@
     "build_label": "Build:",
     "analyzing_matchup_counters": "✨ Analyzing matchup counters & situational item builds...",
     "pick_heroes_analyze_hint": "Pick heroes above, then tap Analyze for deep draft strategy.",
-    "tap_enemy_slots_hint": "Tap enemy slots above to see counter-pick suggestions for your lane."
+    "tap_enemy_slots_hint": "Tap enemy slots above to see counter-pick suggestions for your lane.",
+    "get_optimized_build_advice": "Get Optimized Build & Advice"
   },
   "tutorial": {
     "title": "Welcome to Aegis",

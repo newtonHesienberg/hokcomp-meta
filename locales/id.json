@@ -416,7 +416,8 @@
     "build_label": "Build:",
     "analyzing_matchup_counters": "✨ Menganalisis counter-pick dan build item situasional...",
     "pick_heroes_analyze_hint": "Pilih hero di atas, lalu ketuk Analisis untuk strategi draf mendalam.",
-    "tap_enemy_slots_hint": "Ketuk slot musuh di atas untuk melihat saran counter-pick untuk jalur Anda."
+    "tap_enemy_slots_hint": "Ketuk slot musuh di atas untuk melihat saran counter-pick untuk jalur Anda.",
+    "get_optimized_build_advice": "Dapatkan Build & Saran"
   },
   "tutorial": {
     "title": "Selamat Datang di Aegis",
