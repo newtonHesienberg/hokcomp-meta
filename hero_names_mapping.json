@@ -1247,5 +1247,52 @@
       "Mage",
       "Dark Orb"
     ]
+  },
+  {
+    "heroId": 117,
+    "inGameName": "Dunshan",
+    "realName": "Dunshan",
+    "title": "Shield Eternal",
+    "chineseName": "盾山",
+    "aliases": [
+      "Shieldshan",
+      "Dun Shan"
+    ]
+  },
+  {
+    "heroId": 118,
+    "inGameName": "Wang Wei",
+    "realName": "Wang Wei",
+    "title": "Mist Sage",
+    "chineseName": "王维",
+    "aliases": [
+      "Poet Buddha",
+      "Wangwei",
+      "Kongshan Yike"
+    ]
+  },
+  {
+    "heroId": 119,
+    "inGameName": "Flowborn (Assassin)",
+    "realName": "Flowborn",
+    "title": "Flowborn (Assassin)",
+    "chineseName": "元流之子 · 刺客",
+    "aliases": [
+      "Yuanliu Zhizi Assassin",
+      "Son of Flow Assassin",
+      "Flowborn Jungle"
+    ]
+  },
+  {
+    "heroId": 120,
+    "inGameName": "Flowborn (Roamer)",
+    "realName": "Flowborn",
+    "title": "Flowborn (Roamer)",
+    "chineseName": "元流之子 · 辅助",
+    "aliases": [
+      "Flowborn (Support)",
+      "Yuanliu Zhizi Support",
+      "Son of Flow Support"
+    ]
   }
 ]

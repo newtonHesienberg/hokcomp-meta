@@ -7710,5 +7710,186 @@
         "name": "Zhuangzi"
       }
     ]
+  },
+  {
+    "id": 117,
+    "name": "Dunshan",
+    "slug": "dunshan",
+    "roles": [
+      "Roam",
+      "Clash"
+    ],
+    "tier": "Tier S",
+    "strong_against": [
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 73,
+        "name": "Marco Polo"
+      },
+      {
+        "id": 20,
+        "name": "Consort Yu"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 68,
+        "name": "Lu Bu"
+      },
+      {
+        "id": 110,
+        "name": "Zhou Yu"
+      },
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
+        "id": 96,
+        "name": "Wang Zhaojun"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Wang Wei",
+    "slug": "wang-wei",
+    "roles": [
+      "Mid"
+    ],
+    "tier": "Tier A",
+    "strong_against": [
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 4,
+        "name": "Angela"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 27,
+        "name": "Diaochan"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Flowborn (Assassin)",
+    "slug": "flowborn-assassin",
+    "roles": [
+      "Jungle"
+    ],
+    "tier": "Tier B",
+    "strong_against": [
+      {
+        "id": 51,
+        "name": "Hou Yi"
+      },
+      {
+        "id": 70,
+        "name": "Luban No.7"
+      },
+      {
+        "id": 100,
+        "name": "Xiao Qiao"
+      },
+      {
+        "id": 41,
+        "name": "Gan & Mo"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 29,
+        "name": "Donghuang"
+      },
+      {
+        "id": 64,
+        "name": "Liang"
+      },
+      {
+        "id": 26,
+        "name": "Dian Wei"
+      },
+      {
+        "id": 66,
+        "name": "Liu Shan"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Flowborn (Roamer)",
+    "slug": "flowborn-roamer",
+    "roles": [
+      "Roam"
+    ],
+    "tier": "Tier B",
+    "strong_against": [
+      {
+        "id": 109,
+        "name": "Zhang Fei"
+      },
+      {
+        "id": 111,
+        "name": "Zhuangzi"
+      },
+      {
+        "id": 15,
+        "name": "Cai Yan"
+      },
+      {
+        "id": 75,
+        "name": "Ming"
+      }
+    ],
+    "countered_by": [
+      {
+        "id": 91,
+        "name": "Sima Yi"
+      },
+      {
+        "id": 47,
+        "name": "Guiguzi"
+      },
+      {
+        "id": 43,
+        "name": "Gao Changgong"
+      },
+      {
+        "id": 48,
+        "name": "Han Xin"
+      }
+    ]
   }
 ]

@@ -1247,5 +1247,65 @@
       "Magic_Burst",
       "Tier_C"
     ]
+  },
+  {
+    "heroId": 117,
+    "heroName": "Dunshan",
+    "pacing": "Early_Bully",
+    "tags": [
+      "Crowd_Control",
+      "Disengage",
+      "Early_Bully",
+      "Hard_CC",
+      "High_Armor",
+      "Shield_Dependent",
+      "Team_Utility",
+      "Tier_S"
+    ]
+  },
+  {
+    "heroId": 118,
+    "heroName": "Wang Wei",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Area_Damage",
+      "Crowd_Control",
+      "High_Mobility",
+      "Invulnerability_Frames",
+      "Magic_Burst",
+      "Mid_Game_Spike",
+      "Poke",
+      "Team_Utility",
+      "Tier_A"
+    ]
+  },
+  {
+    "heroId": 119,
+    "heroName": "Flowborn (Assassin)",
+    "pacing": "Mid_Game_Spike",
+    "tags": [
+      "Dive",
+      "Duelist",
+      "High_Mobility",
+      "High_Sustain",
+      "Mid_Game_Spike",
+      "Physical_Burst",
+      "Tier_B"
+    ]
+  },
+  {
+    "heroId": 120,
+    "heroName": "Flowborn (Roamer)",
+    "pacing": "Mid_Game",
+    "tags": [
+      "Area_Damage",
+      "Disengage",
+      "High_Regen",
+      "High_Sustain",
+      "Poke",
+      "Shield_Dependent",
+      "Team_Utility",
+      "Tier_B"
+    ]
   }
 ]

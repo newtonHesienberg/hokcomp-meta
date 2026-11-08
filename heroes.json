@@ -1526,6 +1526,57 @@
                 "Mage"
             ],
             "image_file": "lorion.png"
+        },
+        {
+            "id": 117,
+            "name": "Dunshan",
+            "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [
+                "Clash"
+            ],
+            "damageType": "Physical",
+            "roles": [
+                "Support",
+                "Tank"
+            ],
+            "image_file": "dunshan.png"
+        },
+        {
+            "id": 118,
+            "name": "Wang Wei",
+            "role": "Mage",
+            "primaryLane": "Mid",
+            "secondaryLanes": [],
+            "damageType": "Magic",
+            "roles": [
+                "Mage"
+            ],
+            "image_file": "wang_wei.png"
+        },
+        {
+            "id": 119,
+            "name": "Flowborn (Assassin)",
+            "role": "Assassin",
+            "primaryLane": "Jungle",
+            "secondaryLanes": [],
+            "damageType": "Physical",
+            "roles": [
+                "Assassin"
+            ],
+            "image_file": "flowborn_assassin.png"
+        },
+        {
+            "id": 120,
+            "name": "Flowborn (Roamer)",
+            "role": "Support",
+            "primaryLane": "Roam",
+            "secondaryLanes": [],
+            "damageType": "Magic",
+            "roles": [
+                "Support"
+            ],
+            "image_file": "flowborn_roamer.png"
         }
     ],
     "tags": [
@@ -2780,6 +2831,134 @@
         {
             "heroId": 116,
             "tag": "Crowd_Control"
+        },
+        {
+            "heroId": 117,
+            "tag": "Crowd_Control"
+        },
+        {
+            "heroId": 117,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 117,
+            "tag": "Early_Bully"
+        },
+        {
+            "heroId": 117,
+            "tag": "Hard_CC"
+        },
+        {
+            "heroId": 117,
+            "tag": "High_Armor"
+        },
+        {
+            "heroId": 117,
+            "tag": "Shield_Dependent"
+        },
+        {
+            "heroId": 117,
+            "tag": "Team_Utility"
+        },
+        {
+            "heroId": 117,
+            "tag": "Tier_S"
+        },
+        {
+            "heroId": 118,
+            "tag": "Area_Damage"
+        },
+        {
+            "heroId": 118,
+            "tag": "Crowd_Control"
+        },
+        {
+            "heroId": 118,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 118,
+            "tag": "Invulnerability_Frames"
+        },
+        {
+            "heroId": 118,
+            "tag": "Magic_Burst"
+        },
+        {
+            "heroId": 118,
+            "tag": "Mid_Game_Spike"
+        },
+        {
+            "heroId": 118,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 118,
+            "tag": "Team_Utility"
+        },
+        {
+            "heroId": 118,
+            "tag": "Tier_A"
+        },
+        {
+            "heroId": 119,
+            "tag": "Dive"
+        },
+        {
+            "heroId": 119,
+            "tag": "Duelist"
+        },
+        {
+            "heroId": 119,
+            "tag": "High_Mobility"
+        },
+        {
+            "heroId": 119,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 119,
+            "tag": "Mid_Game_Spike"
+        },
+        {
+            "heroId": 119,
+            "tag": "Physical_Burst"
+        },
+        {
+            "heroId": 119,
+            "tag": "Tier_B"
+        },
+        {
+            "heroId": 120,
+            "tag": "Area_Damage"
+        },
+        {
+            "heroId": 120,
+            "tag": "Disengage"
+        },
+        {
+            "heroId": 120,
+            "tag": "High_Regen"
+        },
+        {
+            "heroId": 120,
+            "tag": "High_Sustain"
+        },
+        {
+            "heroId": 120,
+            "tag": "Poke"
+        },
+        {
+            "heroId": 120,
+            "tag": "Shield_Dependent"
+        },
+        {
+            "heroId": 120,
+            "tag": "Team_Utility"
+        },
+        {
+            "heroId": 120,
+            "tag": "Tier_B"
         }
     ],
     "counters": [
