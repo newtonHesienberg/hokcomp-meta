@@ -430,7 +430,7 @@
     "get_optimized_build_advice": "Obter Build e Dicas",
     "pick_screenshot_title": "Escolher Captura do Placar",
     "pick_screenshot_desc": "Selecione uma captura do placar da partida para escanear builds inimigas e itens de contra-ataque.",
-    "pick_screenshot_btn": "Escolher 📷"
+    "pick_screenshot_btn": "Escolher"
   },
   "tutorial": {
     "title": "Bem-vindo ao Aegis",

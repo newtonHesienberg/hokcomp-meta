@@ -430,7 +430,7 @@
     "get_optimized_build_advice": "Obtener Build y Consejos",
     "pick_screenshot_title": "Elegir Captura del Marcador",
     "pick_screenshot_desc": "Selecciona una captura del marcador para escanear las builds enemigas y objetos de counter.",
-    "pick_screenshot_btn": "Elegir 📷"
+    "pick_screenshot_btn": "Elegir"
   },
   "tutorial": {
     "title": "Bienvenido a Aegis",

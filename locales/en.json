@@ -430,7 +430,7 @@
     "get_optimized_build_advice": "Get Optimized Build & Advice",
     "pick_screenshot_title": "Pick Scoreboard Screenshot",
     "pick_screenshot_desc": "Select a match scoreboard screenshot to scan live enemy builds and counter items.",
-    "pick_screenshot_btn": "Pick 📷"
+    "pick_screenshot_btn": "Pick"
   },
   "tutorial": {
     "title": "Welcome to Aegis",
