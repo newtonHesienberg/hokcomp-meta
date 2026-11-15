@@ -246,7 +246,8 @@
         "id": 90,
         "name": "Shouyue"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 7,
@@ -369,7 +370,8 @@
         "id": 115,
         "name": "Annette"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 9,
@@ -667,7 +669,8 @@
         "id": 109,
         "name": "Zhang Fei"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 15,
@@ -754,7 +757,8 @@
         "id": 83,
         "name": "Nakoruru"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 17,
@@ -900,7 +904,8 @@
         "id": 115,
         "name": "Annette"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 18,
@@ -934,7 +939,8 @@
         "id": 90,
         "name": "Shouyue"
       }
-    ]
+    ],
+    "previous_tier": "Tier S"
   },
   {
     "id": 19,
@@ -1125,7 +1131,8 @@
         "id": 99,
         "name": "Xiang Yu"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 22,
@@ -1202,7 +1209,8 @@
         "id": 68,
         "name": "Lu Bu"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 24,
@@ -1248,7 +1256,8 @@
         "id": 111,
         "name": "Zhuangzi"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 25,
@@ -1633,7 +1642,8 @@
         "id": 116,
         "name": "Lorion"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 29,
@@ -1823,7 +1833,8 @@
         "id": 110,
         "name": "Zhou Yu"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 30,
@@ -2119,7 +2130,8 @@
         "id": 68,
         "name": "Lu Bu"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 36,
@@ -2147,7 +2159,8 @@
         "id": 109,
         "name": "Zhang Fei"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 37,
@@ -2655,7 +2668,8 @@
         "id": 109,
         "name": "Zhang Fei"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 44,
@@ -3076,7 +3090,8 @@
         "id": 93,
         "name": "Sun Ce"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 50,
@@ -3411,7 +3426,8 @@
         "id": 115,
         "name": "Annette"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 55,
@@ -3563,7 +3579,8 @@
         "id": 72,
         "name": "Mai Shiranui"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 58,
@@ -3729,7 +3746,8 @@
         "id": 109,
         "name": "Zhang Fei"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 60,
@@ -3899,7 +3917,8 @@
         "id": 81,
         "name": "Mulan"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 63,
@@ -4706,7 +4725,8 @@
         "id": 102,
         "name": "Yang Jian"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 72,
@@ -5163,7 +5183,8 @@
         "id": 104,
         "name": "Yao"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 78,
@@ -5224,7 +5245,8 @@
         "id": 116,
         "name": "Lorion"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 79,
@@ -5681,7 +5703,8 @@
         "id": 91,
         "name": "Sima Yi"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 86,
@@ -6283,7 +6306,8 @@
         "id": 115,
         "name": "Annette"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 94,
@@ -6370,7 +6394,8 @@
         "id": 109,
         "name": "Zhang Fei"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 96,
@@ -6411,7 +6436,8 @@
         "id": 116,
         "name": "Lorion"
       }
-    ]
+    ],
+    "previous_tier": "Tier S"
   },
   {
     "id": 97,
@@ -6721,7 +6747,8 @@
         "id": 111,
         "name": "Zhuangzi"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 102,
@@ -6936,7 +6963,8 @@
         "id": 113,
         "name": "Ziya"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 107,
@@ -7035,7 +7063,8 @@
         "id": 106,
         "name": "Ying"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 109,
@@ -7515,7 +7544,8 @@
         "id": 68,
         "name": "Lu Bu"
       }
-    ]
+    ],
+    "previous_tier": "Tier S"
   },
   {
     "id": 115,
@@ -7709,7 +7739,8 @@
         "id": 111,
         "name": "Zhuangzi"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 117,
