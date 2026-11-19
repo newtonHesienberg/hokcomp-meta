@@ -60,7 +60,7 @@
     "tags": [
       "High_Mobility",
       "Mid_Game_Spike",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -144,7 +144,7 @@
       "High_Regen",
       "High_Sustain",
       "Shield_Dependent",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -166,7 +166,7 @@
       "Early_Bully",
       "High_Regen",
       "High_Sustain",
-      "Tier_A"
+      "Tier_S"
     ]
   },
   {
@@ -227,7 +227,7 @@
     "tags": [
       "Disengage",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_A"
     ]
   },
   {
@@ -493,7 +493,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_C"
+      "Tier_B"
     ]
   },
   {
@@ -613,7 +613,7 @@
       "DPS_Marksman",
       "Late_Hypercarry",
       "Physical_Burst",
-      "Tier_S"
+      "Tier_A"
     ]
   },
   {
@@ -657,7 +657,7 @@
       "High_Mobility",
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_C"
+      "Tier_B"
     ]
   },
   {
@@ -895,7 +895,7 @@
       "High_Mobility",
       "Mid_Game_Spike",
       "Physical_Burst",
-      "Tier_C"
+      "Tier_B"
     ]
   },
   {
@@ -1113,7 +1113,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_C"
+      "Tier_B"
     ]
   },
   {
@@ -1154,7 +1154,7 @@
     "tags": [
       "Invulnerability_Frames",
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -1208,7 +1208,7 @@
     "pacing": "Mid_Game_Spike",
     "tags": [
       "Mid_Game_Spike",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -1221,7 +1221,7 @@
       "High_Mobility",
       "High_Sustain",
       "Immunity_CC",
-      "Tier_B"
+      "Tier_C"
     ]
   },
   {
@@ -1276,7 +1276,7 @@
       "Mid_Game_Spike",
       "Poke",
       "Team_Utility",
-      "Tier_A"
+      "Tier_B"
     ]
   },
   {
@@ -1305,7 +1305,7 @@
       "Poke",
       "Shield_Dependent",
       "Team_Utility",
-      "Tier_B"
+      "Tier_C"
     ]
   }
 ]

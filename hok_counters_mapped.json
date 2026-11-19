@@ -226,7 +226,7 @@
     "roles": [
       "Jungle"
     ],
-    "tier": "Tier A",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 116,
@@ -247,7 +247,7 @@
         "name": "Shouyue"
       }
     ],
-    "previous_tier": "Tier B"
+    "previous_tier": "Tier A"
   },
   {
     "id": 7,
@@ -552,7 +552,7 @@
     "roles": [
       "Clash Lane"
     ],
-    "tier": "Tier B",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 17,
@@ -628,7 +628,8 @@
         "id": 115,
         "name": "Annette"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 14,
@@ -679,7 +680,7 @@
     "roles": [
       "Roam"
     ],
-    "tier": "Tier A",
+    "tier": "Tier S",
     "strong_against": [
       {
         "id": 8,
@@ -723,7 +724,8 @@
         "id": 116,
         "name": "Lorion"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 16,
@@ -1087,7 +1089,7 @@
       "Roam",
       "Mid"
     ],
-    "tier": "Tier B",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 10,
@@ -1132,7 +1134,7 @@
         "name": "Xiang Yu"
       }
     ],
-    "previous_tier": "Tier A"
+    "previous_tier": "Tier B"
   },
   {
     "id": 22,
@@ -2803,7 +2805,7 @@
     "roles": [
       "Clash Lane"
     ],
-    "tier": "Tier C",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 1,
@@ -2911,7 +2913,8 @@
         "id": 92,
         "name": "Sun Bin"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 47,
@@ -3543,7 +3546,7 @@
     "roles": [
       "Farm"
     ],
-    "tier": "Tier S",
+    "tier": "Tier A",
     "strong_against": [
       {
         "id": 27,
@@ -3580,7 +3583,7 @@
         "name": "Mai Shiranui"
       }
     ],
-    "previous_tier": "Tier A"
+    "previous_tier": "Tier S"
   },
   {
     "id": 58,
@@ -3784,7 +3787,7 @@
     "roles": [
       "Jungle"
     ],
-    "tier": "Tier C",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 4,
@@ -3864,7 +3867,8 @@
         "id": 109,
         "name": "Zhang Fei"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 62,
@@ -5481,7 +5485,7 @@
     "roles": [
       "Jungle"
     ],
-    "tier": "Tier C",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 10,
@@ -5589,7 +5593,8 @@
         "id": 110,
         "name": "Zhou Yu"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 84,
@@ -6825,7 +6830,7 @@
       "Jungle",
       "Clash Lane"
     ],
-    "tier": "Tier C",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 4,
@@ -6853,7 +6858,8 @@
         "id": 81,
         "name": "Mulan"
       }
-    ]
+    ],
+    "previous_tier": "Tier C"
   },
   {
     "id": 105,
@@ -7027,7 +7033,7 @@
       "Mid",
       "Roam"
     ],
-    "tier": "Tier B",
+    "tier": "Tier C",
     "strong_against": [
       {
         "id": 72,
@@ -7064,7 +7070,7 @@
         "name": "Ying"
       }
     ],
-    "previous_tier": "Tier C"
+    "previous_tier": "Tier B"
   },
   {
     "id": 109,
@@ -7403,7 +7409,7 @@
       "Mid",
       "Roam"
     ],
-    "tier": "Tier B",
+    "tier": "Tier C",
     "strong_against": [
       {
         "id": 27,
@@ -7451,7 +7457,8 @@
         "id": 104,
         "name": "Yao"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   },
   {
     "id": 114,
@@ -7460,7 +7467,7 @@
     "roles": [
       "Clash"
     ],
-    "tier": "Tier B",
+    "tier": "Tier C",
     "strong_against": [
       {
         "id": 8,
@@ -7545,7 +7552,7 @@
         "name": "Lu Bu"
       }
     ],
-    "previous_tier": "Tier S"
+    "previous_tier": "Tier B"
   },
   {
     "id": 115,
@@ -7795,7 +7802,7 @@
     "roles": [
       "Mid"
     ],
-    "tier": "Tier A",
+    "tier": "Tier B",
     "strong_against": [
       {
         "id": 70,
@@ -7831,7 +7838,8 @@
         "id": 48,
         "name": "Han Xin"
       }
-    ]
+    ],
+    "previous_tier": "Tier A"
   },
   {
     "id": 119,
@@ -7885,7 +7893,7 @@
     "roles": [
       "Roam"
     ],
-    "tier": "Tier B",
+    "tier": "Tier C",
     "strong_against": [
       {
         "id": 109,
@@ -7921,6 +7929,7 @@
         "id": 48,
         "name": "Han Xin"
       }
-    ]
+    ],
+    "previous_tier": "Tier B"
   }
 ]

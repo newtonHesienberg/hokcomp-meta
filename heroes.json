@@ -2898,7 +2898,7 @@
         },
         {
             "heroId": 118,
-            "tag": "Tier_A"
+            "tag": "Tier_B"
         },
         {
             "heroId": 119,
@@ -2958,7 +2958,7 @@
         },
         {
             "heroId": 120,
-            "tag": "Tier_B"
+            "tag": "Tier_C"
         }
     ],
     "counters": [

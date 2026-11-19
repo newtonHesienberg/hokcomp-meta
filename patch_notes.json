@@ -1,11 +1,236 @@
 {
-  "fetched_at": "2026-11-05T01:00:00.000000Z",
+  "fetched_at": "2026-11-17T01:00:00.000000Z",
   "source": "https://hokstats.gg/patch-notes/",
-  "total_heroes_changed": 374,
-  "buffs_count": 192,
+  "total_heroes_changed": 383,
+  "buffs_count": 196,
   "nerfs_count": 51,
-  "adjustments_count": 130,
+  "adjustments_count": 135,
   "hero_adjustments": [
+    {
+      "id": 14,
+      "hero_id": 14,
+      "name": "Butterfly",
+      "slug": "butterfly",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Mechanics Upgrade",
+      "summary": "Quality upgrade: shadow blade multi-target damage on S1, instant S2 attack speed and enhanced double strikes, and immediate healing on Ultimate",
+      "details_raw": "Skill 1 (Whirlwind): Shadow blade deals an additional 25% physical damage per target hit; Shield changed from 250 (+50/lvl) (+75% AD) to 525 (+105/lvl) (+8% extra HP); Movement speed boost changed to 140 (+28/lvl) up to 2 stacks; Base damage changed from 240 (+44/lvl) (+70% AD) to 340 (+68/lvl) (+110% extra AD). Skill 2 (Sword Propel): Attack Speed bonus (+40% +8%/lvl, 2 stacks) granted immediately upon skill use (no longer grants crit rate); Added three enhanced basic attacks striking twice (1st: 30 (+6/lvl) (+10% extra AD) physical; 2nd: 30 (+6/lvl) (+10% extra AD) magic guaranteed crit); Base damage changed to 250 (+50/lvl) (+80% extra AD) physical with first target receiving extra 100 (+20/lvl) (+30% extra AD) magic guaranteed crit; Slow changed to 30% (+6%/lvl) for 1.5s affecting all targets. Ultimate (Backstab): Health recovery from damage dealt to marked targets is now immediately applied at 12.5% (+6.25%/lvl) (halved vs non-heroes); Base damage changed from 400 (+200/lvl) (+90% AD) to 450 (+225/lvl) (+150% extra AD); Basic attack damage reduction: 15% (+7.5%/lvl); Basic attacks hitting any units reduce S1/S2 cooldowns by 10%.",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Whirlwind",
+          "change": "Multi-target: Shadow blade deals +25% physical damage per target. Shield: 250 (+50/lvl) (+75% AD) → 525 (+105/lvl) (+8% extra HP). Movement Speed: 50% diminishing → 140 (+28/lvl) (stacks up to 2x). Base damage: 240 (+44/lvl) (+70% AD) → 340 (+68/lvl) (+110% extra AD)."
+        },
+        {
+          "skill": "Skill 2 - Sword Propel",
+          "change": "AS bonus: 40% (+8%/lvl) (stacks up to 2x) granted on skill cast (Crit Rate removed). Enhanced Basic Attacks: 3 double-strikes (Strike 1: 30 (+6/lvl) (+10% extra AD) physical; Strike 2: 30 (+6/lvl) (+10% extra AD) magic guaranteed crit). Base damage: 220 (+44/lvl) (+65% AD) → 250 (+50/lvl) (+80% extra AD) + first target takes extra 100 (+20/lvl) (+30% extra AD) magic guaranteed crit. Slow: 30% (+6%/lvl) for 1.5s to all targets."
+        },
+        {
+          "skill": "Ultimate - Backstab",
+          "change": "Healing: 12.5% (+6.25%/lvl) of damage dealt to marked targets converted immediately (halved vs non-heroes). Base damage: 400 (+200/lvl) (+90% AD) → 450 (+225/lvl) (+150% extra AD). BA Damage Reduction: 50% → 15% (+7.5%/lvl). Cooldown reduction: Basic attacks hitting any unit reduce S1/S2 cooldown by 10%."
+        }
+      ],
+      "avatar_url": "/heroes-icons/butterfly.png",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20240111/17049607014585.png"
+    },
+    {
+      "id": 30,
+      "hero_id": 30,
+      "name": "Dr Bian",
+      "slug": "dr-bian",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Mechanics Upgrade",
+      "summary": "Quality upgrade: added teammate resurrection passive, ground explosion on S1, reworked S2 into knock-up poison orb, and execute threshold on Ultimate",
+      "details_raw": "Passive (Malicious Practice): New Resurrection Ability allowing Dr Bian to resurrect one fallen teammate (60s cooldown, +1 use per Ultimate level up); Healing mark affects up to 3 allies; Poison mark damage: 20 (+1.43/lvl) (+5% AP)/s → 18 (+1.29/lvl) (+3.5% AP)/s; Healing mark restoration: 3 (+0.21/lvl) (+2.5% AP) → 3 (+0.21/lvl) (+1% extra AP); Healing mark extra recovery: +0.15% extra HP → +15% extra HP. Skill 1 (Deadly Panacea): Added explosive impact damage: 170 (+34/lvl) (+34% AP); Poison DoT: 65 (+13/lvl) (+14% AP) → 60 (+12/lvl) (+12% AP) for 4s; Slow: 30% for 2s → 30% (+6%/lvl) for 0.75s; Vial stocking interval: 12.5s (-0.5s/lvl) → 8.5s to 7s based on level. Skill 2 (Forbidden Formula, renamed from Fatal Diagnosis): Reworked into throwing a poison orb that explodes on impact, dealing damage and launching enemies for 0.67s, dealing secondary damage after 1.5s; Passing through S1 Deadly Panacea enhances orb up to 2 times (+flight speed, range, explosion area, +25% damage); Ally healing removed; Phase 1 damage: 130 (+26/lvl) (+30% AP) → 100 (+20/lvl) (+20% AP); Phase 2 damage: 150 (+30/lvl) (+30% AP); Cooldown: 5s (-0.2s/lvl) → 10s (-0.4s/lvl). Ultimate (Master of Life): New Grievous Effect instantly defeats non-epic enemies whose HP is lower than detonation + total poison damage; Detonation damage: 150 (+75/lvl) (+40% AP) → 200 (+100/lvl) (+40% AP); Cooldown: 15s (-1.5s/lvl) → 20s (-2s/lvl).",
+      "skills_changed": [
+        {
+          "skill": "Passive - Malicious Practice",
+          "change": "New Teammate Resurrection: Resurrect one fallen ally (60s CD, +1 charge per Ultimate level). Healing mark now affects up to 3 allies. Poison DoT: 20 (+1.43/lvl) (+5% AP) → 18 (+1.29/lvl) (+3.5% AP)/s. Healing Mark restoration: 3 (+0.21/lvl) (+2.5% AP) → 3 (+0.21/lvl) (+1% extra AP). Extra recovery: +0.15% extra HP → +15% extra HP."
+        },
+        {
+          "skill": "Skill 1 - Deadly Panacea",
+          "change": "Explosive Damage (New): 170 (+34/lvl) (+34% AP) upon ground impact. Poison DoT: 65 (+13/lvl) (+14% AP) → 60 (+12/lvl) (+12% AP) for 4s. Slow: 30% for 2s → 30% (+6%/lvl) for 0.75s. Vial stocking: 12.5s (-0.5s/lvl) → 8.5s–7s."
+        },
+        {
+          "skill": "Skill 2 - Forbidden Formula",
+          "change": "Skill Rework: Throws poison orb exploding on impact, dealing damage and knocking up targets for 0.67s, with secondary explosion after 1.5s. Enhances up to 2x when flying through S1 (+flight speed, range, explosion radius, +25% damage). Removed ally heal. Phase 1: 100 (+20/lvl) (+20% AP). Phase 2: 150 (+30/lvl) (+30% AP). Cooldown: 5s (-0.2s/lvl) → 10s (-0.4s/lvl)."
+        },
+        {
+          "skill": "Ultimate - Master of Life",
+          "change": "New Grievous Execute: Detonation instantly defeats targets with HP below (detonation damage + poison mark damage). Detonation damage: 150 (+75/lvl) (+40% AP) → 200 (+100/lvl) (+40% AP). Cooldown: 15s (-1.5s/lvl) → 20s (-2s/lvl)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/119.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703970052394.png"
+    },
+    {
+      "id": 49,
+      "hero_id": 49,
+      "name": "Haya",
+      "slug": "haya",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Mechanics Upgrade",
+      "summary": "Quality upgrade: wall bounce and self-heal mechanics for S1 inside mirage, and increased Ultimate cooldown acceleration",
+      "details_raw": "Skill 1 (Crescent Wave): Added stacking slow: 7.5% (+1.5%/lvl); Added bounce mechanic within mirage: bounces off walls, dealing 33% original damage to enemies, or vanishes and recovers 200 (+40/lvl) (+3% extra HP) when hitting Haya; Base damage: 350 (+70/lvl) (+75% AP) → 325 (+65/lvl) (+65% AP); True damage: 100 (+20/lvl) (+22% AP) → 75 (+14/lvl) (+14% AP). Skill 2 (Wayward Rays): Main orb damage: 120 (+24/lvl) (+22% AP) → 115 (+23/lvl) (+23% AP); Secondary orb damage: 60 (+12/lvl) (+11% AP) → 50 (+10/lvl) (+10% AP). Ultimate (Moonscape Mirage): Damage reduction: 50% (+10%/lvl) → 30% (+15%/lvl); Shield: 300 (+240/lvl) (+70% AP) → 470 (+235/lvl) (+7% extra HP); Cooldown speed bonus: 50% → 60%.",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Crescent Wave",
+          "change": "Slow (New): 7.5% (+1.5%/lvl) stackable. Mirage Bounce (New): Bounces off walls dealing 33% damage, or vanishes and heals Haya for 200 (+40/lvl) (+3% extra HP). Base damage: 350 (+70/lvl) (+75% AP) → 325 (+65/lvl) (+65% AP). True damage: 100 (+20/lvl) (+22% AP) → 75 (+14/lvl) (+14% AP)."
+        },
+        {
+          "skill": "Skill 2 - Wayward Rays",
+          "change": "Main orb: 120 (+24/lvl) (+22% AP) → 115 (+23/lvl) (+23% AP). Secondary orb: 60 (+12/lvl) (+11% AP) → 50 (+10/lvl) (+10% AP)."
+        },
+        {
+          "skill": "Ultimate - Moonscape Mirage",
+          "change": "Damage Reduction: 50% (+10%/lvl) → 30% (+15%/lvl). Shield: 300 (+240/lvl) (+70% AP) → 470 (+235/lvl) (+7% extra HP). Cooldown speed increase: 50% → 60%."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/521/521.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20251128/17643166227055.png"
+    },
+    {
+      "id": 117,
+      "hero_id": 117,
+      "name": "Dunshan",
+      "slug": "dunshan",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 1 total shield value and extra Health scaling",
+      "details_raw": "Skill 1 (Bastion): Total shield increased from 900 (+180/lvl) (+18% extra HP) to 1,000 (+200/lvl) (+19% extra HP).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Bastion",
+          "change": "Total Shield: 900 (+180/lvl) (+18% extra HP) → 1,000 (+200/lvl) (+19% extra HP)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/509/509.jpg",
+      "fallback_avatar_url": "/heroes-icons/dunshan.png"
+    },
+    {
+      "id": 48,
+      "hero_id": 48,
+      "name": "Han Xin",
+      "slug": "han-xin",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Ultimate base damage and extra Physical Attack scaling",
+      "details_raw": "Ultimate (The Unrivaled Spear): Base damage increased from 250 (+125/lvl) (+65% extra AD) to 270 (+135/lvl) (+85% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Ultimate - The Unrivaled Spear",
+          "change": "Base damage: 250 (+125/lvl) (+65% extra AD) → 270 (+135/lvl) (+85% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/150/150.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703954731048.png"
+    },
+    {
+      "id": 109,
+      "hero_id": 109,
+      "name": "Zhang Fei",
+      "slug": "zhang-fei",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Skill 2 shield and damage immunity value",
+      "details_raw": "Skill 2 (Leaping Savior): Shield/damage immunity increased from 650 (+125/lvl) (+13% extra HP) to 700 (+140/lvl) (+13% extra HP).",
+      "skills_changed": [
+        {
+          "skill": "Skill 2 - Leaping Savior",
+          "change": "Damage Immunity/Shield: 650 (+125/lvl) (+13% extra HP) → 700 (+140/lvl) (+13% extra HP)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/171/171.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703953136885.png"
+    },
+    {
+      "id": 70,
+      "hero_id": 70,
+      "name": "Luban No.7",
+      "slug": "luban-no-7",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "buff",
+      "tag": "Stat Buffs",
+      "summary": "Increased Passive max Health scaling and Skill 2 extra Physical Attack scaling",
+      "details_raw": "Passive (Suppressive Fire): Base damage increased from 65–130 (+4% max HP) to 70–140 (+4.5% max HP). Skill 2 (Shark Cannon): Base damage changed from 450 (+90/lvl) (+100% extra AD) to 450 (+90/lvl) (+125% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Passive - Suppressive Fire",
+          "change": "Base damage: 65–130 (+4% max HP) → 70–140 (+4.5% max HP)."
+        },
+        {
+          "skill": "Skill 2 - Shark Cannon",
+          "change": "Base damage scaling: 450 (+90/lvl) (+100% extra AD) → 450 (+90/lvl) (+125% extra AD)."
+        }
+      ],
+      "avatar_url": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/112/112.jpg",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20221207/16703960058508.png"
+    },
+    {
+      "id": 120,
+      "hero_id": 120,
+      "name": "Flowborn (Roamer)",
+      "slug": "flowborn-roamer",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Adjusted Ultimate base damage and Magical Attack scaling",
+      "details_raw": "Ultimate (Lingering Melody): Base damage adjusted from 92 (+46/lvl) (+14% AP) to 88 (+44/lvl) (+13% AP).",
+      "skills_changed": [
+        {
+          "skill": "Ultimate - Lingering Melody",
+          "change": "Base damage: 92 (+46/lvl) (+14% AP) → 88 (+44/lvl) (+13% AP)."
+        }
+      ],
+      "avatar_url": "/heroes-icons/flowborn_roamer.png",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20250519/17476507302714.png"
+    },
+    {
+      "id": 69,
+      "hero_id": 69,
+      "name": "Luara",
+      "slug": "luara",
+      "date": "2026-11-17",
+      "formatted_date": "Nov 17, 2026",
+      "season": "S16",
+      "type": "adjustment",
+      "tag": "Stat Changes",
+      "summary": "Adjusted Skill 1 base damage and Skill 2 scaling damage",
+      "details_raw": "Skill 1 (Deadly Fang): Base damage adjusted from 35 (+7/lvl) (+15% AD) to 30 (+6/lvl) (+14% AD). Skill 2 (Furtive Attack): Base damage adjusted from 450 (+90/lvl) (+140% extra AD) to 400 (+80/lvl) (+130% extra AD).",
+      "skills_changed": [
+        {
+          "skill": "Skill 1 - Deadly Fang",
+          "change": "Base damage: 35 (+7/lvl) (+15% AD) → 30 (+6/lvl) (+14% AD)."
+        },
+        {
+          "skill": "Skill 2 - Furtive Attack",
+          "change": "Base damage: 450 (+90/lvl) (+140% extra AD) → 400 (+80/lvl) (+130% extra AD)."
+        }
+      ],
+      "avatar_url": "/heroes-icons/luara.png",
+      "fallback_avatar_url": "https://world.honorofkings.com/zlkdatasys/images/image/20240612/17181825603881.png"
+    },
     {
       "id": 37,
       "hero_id": 37,
