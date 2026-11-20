@@ -4,10 +4,10 @@
   "disclaimer_enabled": true,
   "disclaimer_version": "1.0.0",
   "ai_timeouts": {
-    "default_ai_timeout_ms": 7000,
-    "hero_recommendation_timeout_ms": 7000,
-    "item_recommendation_timeout_ms": 8000,
-    "scoreboard_scanner_timeout_ms": 10000
+    "default_ai_timeout_ms": 15000,
+    "hero_recommendation_timeout_ms": 15000,
+    "item_recommendation_timeout_ms": 15000,
+    "scoreboard_scanner_timeout_ms": 15000
   },
   "scoring": {
     "same_lane_multiplier": 2.5,
