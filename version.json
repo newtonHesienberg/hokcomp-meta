@@ -1,6 +1,6 @@
 {
-  "version": 18,
+  "version": 19,
   "season": "Season 16",
   "patch_date": "Nov 2026",
-  "description": "Nov 17 Update & Nov 13 Camp Meta Tier List: 120-hero tier adjustments and shift tracking"
+  "description": "Nov 20 Update: Config-driven AI timeouts, scoreboard scanner resilience, and stability polish"
 }
